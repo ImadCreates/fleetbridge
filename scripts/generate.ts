@@ -187,6 +187,28 @@ function inAnyIdle(windows: Array<[number, number]>, i: number): boolean {
   return windows.some(([s, e]) => i >= s && i <= e)
 }
 
+/**
+ * Pick an index in [lo, hi] that sits outside every idle window. Tries random
+ * indices first, then a deterministic linear scan, and as a last resort returns
+ * the range start. The caller always writes a burst at the returned index, so a
+ * burst is never silently skipped.
+ */
+function pickBurst(
+  rng: Rng,
+  lo: number,
+  hi: number,
+  idleWindows: Array<[number, number]>,
+): number {
+  for (let attempt = 0; attempt < 50; attempt++) {
+    const idx = randInt(rng, lo, hi)
+    if (!inAnyIdle(idleWindows, idx)) return idx
+  }
+  for (let idx = lo; idx <= hi; idx++) {
+    if (!inAnyIdle(idleWindows, idx)) return idx
+  }
+  return lo
+}
+
 function buildSpeedProfile(rng: Rng, n: number): SpeedProfile {
   const cruise = randRange(rng, 98, 110)
   const ramp = 9 // ~90s accelerating from a stop
@@ -217,11 +239,12 @@ function buildSpeedProfile(rng: Rng, n: number): SpeedProfile {
     for (let i = start; i <= end; i++) speed[i] = randRange(rng, 0, 2)
   }
 
-  // Guarantee a couple of clear speeding bursts above 100 km/h.
-  const burst1 = randInt(rng, ramp + 2, Math.floor(n / 2))
-  const burst2 = randInt(rng, Math.floor(n / 2), n - decel - 2)
+  // Place two clear speeding bursts above 100 km/h, each outside every idle
+  // window so neither gets overwritten back to a standstill.
+  const burst1 = pickBurst(rng, ramp + 2, Math.floor(n / 2), idleWindows)
+  const burst2 = pickBurst(rng, Math.floor(n / 2), n - decel - 2, idleWindows)
   for (const b of [burst1, burst2]) {
-    if (!inAnyIdle(idleWindows, b)) speed[b] = randRange(rng, 103, 109)
+    speed[b] = randRange(rng, 103, 109)
   }
 
   return { speed, idleWindows }

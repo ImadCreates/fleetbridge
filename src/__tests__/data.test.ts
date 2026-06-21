@@ -60,6 +60,40 @@ describe('canonical truth data', () => {
   })
 })
 
+describe('canonical safety events', () => {
+  it('has at least one event', () => {
+    expect(truth.events.length).toBeGreaterThan(0)
+  })
+
+  it('places every event within its vehicle location time span', () => {
+    const span = new Map<string, { min: number; max: number }>()
+    for (const loc of truth.locations) {
+      const t = Date.parse(loc.timestamp)
+      const cur = span.get(loc.vehicleId)
+      if (cur === undefined) {
+        span.set(loc.vehicleId, { min: t, max: t })
+      } else {
+        if (t < cur.min) cur.min = t
+        if (t > cur.max) cur.max = t
+      }
+    }
+    for (const event of truth.events) {
+      const bounds = span.get(event.vehicleId)
+      expect(bounds).toBeDefined()
+      const t = Date.parse(event.timestamp)
+      expect(t).toBeGreaterThanOrEqual(bounds!.min)
+      expect(t).toBeLessThanOrEqual(bounds!.max)
+    }
+  })
+
+  it('only references vehicle ids that exist', () => {
+    const ids = new Set(truth.vehicles.map((v) => v.id))
+    for (const event of truth.events) {
+      expect(ids.has(event.vehicleId)).toBe(true)
+    }
+  })
+})
+
 describe('raw provider files', () => {
   it('together hold the same ping count as the canonical truth', () => {
     const rawTotal = northwind.length + haulix.length + tracpoint.length
