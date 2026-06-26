@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url'
 import type { Location, SafetyEvent, Vehicle } from '../../model'
 import { getAdapter } from '../index'
 import { makeConfigAdapter } from '../configAdapter'
+import { normalizePings } from '../shared'
 
 interface Truth {
   vehicles: Vehicle[]
@@ -184,5 +185,26 @@ describe('config-driven adapter', () => {
     expect(events).toHaveLength(0)
     expect(locations[0].speedKmh).toBeCloseTo(90, 5) // 25 m/s -> 90 km/h
     expect(locations[0].timestamp).toBe('2026-06-15T13:00:00.000Z')
+  })
+})
+
+describe('event id disambiguation', () => {
+  it('gives two same-type events on one ping distinct ids', () => {
+    // A single synthetic ping that emits two harsh_brake events at the same
+    // timestamp would collide without the within-ping ordinal.
+    const pings = [{ ts: '2026-01-01T00:00:00.000Z' }]
+    const { events } = normalizePings('veh-1', pings, {
+      lat: () => 43.7,
+      lng: () => -79.4,
+      speedKmh: () => 50,
+      timestamp: (p) => p.ts,
+      events: (p) => [
+        { type: 'harsh_brake', timestamp: p.ts },
+        { type: 'harsh_brake', timestamp: p.ts },
+      ],
+    })
+    expect(events).toHaveLength(2)
+    expect(events[0].id).not.toBe(events[1].id)
+    expect(new Set(events.map((e) => e.id)).size).toBe(2)
   })
 })

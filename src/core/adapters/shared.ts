@@ -64,13 +64,19 @@ function computeHeadings(points: Array<{ lat: number; lng: number }>): number[] 
   return out
 }
 
-/** Stable, deterministic event id derived from vehicle, type, and time. */
+/**
+ * Stable, deterministic event id derived from vehicle, type, and time. When a
+ * single ping emits more than one event, pass the event's index within that
+ * ping as `ordinal` to keep ids unique even if type and timestamp collide.
+ */
 export function eventId(
   vehicleId: string,
   type: SafetyEventType,
   timestamp: string,
+  ordinal?: number,
 ): string {
-  return `${vehicleId}-${type}-${Date.parse(timestamp)}`
+  const base = `${vehicleId}-${type}-${Date.parse(timestamp)}`
+  return ordinal === undefined ? base : `${base}-${ordinal}`
 }
 
 export function normalizePings<P>(
@@ -95,16 +101,25 @@ export function normalizePings<P>(
 
     locations.push({ vehicleId, timestamp, lat, lng, speedKmh, headingDeg })
 
-    for (const event of ex.events(p)) {
+    // A ping may carry several events; disambiguate ids with the within-ping
+    // index only when there is more than one, so single-event ids stay clean.
+    const pingEvents = ex.events(p)
+    pingEvents.forEach((event, idx) => {
+      const id = eventId(
+        vehicleId,
+        event.type,
+        event.timestamp,
+        pingEvents.length > 1 ? idx : undefined,
+      )
       events.push({
-        id: eventId(vehicleId, event.type, event.timestamp),
+        id,
         vehicleId,
         type: event.type,
         timestamp: event.timestamp,
         lat,
         lng,
       })
-    }
+    })
   })
 
   return { locations, events }
