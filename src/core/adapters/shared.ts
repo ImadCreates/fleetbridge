@@ -11,8 +11,12 @@ export interface PingExtractors<P> {
   speedKmh(ping: P): number
   /** ISO 8601 timestamp for the ping. */
   timestamp(ping: P): string
-  /** Canonical event type for the ping, or null when it carries no event. */
-  eventType(ping: P): SafetyEventType | null
+  /**
+   * Canonical events carried by the ping, each with its own ISO 8601
+   * timestamp. Empty when the ping carries none. A single ping may carry more
+   * than one event.
+   */
+  events(ping: P): Array<{ type: SafetyEventType; timestamp: string }>
 }
 
 function toRad(d: number): number {
@@ -74,31 +78,33 @@ export function normalizePings<P>(
   pings: P[],
   ex: PingExtractors<P>,
 ): { locations: Location[]; events: SafetyEvent[] } {
+  // First pass: positions only, so heading can look ahead to the next fix.
   const points = pings.map((p) => ({ lat: ex.lat(p), lng: ex.lng(p) }))
   const headings = computeHeadings(points)
 
-  const locations: Location[] = pings.map((p, i) => ({
-    vehicleId,
-    timestamp: ex.timestamp(p),
-    lat: points[i].lat,
-    lng: points[i].lng,
-    speedKmh: ex.speedKmh(p),
-    headingDeg: headings[i],
-  }))
-
+  const locations: Location[] = []
   const events: SafetyEvent[] = []
+
+  // Second pass: each extractor is called exactly once per ping. Locations use
+  // the ping timestamp; each event keeps its own timestamp and the ping's point.
   pings.forEach((p, i) => {
-    const type = ex.eventType(p)
-    if (type === null) return
+    const { lat, lng } = points[i]
     const timestamp = ex.timestamp(p)
-    events.push({
-      id: eventId(vehicleId, type, timestamp),
-      vehicleId,
-      type,
-      timestamp,
-      lat: points[i].lat,
-      lng: points[i].lng,
-    })
+    const speedKmh = ex.speedKmh(p)
+    const headingDeg = headings[i]
+
+    locations.push({ vehicleId, timestamp, lat, lng, speedKmh, headingDeg })
+
+    for (const event of ex.events(p)) {
+      events.push({
+        id: eventId(vehicleId, event.type, event.timestamp),
+        vehicleId,
+        type: event.type,
+        timestamp: event.timestamp,
+        lat,
+        lng,
+      })
+    }
   })
 
   return { locations, events }

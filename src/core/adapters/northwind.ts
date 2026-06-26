@@ -36,8 +36,13 @@ export const northwindAdapter: ProviderAdapter = {
       lng: (p) => p.gps.lon,
       speedKmh: (p) => speedToKmh(p.spd_mph, 'mph'),
       timestamp: (p) => toIso(p.ts, 'epoch_ms'),
-      eventType: (p) =>
-        p.events.length > 0 ? (KIND_TO_TYPE[p.events[0].kind] ?? null) : null,
+      // Fan out every entry in the ping's events array, each with its own ts;
+      // unmapped kinds are dropped.
+      events: (p) =>
+        p.events.flatMap((e) => {
+          const type = KIND_TO_TYPE[e.kind]
+          return type ? [{ type, timestamp: toIso(e.ts, 'epoch_ms') }] : []
+        }),
     })
   },
 }

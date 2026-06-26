@@ -77,6 +77,33 @@ for (const providerId of ['northwind', 'haulix', 'tracpoint']) {
         expect(Math.abs(a.lng - e.lng)).toBeLessThanOrEqual(LATLNG_TOL)
       }
     })
+
+    // Heading and event id are not present in any raw payload: heading is
+    // derived from consecutive fixes and ids are generated. Comparing them to
+    // truth would fail by design, so they are checked as invariants instead.
+    it('derives valid headings and stable, unique event ids', () => {
+      const locations: Location[] = []
+      const events: SafetyEvent[] = []
+      for (const v of vehicles) {
+        const out = adapter!.normalize(rawByProvider[providerId], v)
+        locations.push(...out.locations)
+        events.push(...out.events)
+      }
+
+      for (const loc of locations) {
+        expect(Number.isFinite(loc.headingDeg)).toBe(true)
+        expect(loc.headingDeg).toBeGreaterThanOrEqual(0)
+        expect(loc.headingDeg).toBeLessThanOrEqual(360)
+      }
+
+      for (const ev of events) {
+        expect(typeof ev.id).toBe('string')
+        expect(ev.id.length).toBeGreaterThan(0)
+      }
+
+      const ids = events.map((e) => e.id)
+      expect(new Set(ids).size).toBe(ids.length)
+    })
   })
 }
 

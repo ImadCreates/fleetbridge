@@ -33,7 +33,12 @@ export const tracpointAdapter: ProviderAdapter = {
       lng: (p) => p.position.x, // x is longitude
       speedKmh: (p) => speedToKmh(p.velocity_ms, 'ms'),
       timestamp: (p) => toIso(p.time, 'unix_s'),
-      eventType: (p) => (p.evt !== 0 ? (EVT_TO_TYPE[p.evt] ?? null) : null),
+      // Zero or one event per ping, carrying the ping's own unix-seconds time.
+      events: (p) => {
+        if (p.evt === 0) return []
+        const type = EVT_TO_TYPE[p.evt]
+        return type ? [{ type, timestamp: toIso(p.time, 'unix_s') }] : []
+      },
     })
   },
 }

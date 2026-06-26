@@ -33,8 +33,12 @@ export const haulixAdapter: ProviderAdapter = {
       lng: (p) => p.longitude,
       speedKmh: (p) => speedToKmh(p.speed_kmph, 'kmh'),
       timestamp: (p) => toIso(p.recorded_at, 'iso'),
-      eventType: (p) =>
-        p.event_code !== null ? (CODE_TO_TYPE[p.event_code] ?? null) : null,
+      // Zero or one event per ping, carrying the ping's own ISO timestamp.
+      events: (p) => {
+        if (p.event_code === null) return []
+        const type = CODE_TO_TYPE[p.event_code]
+        return type ? [{ type, timestamp: toIso(p.recorded_at, 'iso') }] : []
+      },
     })
   },
 }

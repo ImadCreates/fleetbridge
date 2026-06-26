@@ -43,15 +43,21 @@ export function makeConfigAdapter(
     name,
     normalize(raw: unknown, vehicle: Vehicle) {
       const pings: unknown[] = Array.isArray(raw) ? raw : []
+      // getByPath returns the raw timestamp value; toIso accepts number|string.
+      const tsOf = (p: unknown): string =>
+        toIso(getByPath(p, config.timePath) as number | string, config.timeFormat)
       return normalizePings(vehicle.id, pings, {
         lat: (p) => Number(getByPath(p, config.latPath)),
         lng: (p) => Number(getByPath(p, config.lngPath)),
         speedKmh: (p) =>
           speedToKmh(Number(getByPath(p, config.speedPath)), config.speedUnit),
-        // getByPath returns the raw timestamp value; toIso accepts number|string.
-        timestamp: (p) =>
-          toIso(getByPath(p, config.timePath) as number | string, config.timeFormat),
-        eventType: (p) => mapEvent(p, config),
+        timestamp: tsOf,
+        // A config maps at most one event per ping; wrap it into the array
+        // contract, reusing the ping's own timestamp.
+        events: (p) => {
+          const type = mapEvent(p, config)
+          return type === null ? [] : [{ type, timestamp: tsOf(p) }]
+        },
       })
     },
   }
