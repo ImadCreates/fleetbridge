@@ -56,10 +56,13 @@ export function buildFleetSummary(summaries: VehicleSummary[]): FleetSummary {
     (acc, s) => acc + sumEventCounts(s.eventCounts),
     0,
   )
+  // Zero-distance vehicles score 100 only because there is no per-100km rate to
+  // penalize, so exclude them from the average rather than reading them as safe.
+  const movers = summaries.filter((s) => s.distanceKm > 0)
   const avgSafetyScore =
-    vehicleCount === 0
+    movers.length === 0
       ? 0
-      : summaries.reduce((acc, s) => acc + s.safetyScore, 0) / vehicleCount
+      : movers.reduce((acc, s) => acc + s.safetyScore, 0) / movers.length
   return {
     vehicleCount,
     totalDistanceKm: distanceSum,

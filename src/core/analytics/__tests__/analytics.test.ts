@@ -145,6 +145,23 @@ describe('summaries', () => {
     expect(fleet.avgSafetyScore).toBeCloseTo((a.safetyScore + b.safetyScore) / 2, 5)
   })
 
+  it('excludes zero-distance vehicles from the average safety score', () => {
+    const moving = buildVehicleSummary(vehicle, points, [event('speeding')])
+    const parked = buildVehicleSummary(
+      { ...vehicle, id: 'v2' },
+      [loc(0, 0), loc(10, 0)], // same point both fixes -> 0 km travelled
+      [],
+    )
+    expect(parked.distanceKm).toBe(0)
+    expect(parked.safetyScore).toBe(100) // per-vehicle: no rate to penalize
+
+    const fleet = buildFleetSummary([moving, parked])
+    expect(fleet.vehicleCount).toBe(2)
+    // Average over movers only: equals the moving score, not (score + 100) / 2.
+    expect(fleet.avgSafetyScore).toBeCloseTo(moving.safetyScore, 5)
+    expect(fleet.avgSafetyScore).not.toBeCloseTo((moving.safetyScore + 100) / 2, 5)
+  })
+
   it('returns a zero fleet summary for no vehicles', () => {
     expect(buildFleetSummary([])).toEqual({
       vehicleCount: 0,
