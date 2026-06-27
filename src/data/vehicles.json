@@ -1,0 +1,50 @@
+[
+  {
+    "id": "nw-01",
+    "label": "Northwind 01",
+    "providerId": "northwind",
+    "vin": "N94YP74HMML2SA78V"
+  },
+  {
+    "id": "nw-02",
+    "label": "Northwind 02",
+    "providerId": "northwind",
+    "vin": "25TPL9UVLKPU6SZ1S"
+  },
+  {
+    "id": "nw-03",
+    "label": "Northwind 03",
+    "providerId": "northwind",
+    "vin": "SKPH95XEDE2VCSED3"
+  },
+  {
+    "id": "hx-01",
+    "label": "Haulix 01",
+    "providerId": "haulix",
+    "vin": "GCD0TWTE522DN0CJ9"
+  },
+  {
+    "id": "hx-02",
+    "label": "Haulix 02",
+    "providerId": "haulix",
+    "vin": "PX2Y7NA98256AUTBY"
+  },
+  {
+    "id": "hx-03",
+    "label": "Haulix 03",
+    "providerId": "haulix",
+    "vin": "C78HPFN43G9JZW45M"
+  },
+  {
+    "id": "tp-01",
+    "label": "TracPoint 01",
+    "providerId": "tracpoint",
+    "vin": "2H4X0RGKJ7AYW0T6K"
+  },
+  {
+    "id": "tp-02",
+    "label": "TracPoint 02",
+    "providerId": "tracpoint",
+    "vin": "4E23R3FWKEDGHJ5T9"
+  }
+]
