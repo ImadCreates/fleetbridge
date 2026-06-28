@@ -16,9 +16,9 @@ export function formatSpeed(kmh: number): string {
   return Math.round(kmh).toString()
 }
 
-/** Safety score, integer 0 to 100. */
+/** Safety score, integer clamped to 0 to 100 so it cannot exceed its contract. */
 export function formatScore(score: number): string {
-  return Math.round(score).toString()
+  return Math.round(Math.min(100, Math.max(0, score))).toString()
 }
 
 /** Latitude or longitude, 5 decimals. */

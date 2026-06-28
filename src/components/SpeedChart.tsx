@@ -23,7 +23,8 @@ export function SpeedChart({ locations }: { locations: Location[] }) {
     time: formatTime(l.timestamp),
     speed: Math.round(l.speedKmh),
   }))
-  const interval = Math.max(1, Math.floor(data.length / 6))
+  // Short series: show every tick (interval 0). Longer series: thin to ~6 labels.
+  const interval = data.length <= 6 ? 0 : Math.floor(data.length / 6)
 
   return (
     <ResponsiveContainer width="100%" height={240}>

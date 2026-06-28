@@ -5,6 +5,7 @@ import { Layout } from './components/Layout'
 import { FleetOverview } from './pages/FleetOverview'
 import { VehicleDetail } from './pages/VehicleDetail'
 import { Placeholder } from './pages/Placeholder'
+import { NotFound } from './pages/NotFound'
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
               path="/add-provider"
               element={<Placeholder title="Add provider" />}
             />
+            <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
       </FleetProvider>

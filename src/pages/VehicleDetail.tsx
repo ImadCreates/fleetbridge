@@ -72,7 +72,7 @@ export function VehicleDetail() {
         <MetricCard label="Distance" value={formatKm(summary.distanceKm)} unit="km" />
         <MetricCard label="Avg speed" value={formatSpeed(summary.avgSpeedKmh)} unit="km/h" />
         <MetricCard label="Max speed" value={formatSpeed(summary.maxSpeedKmh)} unit="km/h" />
-        <MetricCard label="Idling" value={formatKm(summary.idlingMinutes)} unit="min" />
+        <MetricCard label="Idling" value={formatInt(summary.idlingMinutes)} unit="min" />
         <MetricCard label="Events" value={formatInt(totalEvents(summary.eventCounts))} />
         <MetricCard label="Safety" value={formatScore(summary.safetyScore)} />
       </div>

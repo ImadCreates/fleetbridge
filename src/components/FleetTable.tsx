@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 
 import { PROVIDERS } from '../core/model'
 import type { VehicleSummary } from '../core/analytics/summary'
@@ -75,15 +75,17 @@ export function FleetTable({ summaries }: { summaries: VehicleSummary[] }) {
           {rows.map(({ s, events }) => (
             <tr
               key={s.vehicle.id}
-              tabIndex={0}
               onClick={() => navigate(`/vehicle/${s.vehicle.id}`)}
-              onKeyDown={(e) => {
-                if (e.key === 'Enter') navigate(`/vehicle/${s.vehicle.id}`)
-              }}
-              className="cursor-pointer outline-none transition-colors hover:bg-slate-100 focus:bg-slate-100"
+              className="cursor-pointer transition-colors hover:bg-slate-100"
             >
-              <td className="px-3 py-2 font-medium text-slate-900">
-                {s.vehicle.label}
+              <td className="px-3 py-2">
+                <Link
+                  to={`/vehicle/${s.vehicle.id}`}
+                  onClick={(e) => e.stopPropagation()}
+                  className="rounded-sm font-medium text-slate-900 outline-none hover:text-indigo-600 focus-visible:ring-2 focus-visible:ring-indigo-600"
+                >
+                  {s.vehicle.label}
+                </Link>
               </td>
               <td className="px-3 py-2">
                 <ProviderTag

@@ -38,11 +38,21 @@ function computeFleet(): FleetData {
   const eventsByVehicle: Record<string, SafetyEvent[]> = {}
 
   for (const vehicle of VEHICLES) {
+    // Missing wiring is a defect, not zero telemetry: fail loudly so a vehicle
+    // never silently reads as having no locations or events.
     const adapter = getAdapter(vehicle.providerId)
-    const raw = RAW_BY_PROVIDER[vehicle.providerId] ?? []
-    const normalized = adapter
-      ? adapter.normalize(raw, vehicle)
-      : { locations: [], events: [] }
+    if (adapter === undefined) {
+      throw new Error(
+        `No adapter registered for provider "${vehicle.providerId}" (vehicle ${vehicle.id})`,
+      )
+    }
+    const raw = RAW_BY_PROVIDER[vehicle.providerId]
+    if (raw === undefined) {
+      throw new Error(
+        `No raw payload for provider "${vehicle.providerId}" (vehicle ${vehicle.id})`,
+      )
+    }
+    const normalized = adapter.normalize(raw, vehicle)
     locationsByVehicle[vehicle.id] = normalized.locations
     eventsByVehicle[vehicle.id] = normalized.events
   }
@@ -69,11 +79,29 @@ const FleetContext = createContext<FleetData | null>(null)
 
 export function FleetProvider({ children }: { children: ReactNode }) {
   const [data, setData] = useState<FleetData | null>(null)
+  const [error, setError] = useState<string | null>(null)
 
   // Normalize and aggregate once on mount; no fetch, all in memory.
   useEffect(() => {
-    setData(computeFleet())
+    try {
+      setData(computeFleet())
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Unknown error')
+    }
   }, [])
+
+  if (error !== null) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-slate-50 px-6">
+        <div className="max-w-md rounded-lg border border-slate-200 bg-white px-6 py-5 text-center">
+          <h1 className="text-sm font-semibold text-slate-900">
+            Failed to load fleet data
+          </h1>
+          <p className="mt-1 font-mono text-xs text-slate-500">{error}</p>
+        </div>
+      </div>
+    )
+  }
 
   if (data === null) {
     return (
