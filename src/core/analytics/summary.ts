@@ -13,6 +13,7 @@ import {
 export type VehicleSummary = {
   vehicle: Vehicle
   distanceKm: number
+  durationHours: number
   avgSpeedKmh: number
   maxSpeedKmh: number
   idlingMinutes: number
@@ -39,18 +40,17 @@ export function buildVehicleSummary(
   events: SafetyEvent[],
 ): VehicleSummary {
   const distanceKm = totalDistanceKm(locations)
+  const durationHours = tripDurationHours(locations)
   const eventCounts = countEventsByType(events)
   return {
     vehicle,
     distanceKm,
+    durationHours,
     avgSpeedKmh: averageSpeedKmh(locations),
     maxSpeedKmh: maxSpeedKmh(locations),
     idlingMinutes: idlingMinutes(locations),
     eventCounts,
-    safetyScore: safetyScore({
-      durationHours: tripDurationHours(locations),
-      eventCounts,
-    }),
+    safetyScore: safetyScore({ durationHours, eventCounts }),
   }
 }
 
@@ -72,13 +72,15 @@ export function buildFleetSummary(summaries: VehicleSummary[]): FleetSummary {
     (acc, s) => acc + sumEventCounts(s.eventCounts),
     0,
   )
-  // A vehicle that never moved contributes no real driving exposure, so exclude
-  // it from the average rather than letting its default-high score read as safe.
-  const movers = summaries.filter((s) => s.distanceKm > 0)
+  // Exclude only vehicles with no driving exposure (zero duration). This matches
+  // the per-hour scoring basis, so every vehicle that gets a real score on its
+  // detail page also counts toward the fleet average.
+  const withExposure = summaries.filter((s) => s.durationHours > 0)
   const avgSafetyScore =
-    movers.length === 0
+    withExposure.length === 0
       ? 0
-      : movers.reduce((acc, s) => acc + s.safetyScore, 0) / movers.length
+      : withExposure.reduce((acc, s) => acc + s.safetyScore, 0) /
+        withExposure.length
   return {
     vehicleCount,
     totalDistanceKm: distanceSum,

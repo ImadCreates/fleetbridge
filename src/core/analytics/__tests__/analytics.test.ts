@@ -148,21 +148,32 @@ describe('summaries', () => {
     expect(fleet.avgSafetyScore).toBeCloseTo((a.safetyScore + b.safetyScore) / 2, 5)
   })
 
-  it('excludes zero-distance vehicles from the average safety score', () => {
+  it('averages over driving exposure: includes zero-distance time, excludes zero-duration', () => {
     const moving = buildVehicleSummary(vehicle, points, [event('speeding')])
-    const parked = buildVehicleSummary(
-      { ...vehicle, id: 'v2' },
-      [loc(0, 0), loc(10, 0)], // same point both fixes -> 0 km travelled
-      [],
-    )
-    expect(parked.distanceKm).toBe(0)
-    expect(parked.safetyScore).toBe(100) // per-vehicle: no rate to penalize
 
-    const fleet = buildFleetSummary([moving, parked])
-    expect(fleet.vehicleCount).toBe(2)
-    // Average over movers only: equals the moving score, not (score + 100) / 2.
-    expect(fleet.avgSafetyScore).toBeCloseTo(moving.safetyScore, 5)
-    expect(fleet.avgSafetyScore).not.toBeCloseTo((moving.safetyScore + 100) / 2, 5)
+    // Same point for an hour with idling events: 0 km, but real time exposure
+    // and a genuine sub-100 score.
+    const parkedIdling = buildVehicleSummary(
+      { ...vehicle, id: 'v2' },
+      [loc(0, 0), loc(1800, 0), loc(3600, 0)],
+      [event('idling'), event('idling')],
+    )
+    expect(parkedIdling.distanceKm).toBe(0)
+    expect(parkedIdling.durationHours).toBeGreaterThan(0)
+    expect(parkedIdling.safetyScore).toBeLessThan(100)
+
+    // Both have exposure, so both count toward the average (filter is duration).
+    const withExposure = buildFleetSummary([moving, parkedIdling])
+    expect(withExposure.avgSafetyScore).toBeCloseTo(
+      (moving.safetyScore + parkedIdling.safetyScore) / 2,
+      5,
+    )
+
+    // A vehicle with no locations has zero duration and is excluded.
+    const zeroExposure = buildVehicleSummary({ ...vehicle, id: 'v3' }, [], [])
+    expect(zeroExposure.durationHours).toBe(0)
+    const onlyMover = buildFleetSummary([moving, zeroExposure])
+    expect(onlyMover.avgSafetyScore).toBeCloseTo(moving.safetyScore, 5)
   })
 
   it('returns a zero fleet summary for no vehicles', () => {
