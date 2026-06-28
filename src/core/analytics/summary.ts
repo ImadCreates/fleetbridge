@@ -13,11 +13,25 @@ import {
 export type VehicleSummary = {
   vehicle: Vehicle
   distanceKm: number
+  durationHours: number
   avgSpeedKmh: number
   maxSpeedKmh: number
   idlingMinutes: number
   eventCounts: Record<SafetyEventType, number>
   safetyScore: number
+}
+
+/** Trip duration in hours, from the earliest to the latest location timestamp. */
+function tripDurationHours(locations: Location[]): number {
+  if (locations.length < 2) return 0
+  let min = Infinity
+  let max = -Infinity
+  for (const location of locations) {
+    const t = Date.parse(location.timestamp)
+    if (t < min) min = t
+    if (t > max) max = t
+  }
+  return (max - min) / 3_600_000
 }
 
 export function buildVehicleSummary(
@@ -26,15 +40,17 @@ export function buildVehicleSummary(
   events: SafetyEvent[],
 ): VehicleSummary {
   const distanceKm = totalDistanceKm(locations)
+  const durationHours = tripDurationHours(locations)
   const eventCounts = countEventsByType(events)
   return {
     vehicle,
     distanceKm,
+    durationHours,
     avgSpeedKmh: averageSpeedKmh(locations),
     maxSpeedKmh: maxSpeedKmh(locations),
     idlingMinutes: idlingMinutes(locations),
     eventCounts,
-    safetyScore: safetyScore({ distanceKm, eventCounts }),
+    safetyScore: safetyScore({ durationHours, eventCounts }),
   }
 }
 
@@ -56,13 +72,15 @@ export function buildFleetSummary(summaries: VehicleSummary[]): FleetSummary {
     (acc, s) => acc + sumEventCounts(s.eventCounts),
     0,
   )
-  // Zero-distance vehicles score 100 only because there is no per-100km rate to
-  // penalize, so exclude them from the average rather than reading them as safe.
-  const movers = summaries.filter((s) => s.distanceKm > 0)
+  // Exclude only vehicles with no driving exposure (zero duration). This matches
+  // the per-hour scoring basis, so every vehicle that gets a real score on its
+  // detail page also counts toward the fleet average.
+  const withExposure = summaries.filter((s) => s.durationHours > 0)
   const avgSafetyScore =
-    movers.length === 0
+    withExposure.length === 0
       ? 0
-      : movers.reduce((acc, s) => acc + s.safetyScore, 0) / movers.length
+      : withExposure.reduce((acc, s) => acc + s.safetyScore, 0) /
+        withExposure.length
   return {
     vehicleCount,
     totalDistanceKm: distanceSum,

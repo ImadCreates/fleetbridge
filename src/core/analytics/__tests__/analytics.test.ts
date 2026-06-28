@@ -93,16 +93,18 @@ describe('countEventsByType', () => {
 
 describe('safetyScore', () => {
   it('is 100 with no events', () => {
-    expect(safetyScore({ distanceKm: 50, eventCounts: countEventsByType([]) })).toBe(100)
+    expect(
+      safetyScore({ durationHours: 1, eventCounts: countEventsByType([]) }),
+    ).toBe(100)
   })
-  it('subtracts the documented weighted penalty per 100 km', () => {
-    // (harsh_brake 2*1 + speeding 3*1) * (100/100) = 5 -> 95.
+  it('subtracts the documented weighted penalty per hour', () => {
+    // weighted = harsh_brake 2*1 + speeding 3*1 = 5; 100 - 2.5 * 5 / 1h = 87.5.
     const eventCounts = { harsh_brake: 1, harsh_accel: 0, speeding: 1, idling: 0 }
-    expect(safetyScore({ distanceKm: 100, eventCounts })).toBe(95)
+    expect(safetyScore({ durationHours: 1, eventCounts })).toBe(87.5)
   })
   it('clamps to 0 and never goes negative', () => {
     const eventCounts = { harsh_brake: 50, harsh_accel: 50, speeding: 50, idling: 50 }
-    expect(safetyScore({ distanceKm: 1, eventCounts })).toBe(0)
+    expect(safetyScore({ durationHours: 1, eventCounts })).toBe(0)
   })
 })
 
@@ -113,11 +115,12 @@ describe('summaries', () => {
     providerId: 'demo',
     vin: 'TEST0000000000001',
   }
-  // Three fixes spanning ~100 km so the safety score is a clean positive value.
+  // Three fixes spanning ~100 km over one hour, so the per-hour safety score is
+  // a clean positive value.
   const points = [
     loc(0, 0, 43.0),
-    loc(10, 100, 43.0 + 50 * KM_IN_DEG_LAT),
-    loc(20, 0, 43.0 + 100 * KM_IN_DEG_LAT),
+    loc(1800, 100, 43.0 + 50 * KM_IN_DEG_LAT),
+    loc(3600, 0, 43.0 + 100 * KM_IN_DEG_LAT),
   ]
   const events = [event('speeding')]
 
@@ -127,8 +130,8 @@ describe('summaries', () => {
     expect(summary.distanceKm).toBeCloseTo(100, 0)
     expect(summary.maxSpeedKmh).toBe(100)
     expect(summary.eventCounts.speeding).toBe(1)
-    // 100 - (speeding weight 3 * 1 event) * (100 / ~100 km) ~= 97.
-    expect(summary.safetyScore).toBeCloseTo(97, 1)
+    // 100 - 2.5 * (speeding weight 3 * 1 event) / 1h = 92.5.
+    expect(summary.safetyScore).toBeCloseTo(92.5, 5)
   })
 
   it('aggregates a fleet summary across vehicles', () => {
@@ -145,21 +148,32 @@ describe('summaries', () => {
     expect(fleet.avgSafetyScore).toBeCloseTo((a.safetyScore + b.safetyScore) / 2, 5)
   })
 
-  it('excludes zero-distance vehicles from the average safety score', () => {
+  it('averages over driving exposure: includes zero-distance time, excludes zero-duration', () => {
     const moving = buildVehicleSummary(vehicle, points, [event('speeding')])
-    const parked = buildVehicleSummary(
-      { ...vehicle, id: 'v2' },
-      [loc(0, 0), loc(10, 0)], // same point both fixes -> 0 km travelled
-      [],
-    )
-    expect(parked.distanceKm).toBe(0)
-    expect(parked.safetyScore).toBe(100) // per-vehicle: no rate to penalize
 
-    const fleet = buildFleetSummary([moving, parked])
-    expect(fleet.vehicleCount).toBe(2)
-    // Average over movers only: equals the moving score, not (score + 100) / 2.
-    expect(fleet.avgSafetyScore).toBeCloseTo(moving.safetyScore, 5)
-    expect(fleet.avgSafetyScore).not.toBeCloseTo((moving.safetyScore + 100) / 2, 5)
+    // Same point for an hour with idling events: 0 km, but real time exposure
+    // and a genuine sub-100 score.
+    const parkedIdling = buildVehicleSummary(
+      { ...vehicle, id: 'v2' },
+      [loc(0, 0), loc(1800, 0), loc(3600, 0)],
+      [event('idling'), event('idling')],
+    )
+    expect(parkedIdling.distanceKm).toBe(0)
+    expect(parkedIdling.durationHours).toBeGreaterThan(0)
+    expect(parkedIdling.safetyScore).toBeLessThan(100)
+
+    // Both have exposure, so both count toward the average (filter is duration).
+    const withExposure = buildFleetSummary([moving, parkedIdling])
+    expect(withExposure.avgSafetyScore).toBeCloseTo(
+      (moving.safetyScore + parkedIdling.safetyScore) / 2,
+      5,
+    )
+
+    // A vehicle with no locations has zero duration and is excluded.
+    const zeroExposure = buildVehicleSummary({ ...vehicle, id: 'v3' }, [], [])
+    expect(zeroExposure.durationHours).toBe(0)
+    const onlyMover = buildFleetSummary([moving, zeroExposure])
+    expect(onlyMover.avgSafetyScore).toBeCloseTo(moving.safetyScore, 5)
   })
 
   it('returns a zero fleet summary for no vehicles', () => {

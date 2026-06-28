@@ -119,23 +119,28 @@ const EVENT_WEIGHTS: Record<SafetyEventType, number> = {
   idling: 1,
 }
 
+// Points deducted per weighted event per hour of driving.
+const SAFETY_K = 2.5
+
 /**
- * Transparent 0-100 safety score. Start at 100 and subtract a weighted event
- * penalty normalized to events per 100 km, then clamp to [0, 100]:
- *   penalty = sum(WEIGHT[type] * count[type]) * (100 / distanceKm)
+ * Transparent 0-100 safety score on a per-hour exposure basis. Safety events are
+ * time-on-road exposure (idling in particular accrues at near-zero distance), so
+ * the penalty is normalized by trip duration, not distance:
+ *   penalty = SAFETY_K * sum(WEIGHT[type] * count[type]) / durationHours
  *   score   = clamp(100 - penalty, 0, 100)
- * With no measurable distance there is no rate to penalize, so the score is 100.
+ * A true zero-event run scores 100 (no cap below 100). With no measurable
+ * duration there is no rate to penalize, so the score is 100.
  */
 export function safetyScore(input: {
-  distanceKm: number
+  durationHours: number
   eventCounts: Record<SafetyEventType, number>
 }): number {
-  const { distanceKm, eventCounts } = input
-  if (distanceKm <= 0) return 100
+  const { durationHours, eventCounts } = input
+  if (durationHours <= 0) return 100
   let weighted = 0
   for (const type of EVENT_TYPES) {
     weighted += EVENT_WEIGHTS[type] * eventCounts[type]
   }
-  const penalty = weighted * (100 / distanceKm)
+  const penalty = SAFETY_K * (weighted / durationHours)
   return clamp(100 - penalty, 0, 100)
 }

@@ -1,19 +1,32 @@
-function App() {
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+
+import { FleetProvider } from './state/FleetContext'
+import { Layout } from './components/Layout'
+import { FleetOverview } from './pages/FleetOverview'
+import { VehicleDetail } from './pages/VehicleDetail'
+import { Placeholder } from './pages/Placeholder'
+import { NotFound } from './pages/NotFound'
+
+export default function App() {
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900">
-      <header className="border-b border-slate-200 bg-white">
-        <div className="mx-auto flex max-w-5xl flex-col px-6 py-4">
-          <span className="text-xl font-bold tracking-tight">FleetBridge</span>
-          <span className="text-sm text-slate-500">
-            Telematics normalization demo
-          </span>
-        </div>
-      </header>
-      <main className="mx-auto max-w-5xl px-6 py-16">
-        <p className="text-slate-500">Fleet overview coming soon</p>
-      </main>
-    </div>
+    <BrowserRouter>
+      <FleetProvider>
+        <Routes>
+          <Route element={<Layout />}>
+            <Route path="/" element={<FleetOverview />} />
+            <Route path="/vehicle/:id" element={<VehicleDetail />} />
+            <Route
+              path="/normalization"
+              element={<Placeholder title="Normalization" />}
+            />
+            <Route
+              path="/add-provider"
+              element={<Placeholder title="Add provider" />}
+            />
+            <Route path="*" element={<NotFound />} />
+          </Route>
+        </Routes>
+      </FleetProvider>
+    </BrowserRouter>
   )
 }
-
-export default App
