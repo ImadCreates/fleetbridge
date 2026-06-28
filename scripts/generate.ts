@@ -75,10 +75,10 @@ const CORRIDORS: Record<string, Corridor> = {
   gardiner: {
     name: 'Gardiner Expressway',
     points: [
-      [43.6402, -79.3002],
-      [43.6382, -79.3603],
-      [43.6352, -79.4102],
-      [43.6332, -79.4503],
+      [43.6452, -79.3580], // Gardiner/DVP junction at the Don mouth
+      [43.6415, -79.3850], // downtown core, just north of the harbour
+      [43.639, -79.415], // Exhibition, north of Ontario Place
+      [43.6385, -79.452], // Sunnyside, north of the beach
     ],
   },
 }
