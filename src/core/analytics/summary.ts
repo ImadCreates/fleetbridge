@@ -20,6 +20,19 @@ export type VehicleSummary = {
   safetyScore: number
 }
 
+/** Trip duration in hours, from the earliest to the latest location timestamp. */
+function tripDurationHours(locations: Location[]): number {
+  if (locations.length < 2) return 0
+  let min = Infinity
+  let max = -Infinity
+  for (const location of locations) {
+    const t = Date.parse(location.timestamp)
+    if (t < min) min = t
+    if (t > max) max = t
+  }
+  return (max - min) / 3_600_000
+}
+
 export function buildVehicleSummary(
   vehicle: Vehicle,
   locations: Location[],
@@ -34,7 +47,10 @@ export function buildVehicleSummary(
     maxSpeedKmh: maxSpeedKmh(locations),
     idlingMinutes: idlingMinutes(locations),
     eventCounts,
-    safetyScore: safetyScore({ distanceKm, eventCounts }),
+    safetyScore: safetyScore({
+      durationHours: tripDurationHours(locations),
+      eventCounts,
+    }),
   }
 }
 
@@ -56,8 +72,8 @@ export function buildFleetSummary(summaries: VehicleSummary[]): FleetSummary {
     (acc, s) => acc + sumEventCounts(s.eventCounts),
     0,
   )
-  // Zero-distance vehicles score 100 only because there is no per-100km rate to
-  // penalize, so exclude them from the average rather than reading them as safe.
+  // A vehicle that never moved contributes no real driving exposure, so exclude
+  // it from the average rather than letting its default-high score read as safe.
   const movers = summaries.filter((s) => s.distanceKm > 0)
   const avgSafetyScore =
     movers.length === 0
