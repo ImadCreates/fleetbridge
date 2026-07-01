@@ -7765,1930 +7765,1930 @@
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:20:00.000Z",
-      "lat": 43.6402,
-      "lng": -79.3002,
+      "lat": 43.6452,
+      "lng": -79.358,
       "speedKmh": 0,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:20:10.000Z",
-      "lat": 43.6402,
-      "lng": -79.30028,
+      "lat": 43.64519,
+      "lng": -79.35805,
       "speedKmh": 11.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:20:20.000Z",
-      "lat": 43.64019,
-      "lng": -79.30043,
+      "lat": 43.64518,
+      "lng": -79.35814,
       "speedKmh": 23.7,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:20:30.000Z",
-      "lat": 43.64018,
-      "lng": -79.30066,
+      "lat": 43.64516,
+      "lng": -79.35828,
       "speedKmh": 35.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:20:40.000Z",
-      "lat": 43.64017,
-      "lng": -79.30097,
+      "lat": 43.64514,
+      "lng": -79.35847,
       "speedKmh": 47.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:20:50.000Z",
-      "lat": 43.64016,
-      "lng": -79.30135,
+      "lat": 43.6451,
+      "lng": -79.35871,
       "speedKmh": 59.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:21:00.000Z",
-      "lat": 43.64015,
-      "lng": -79.30181,
+      "lat": 43.64506,
+      "lng": -79.359,
       "speedKmh": 71.2,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:21:10.000Z",
-      "lat": 43.64013,
-      "lng": -79.30234,
+      "lat": 43.64502,
+      "lng": -79.35933,
       "speedKmh": 83.1,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:21:20.000Z",
-      "lat": 43.64011,
-      "lng": -79.30296,
+      "lat": 43.64497,
+      "lng": -79.35971,
       "speedKmh": 95,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:21:30.000Z",
-      "lat": 43.64009,
-      "lng": -79.30364,
+      "lat": 43.64491,
+      "lng": -79.36013,
       "speedKmh": 105.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:21:40.000Z",
-      "lat": 43.64006,
-      "lng": -79.30431,
+      "lat": 43.64485,
+      "lng": -79.36054,
       "speedKmh": 103.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:21:50.000Z",
-      "lat": 43.64004,
-      "lng": -79.305,
+      "lat": 43.64479,
+      "lng": -79.36097,
       "speedKmh": 107.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:22:00.000Z",
-      "lat": 43.64002,
-      "lng": -79.30567,
+      "lat": 43.64474,
+      "lng": -79.36139,
       "speedKmh": 104.2,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:22:10.000Z",
-      "lat": 43.64,
-      "lng": -79.30635,
+      "lat": 43.64468,
+      "lng": -79.36181,
       "speedKmh": 105.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:22:20.000Z",
-      "lat": 43.63997,
-      "lng": -79.30703,
+      "lat": 43.64462,
+      "lng": -79.36223,
       "speedKmh": 105.1,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:22:30.000Z",
-      "lat": 43.63995,
-      "lng": -79.30771,
+      "lat": 43.64456,
+      "lng": -79.36265,
       "speedKmh": 106.2,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:22:40.000Z",
-      "lat": 43.63993,
-      "lng": -79.30842,
+      "lat": 43.6445,
+      "lng": -79.36309,
       "speedKmh": 109.2,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:22:50.000Z",
-      "lat": 43.6399,
-      "lng": -79.30909,
+      "lat": 43.64445,
+      "lng": -79.3635,
       "speedKmh": 103.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:23:00.000Z",
-      "lat": 43.63988,
-      "lng": -79.30978,
+      "lat": 43.64439,
+      "lng": -79.36393,
       "speedKmh": 107.7,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:23:10.000Z",
-      "lat": 43.63986,
-      "lng": -79.31046,
+      "lat": 43.64433,
+      "lng": -79.36435,
       "speedKmh": 104.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:23:20.000Z",
-      "lat": 43.63984,
-      "lng": -79.31116,
+      "lat": 43.64427,
+      "lng": -79.36478,
       "speedKmh": 108.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:23:30.000Z",
-      "lat": 43.63981,
-      "lng": -79.31185,
+      "lat": 43.64421,
+      "lng": -79.36521,
       "speedKmh": 107.2,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:23:40.000Z",
-      "lat": 43.63979,
-      "lng": -79.31253,
+      "lat": 43.64415,
+      "lng": -79.36563,
       "speedKmh": 105.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:23:50.000Z",
-      "lat": 43.63977,
-      "lng": -79.3132,
+      "lat": 43.6441,
+      "lng": -79.36605,
       "speedKmh": 104.1,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:24:00.000Z",
-      "lat": 43.63974,
-      "lng": -79.3139,
+      "lat": 43.64404,
+      "lng": -79.36648,
       "speedKmh": 109.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:24:10.000Z",
-      "lat": 43.63972,
-      "lng": -79.31459,
+      "lat": 43.64398,
+      "lng": -79.36691,
       "speedKmh": 107,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:24:20.000Z",
-      "lat": 43.6397,
-      "lng": -79.31529,
+      "lat": 43.64392,
+      "lng": -79.36734,
       "speedKmh": 108.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:24:30.000Z",
-      "lat": 43.63968,
-      "lng": -79.31596,
+      "lat": 43.64386,
+      "lng": -79.36776,
       "speedKmh": 104.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:24:40.000Z",
-      "lat": 43.63965,
-      "lng": -79.31664,
+      "lat": 43.6438,
+      "lng": -79.36818,
       "speedKmh": 105.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:24:50.000Z",
-      "lat": 43.63963,
-      "lng": -79.31733,
+      "lat": 43.64375,
+      "lng": -79.3686,
       "speedKmh": 106.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:25:00.000Z",
-      "lat": 43.63961,
-      "lng": -79.31802,
+      "lat": 43.64369,
+      "lng": -79.36903,
       "speedKmh": 106.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:25:10.000Z",
-      "lat": 43.63958,
-      "lng": -79.31871,
+      "lat": 43.64363,
+      "lng": -79.36946,
       "speedKmh": 107.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:25:20.000Z",
-      "lat": 43.63956,
-      "lng": -79.31939,
+      "lat": 43.64357,
+      "lng": -79.36988,
       "speedKmh": 106.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:25:30.000Z",
-      "lat": 43.63954,
-      "lng": -79.32009,
+      "lat": 43.64351,
+      "lng": -79.37031,
       "speedKmh": 107.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:25:40.000Z",
-      "lat": 43.63951,
-      "lng": -79.32079,
+      "lat": 43.64345,
+      "lng": -79.37075,
       "speedKmh": 109.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:25:50.000Z",
-      "lat": 43.63949,
-      "lng": -79.32148,
+      "lat": 43.64339,
+      "lng": -79.37118,
       "speedKmh": 107.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:26:00.000Z",
-      "lat": 43.63947,
-      "lng": -79.32215,
+      "lat": 43.64334,
+      "lng": -79.37159,
       "speedKmh": 103.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:26:10.000Z",
-      "lat": 43.63945,
-      "lng": -79.32284,
+      "lat": 43.64328,
+      "lng": -79.37202,
       "speedKmh": 106.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:26:20.000Z",
-      "lat": 43.63942,
-      "lng": -79.32354,
+      "lat": 43.64322,
+      "lng": -79.37245,
       "speedKmh": 108.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:26:30.000Z",
-      "lat": 43.6394,
-      "lng": -79.32425,
+      "lat": 43.64316,
+      "lng": -79.37289,
       "speedKmh": 109.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:26:40.000Z",
-      "lat": 43.63938,
-      "lng": -79.32495,
+      "lat": 43.6431,
+      "lng": -79.37332,
       "speedKmh": 109.1,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:26:50.000Z",
-      "lat": 43.63935,
-      "lng": -79.32564,
+      "lat": 43.64304,
+      "lng": -79.37375,
       "speedKmh": 107.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:27:00.000Z",
-      "lat": 43.63933,
-      "lng": -79.32631,
+      "lat": 43.64299,
+      "lng": -79.37416,
       "speedKmh": 102.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:27:10.000Z",
-      "lat": 43.63931,
-      "lng": -79.32699,
+      "lat": 43.64293,
+      "lng": -79.37458,
       "speedKmh": 105.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:27:20.000Z",
-      "lat": 43.63929,
-      "lng": -79.32769,
+      "lat": 43.64287,
+      "lng": -79.37502,
       "speedKmh": 109.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:27:30.000Z",
-      "lat": 43.63926,
-      "lng": -79.32837,
+      "lat": 43.64281,
+      "lng": -79.37544,
       "speedKmh": 104.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:27:40.000Z",
-      "lat": 43.63924,
-      "lng": -79.32907,
+      "lat": 43.64275,
+      "lng": -79.37587,
       "speedKmh": 108.7,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:27:50.000Z",
-      "lat": 43.63922,
-      "lng": -79.32977,
+      "lat": 43.64269,
+      "lng": -79.3763,
       "speedKmh": 108.1,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:28:00.000Z",
-      "lat": 43.63919,
-      "lng": -79.33043,
+      "lat": 43.64264,
+      "lng": -79.37672,
       "speedKmh": 103.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:28:10.000Z",
-      "lat": 43.63917,
-      "lng": -79.33113,
+      "lat": 43.64258,
+      "lng": -79.37715,
       "speedKmh": 107.7,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:28:20.000Z",
-      "lat": 43.63915,
-      "lng": -79.33179,
+      "lat": 43.64252,
+      "lng": -79.37756,
       "speedKmh": 103,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:28:30.000Z",
-      "lat": 43.63913,
-      "lng": -79.3325,
+      "lat": 43.64246,
+      "lng": -79.37799,
       "speedKmh": 109.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:28:40.000Z",
-      "lat": 43.6391,
-      "lng": -79.33318,
+      "lat": 43.6424,
+      "lng": -79.37842,
       "speedKmh": 105.8,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:28:50.000Z",
-      "lat": 43.63908,
-      "lng": -79.33387,
+      "lat": 43.64234,
+      "lng": -79.37884,
       "speedKmh": 107.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:29:00.000Z",
-      "lat": 43.63906,
-      "lng": -79.33457,
+      "lat": 43.64228,
+      "lng": -79.37928,
       "speedKmh": 108.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:29:10.000Z",
-      "lat": 43.63903,
-      "lng": -79.33524,
+      "lat": 43.64223,
+      "lng": -79.37969,
       "speedKmh": 104.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:29:20.000Z",
-      "lat": 43.63901,
-      "lng": -79.33594,
+      "lat": 43.64217,
+      "lng": -79.38012,
       "speedKmh": 107.9,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:29:30.000Z",
-      "lat": 43.63899,
-      "lng": -79.33661,
+      "lat": 43.64211,
+      "lng": -79.38054,
       "speedKmh": 104.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:29:40.000Z",
-      "lat": 43.63897,
-      "lng": -79.3373,
+      "lat": 43.64205,
+      "lng": -79.38097,
       "speedKmh": 106.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:29:50.000Z",
-      "lat": 43.63894,
-      "lng": -79.33799,
+      "lat": 43.64199,
+      "lng": -79.38139,
       "speedKmh": 107.3,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:30:00.000Z",
-      "lat": 43.63892,
-      "lng": -79.33867,
+      "lat": 43.64194,
+      "lng": -79.38182,
       "speedKmh": 105.6,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:30:10.000Z",
-      "lat": 43.6389,
-      "lng": -79.33935,
+      "lat": 43.64188,
+      "lng": -79.38224,
       "speedKmh": 106.4,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:30:20.000Z",
-      "lat": 43.63887,
-      "lng": -79.34006,
+      "lat": 43.64182,
+      "lng": -79.38267,
       "speedKmh": 109,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:30:30.000Z",
-      "lat": 43.63885,
-      "lng": -79.34075,
+      "lat": 43.64176,
+      "lng": -79.3831,
       "speedKmh": 107.1,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:30:40.000Z",
-      "lat": 43.63883,
-      "lng": -79.34143,
+      "lat": 43.6417,
+      "lng": -79.38353,
       "speedKmh": 106.5,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:30:50.000Z",
-      "lat": 43.63881,
-      "lng": -79.3421,
+      "lat": 43.64164,
+      "lng": -79.38394,
       "speedKmh": 104.2,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:31:00.000Z",
-      "lat": 43.63878,
-      "lng": -79.34277,
+      "lat": 43.64159,
+      "lng": -79.38436,
       "speedKmh": 103.7,
-      "headingDeg": 267.4
+      "headingDeg": 259.3
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:31:10.000Z",
-      "lat": 43.63876,
-      "lng": -79.34344,
+      "lat": 43.64153,
+      "lng": -79.38477,
       "speedKmh": 102.9,
-      "headingDeg": 267.4
+      "headingDeg": 261.2
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:31:20.000Z",
-      "lat": 43.63874,
-      "lng": -79.34414,
+      "lat": 43.64148,
+      "lng": -79.38521,
       "speedKmh": 109.5,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:31:30.000Z",
-      "lat": 43.63871,
-      "lng": -79.34483,
+      "lat": 43.64145,
+      "lng": -79.38563,
       "speedKmh": 106.1,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:31:40.000Z",
-      "lat": 43.63869,
-      "lng": -79.34552,
+      "lat": 43.64141,
+      "lng": -79.38607,
       "speedKmh": 107.2,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:31:50.000Z",
-      "lat": 43.63867,
-      "lng": -79.34622,
+      "lat": 43.64137,
+      "lng": -79.38651,
       "speedKmh": 109.1,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:32:00.000Z",
-      "lat": 43.63865,
-      "lng": -79.34692,
+      "lat": 43.64134,
+      "lng": -79.38695,
       "speedKmh": 108.5,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:32:10.000Z",
-      "lat": 43.63862,
-      "lng": -79.34762,
+      "lat": 43.6413,
+      "lng": -79.38738,
       "speedKmh": 107.8,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:32:20.000Z",
-      "lat": 43.6386,
-      "lng": -79.3483,
+      "lat": 43.64127,
+      "lng": -79.38781,
       "speedKmh": 106.6,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:32:30.000Z",
-      "lat": 43.63858,
-      "lng": -79.349,
+      "lat": 43.64123,
+      "lng": -79.38825,
       "speedKmh": 109,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:32:40.000Z",
-      "lat": 43.63858,
-      "lng": -79.34902,
+      "lat": 43.64123,
+      "lng": -79.38826,
       "speedKmh": 1.7,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:32:50.000Z",
-      "lat": 43.63858,
-      "lng": -79.34902,
+      "lat": 43.64123,
+      "lng": -79.38826,
       "speedKmh": 0.7,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:33:00.000Z",
-      "lat": 43.63858,
-      "lng": -79.34902,
+      "lat": 43.64123,
+      "lng": -79.38826,
       "speedKmh": 0.1,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:33:10.000Z",
-      "lat": 43.63858,
-      "lng": -79.34902,
+      "lat": 43.64123,
+      "lng": -79.38826,
       "speedKmh": 0.3,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:33:20.000Z",
-      "lat": 43.63857,
-      "lng": -79.34903,
+      "lat": 43.64123,
+      "lng": -79.38827,
       "speedKmh": 1.8,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:33:30.000Z",
-      "lat": 43.63857,
-      "lng": -79.34905,
+      "lat": 43.64123,
+      "lng": -79.38828,
       "speedKmh": 1.8,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:33:40.000Z",
-      "lat": 43.63857,
-      "lng": -79.34905,
+      "lat": 43.64123,
+      "lng": -79.38828,
       "speedKmh": 1.5,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:33:50.000Z",
-      "lat": 43.63855,
-      "lng": -79.34972,
+      "lat": 43.64119,
+      "lng": -79.3887,
       "speedKmh": 102.9,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:34:00.000Z",
-      "lat": 43.63853,
-      "lng": -79.35041,
+      "lat": 43.64116,
+      "lng": -79.38913,
       "speedKmh": 107.1,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:34:10.000Z",
-      "lat": 43.63851,
-      "lng": -79.35111,
+      "lat": 43.64112,
+      "lng": -79.38957,
       "speedKmh": 108.6,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:34:20.000Z",
-      "lat": 43.63848,
-      "lng": -79.3518,
+      "lat": 43.64108,
+      "lng": -79.39,
       "speedKmh": 106.8,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:34:30.000Z",
-      "lat": 43.63846,
-      "lng": -79.35247,
+      "lat": 43.64105,
+      "lng": -79.39042,
       "speedKmh": 104.1,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:34:40.000Z",
-      "lat": 43.63844,
-      "lng": -79.35314,
+      "lat": 43.64101,
+      "lng": -79.39084,
       "speedKmh": 103.5,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:34:50.000Z",
-      "lat": 43.63842,
-      "lng": -79.35383,
+      "lat": 43.64098,
+      "lng": -79.39127,
       "speedKmh": 108.2,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:35:00.000Z",
-      "lat": 43.63839,
-      "lng": -79.35453,
+      "lat": 43.64094,
+      "lng": -79.39171,
       "speedKmh": 108.3,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:35:10.000Z",
-      "lat": 43.63837,
-      "lng": -79.3552,
+      "lat": 43.64091,
+      "lng": -79.39213,
       "speedKmh": 104.5,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:35:20.000Z",
-      "lat": 43.63835,
-      "lng": -79.35589,
+      "lat": 43.64087,
+      "lng": -79.39256,
       "speedKmh": 106.4,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:35:30.000Z",
-      "lat": 43.63832,
-      "lng": -79.3566,
+      "lat": 43.64083,
+      "lng": -79.393,
       "speedKmh": 109.8,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:35:40.000Z",
-      "lat": 43.6383,
-      "lng": -79.35727,
+      "lat": 43.6408,
+      "lng": -79.39342,
       "speedKmh": 103.5,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:35:50.000Z",
-      "lat": 43.63828,
-      "lng": -79.35793,
+      "lat": 43.64076,
+      "lng": -79.39384,
       "speedKmh": 103.8,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:36:00.000Z",
-      "lat": 43.63826,
-      "lng": -79.35863,
+      "lat": 43.64073,
+      "lng": -79.39427,
       "speedKmh": 107.7,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:36:10.000Z",
-      "lat": 43.63823,
-      "lng": -79.35933,
+      "lat": 43.64069,
+      "lng": -79.39472,
       "speedKmh": 109.3,
-      "headingDeg": 267.4
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:36:20.000Z",
-      "lat": 43.63821,
-      "lng": -79.36003,
+      "lat": 43.64065,
+      "lng": -79.39515,
       "speedKmh": 108.4,
-      "headingDeg": 266.1
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:36:30.000Z",
-      "lat": 43.63817,
-      "lng": -79.36072,
+      "lat": 43.64062,
+      "lng": -79.39558,
       "speedKmh": 106.8,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:36:40.000Z",
-      "lat": 43.63813,
-      "lng": -79.36139,
+      "lat": 43.64058,
+      "lng": -79.396,
       "speedKmh": 103.8,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:36:50.000Z",
-      "lat": 43.63809,
-      "lng": -79.36208,
+      "lat": 43.64055,
+      "lng": -79.39644,
       "speedKmh": 108,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:37:00.000Z",
-      "lat": 43.63805,
-      "lng": -79.36277,
+      "lat": 43.64051,
+      "lng": -79.39687,
       "speedKmh": 107.3,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:37:10.000Z",
-      "lat": 43.63801,
-      "lng": -79.36348,
+      "lat": 43.64047,
+      "lng": -79.39731,
       "speedKmh": 109.5,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:37:20.000Z",
-      "lat": 43.63797,
-      "lng": -79.36414,
+      "lat": 43.64044,
+      "lng": -79.39773,
       "speedKmh": 102.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:37:30.000Z",
-      "lat": 43.63793,
-      "lng": -79.36482,
+      "lat": 43.6404,
+      "lng": -79.39815,
       "speedKmh": 105.7,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:37:40.000Z",
-      "lat": 43.63789,
-      "lng": -79.36551,
+      "lat": 43.64037,
+      "lng": -79.39859,
       "speedKmh": 106.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:37:50.000Z",
-      "lat": 43.63785,
-      "lng": -79.36617,
+      "lat": 43.64033,
+      "lng": -79.399,
       "speedKmh": 102.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:38:00.000Z",
-      "lat": 43.63781,
-      "lng": -79.36687,
+      "lat": 43.6403,
+      "lng": -79.39944,
       "speedKmh": 108.8,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:38:10.000Z",
-      "lat": 43.63776,
-      "lng": -79.36756,
+      "lat": 43.64026,
+      "lng": -79.39987,
       "speedKmh": 107.3,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:38:20.000Z",
-      "lat": 43.63772,
-      "lng": -79.36825,
+      "lat": 43.64022,
+      "lng": -79.40031,
       "speedKmh": 107.8,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:38:30.000Z",
-      "lat": 43.63768,
-      "lng": -79.36892,
+      "lat": 43.64019,
+      "lng": -79.40073,
       "speedKmh": 104.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:38:40.000Z",
-      "lat": 43.63764,
-      "lng": -79.36959,
+      "lat": 43.64015,
+      "lng": -79.40115,
       "speedKmh": 103.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:38:50.000Z",
-      "lat": 43.6376,
-      "lng": -79.37028,
+      "lat": 43.64012,
+      "lng": -79.40158,
       "speedKmh": 107.5,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:39:00.000Z",
-      "lat": 43.63756,
-      "lng": -79.37097,
+      "lat": 43.64008,
+      "lng": -79.40201,
       "speedKmh": 106.6,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:39:10.000Z",
-      "lat": 43.63752,
-      "lng": -79.37164,
+      "lat": 43.64005,
+      "lng": -79.40243,
       "speedKmh": 104.1,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:39:20.000Z",
-      "lat": 43.63748,
-      "lng": -79.37231,
+      "lat": 43.64001,
+      "lng": -79.40286,
       "speedKmh": 104.8,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:39:30.000Z",
-      "lat": 43.63744,
-      "lng": -79.373,
+      "lat": 43.63998,
+      "lng": -79.40329,
       "speedKmh": 107.7,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:39:40.000Z",
-      "lat": 43.6374,
-      "lng": -79.37367,
+      "lat": 43.63994,
+      "lng": -79.40371,
       "speedKmh": 103.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:39:50.000Z",
-      "lat": 43.63736,
-      "lng": -79.37434,
+      "lat": 43.63991,
+      "lng": -79.40413,
       "speedKmh": 103.6,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:40:00.000Z",
-      "lat": 43.63732,
-      "lng": -79.375,
+      "lat": 43.63987,
+      "lng": -79.40454,
       "speedKmh": 103.3,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:40:10.000Z",
-      "lat": 43.63728,
-      "lng": -79.37569,
+      "lat": 43.63984,
+      "lng": -79.40497,
       "speedKmh": 106.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:40:20.000Z",
-      "lat": 43.63723,
-      "lng": -79.37636,
+      "lat": 43.6398,
+      "lng": -79.4054,
       "speedKmh": 104.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:40:30.000Z",
-      "lat": 43.63723,
-      "lng": -79.37637,
+      "lat": 43.6398,
+      "lng": -79.4054,
       "speedKmh": 1.7,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:40:40.000Z",
-      "lat": 43.63723,
-      "lng": -79.37638,
+      "lat": 43.6398,
+      "lng": -79.40541,
       "speedKmh": 1.2,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:40:50.000Z",
-      "lat": 43.63723,
-      "lng": -79.37638,
+      "lat": 43.6398,
+      "lng": -79.40541,
       "speedKmh": 0.1,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:41:00.000Z",
-      "lat": 43.63723,
-      "lng": -79.37638,
+      "lat": 43.6398,
+      "lng": -79.40541,
       "speedKmh": 0.1,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:41:10.000Z",
-      "lat": 43.63723,
-      "lng": -79.37638,
+      "lat": 43.6398,
+      "lng": -79.40541,
       "speedKmh": 0.3,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:41:20.000Z",
-      "lat": 43.63719,
-      "lng": -79.37707,
+      "lat": 43.63976,
+      "lng": -79.40584,
       "speedKmh": 107.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:41:30.000Z",
-      "lat": 43.63715,
-      "lng": -79.37776,
+      "lat": 43.63973,
+      "lng": -79.40628,
       "speedKmh": 107.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:41:40.000Z",
-      "lat": 43.63711,
-      "lng": -79.37844,
+      "lat": 43.63969,
+      "lng": -79.4067,
       "speedKmh": 105.2,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:41:50.000Z",
-      "lat": 43.63707,
-      "lng": -79.37913,
+      "lat": 43.63966,
+      "lng": -79.40714,
       "speedKmh": 107.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:42:00.000Z",
-      "lat": 43.63703,
-      "lng": -79.37983,
+      "lat": 43.63962,
+      "lng": -79.40758,
       "speedKmh": 109.2,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:42:10.000Z",
-      "lat": 43.63698,
-      "lng": -79.38052,
+      "lat": 43.63958,
+      "lng": -79.40801,
       "speedKmh": 106.1,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:42:20.000Z",
-      "lat": 43.63694,
-      "lng": -79.38119,
+      "lat": 43.63955,
+      "lng": -79.40843,
       "speedKmh": 104.6,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:42:30.000Z",
-      "lat": 43.6369,
-      "lng": -79.38185,
+      "lat": 43.63951,
+      "lng": -79.40884,
       "speedKmh": 102.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:42:40.000Z",
-      "lat": 43.63686,
-      "lng": -79.38252,
+      "lat": 43.63948,
+      "lng": -79.40926,
       "speedKmh": 104,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:42:50.000Z",
-      "lat": 43.63682,
-      "lng": -79.38319,
+      "lat": 43.63944,
+      "lng": -79.40968,
       "speedKmh": 104,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:43:00.000Z",
-      "lat": 43.63678,
-      "lng": -79.38389,
+      "lat": 43.63941,
+      "lng": -79.41012,
       "speedKmh": 108.5,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:43:10.000Z",
-      "lat": 43.63674,
-      "lng": -79.38457,
+      "lat": 43.63937,
+      "lng": -79.41055,
       "speedKmh": 105.6,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:43:20.000Z",
-      "lat": 43.6367,
-      "lng": -79.38526,
+      "lat": 43.63934,
+      "lng": -79.41098,
       "speedKmh": 107.2,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:43:30.000Z",
-      "lat": 43.63666,
-      "lng": -79.38594,
+      "lat": 43.6393,
+      "lng": -79.41141,
       "speedKmh": 106.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:43:40.000Z",
-      "lat": 43.63662,
-      "lng": -79.38662,
+      "lat": 43.63926,
+      "lng": -79.41184,
       "speedKmh": 105.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:43:50.000Z",
-      "lat": 43.63658,
-      "lng": -79.3873,
+      "lat": 43.63923,
+      "lng": -79.41226,
       "speedKmh": 104.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:44:00.000Z",
-      "lat": 43.63654,
-      "lng": -79.38797,
+      "lat": 43.63919,
+      "lng": -79.41268,
       "speedKmh": 104.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:44:10.000Z",
-      "lat": 43.6365,
-      "lng": -79.38864,
+      "lat": 43.63916,
+      "lng": -79.4131,
       "speedKmh": 104.7,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:44:20.000Z",
-      "lat": 43.63645,
-      "lng": -79.38934,
+      "lat": 43.63912,
+      "lng": -79.41354,
       "speedKmh": 109.4,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:44:30.000Z",
-      "lat": 43.63641,
-      "lng": -79.39001,
+      "lat": 43.63909,
+      "lng": -79.41396,
       "speedKmh": 103.3,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:44:40.000Z",
-      "lat": 43.63637,
-      "lng": -79.39068,
+      "lat": 43.63905,
+      "lng": -79.41438,
       "speedKmh": 104.9,
-      "headingDeg": 265.3
+      "headingDeg": 263.4
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:44:50.000Z",
-      "lat": 43.63633,
-      "lng": -79.39138,
+      "lat": 43.63902,
+      "lng": -79.41482,
       "speedKmh": 108.1,
-      "headingDeg": 265.3
+      "headingDeg": 266.6
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:45:00.000Z",
-      "lat": 43.63629,
-      "lng": -79.39206,
+      "lat": 43.639,
+      "lng": -79.41525,
       "speedKmh": 105.6,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:45:10.000Z",
-      "lat": 43.63625,
-      "lng": -79.39272,
+      "lat": 43.63899,
+      "lng": -79.41567,
       "speedKmh": 103.3,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:45:20.000Z",
-      "lat": 43.63621,
-      "lng": -79.3934,
+      "lat": 43.63899,
+      "lng": -79.4161,
       "speedKmh": 105.4,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:45:30.000Z",
-      "lat": 43.63617,
-      "lng": -79.39408,
+      "lat": 43.63898,
+      "lng": -79.41652,
       "speedKmh": 105.5,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:45:40.000Z",
-      "lat": 43.63613,
-      "lng": -79.39477,
+      "lat": 43.63897,
+      "lng": -79.41696,
       "speedKmh": 107.4,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:45:50.000Z",
-      "lat": 43.63609,
-      "lng": -79.39546,
+      "lat": 43.63897,
+      "lng": -79.41739,
       "speedKmh": 107,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:46:00.000Z",
-      "lat": 43.63605,
-      "lng": -79.39614,
+      "lat": 43.63896,
+      "lng": -79.41783,
       "speedKmh": 107,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:46:10.000Z",
-      "lat": 43.636,
-      "lng": -79.39683,
+      "lat": 43.63896,
+      "lng": -79.41826,
       "speedKmh": 106.8,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:46:20.000Z",
-      "lat": 43.63596,
-      "lng": -79.39751,
+      "lat": 43.63895,
+      "lng": -79.41869,
       "speedKmh": 106.2,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:46:30.000Z",
-      "lat": 43.63592,
-      "lng": -79.39818,
+      "lat": 43.63894,
+      "lng": -79.41911,
       "speedKmh": 103.2,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:46:40.000Z",
-      "lat": 43.63588,
-      "lng": -79.39884,
+      "lat": 43.63894,
+      "lng": -79.41953,
       "speedKmh": 103.4,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:46:50.000Z",
-      "lat": 43.63584,
-      "lng": -79.39953,
+      "lat": 43.63893,
+      "lng": -79.41997,
       "speedKmh": 107.2,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:47:00.000Z",
-      "lat": 43.6358,
-      "lng": -79.40021,
+      "lat": 43.63893,
+      "lng": -79.42039,
       "speedKmh": 104.9,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:47:10.000Z",
-      "lat": 43.63576,
-      "lng": -79.40087,
+      "lat": 43.63892,
+      "lng": -79.42081,
       "speedKmh": 103.5,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:47:20.000Z",
-      "lat": 43.63572,
-      "lng": -79.40156,
+      "lat": 43.63892,
+      "lng": -79.42125,
       "speedKmh": 107.3,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:47:30.000Z",
-      "lat": 43.63568,
-      "lng": -79.40227,
+      "lat": 43.63891,
+      "lng": -79.42169,
       "speedKmh": 109.3,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:47:40.000Z",
-      "lat": 43.63564,
-      "lng": -79.40296,
+      "lat": 43.6389,
+      "lng": -79.42213,
       "speedKmh": 107.6,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:47:50.000Z",
-      "lat": 43.63559,
-      "lng": -79.40366,
+      "lat": 43.6389,
+      "lng": -79.42258,
       "speedKmh": 109.6,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:48:00.000Z",
-      "lat": 43.63555,
-      "lng": -79.40433,
+      "lat": 43.63889,
+      "lng": -79.423,
       "speedKmh": 104.2,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:48:10.000Z",
-      "lat": 43.63551,
-      "lng": -79.40503,
+      "lat": 43.63889,
+      "lng": -79.42344,
       "speedKmh": 108.8,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:48:20.000Z",
-      "lat": 43.63547,
-      "lng": -79.40573,
+      "lat": 43.63888,
+      "lng": -79.42388,
       "speedKmh": 109.1,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:48:30.000Z",
-      "lat": 43.63543,
-      "lng": -79.40641,
+      "lat": 43.63887,
+      "lng": -79.42431,
       "speedKmh": 105.7,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:48:40.000Z",
-      "lat": 43.63539,
-      "lng": -79.40708,
+      "lat": 43.63887,
+      "lng": -79.42473,
       "speedKmh": 103.8,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:48:50.000Z",
-      "lat": 43.63535,
-      "lng": -79.40778,
+      "lat": 43.63886,
+      "lng": -79.42518,
       "speedKmh": 108.7,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:49:00.000Z",
-      "lat": 43.6353,
-      "lng": -79.40847,
+      "lat": 43.63886,
+      "lng": -79.42561,
       "speedKmh": 107.5,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:49:10.000Z",
-      "lat": 43.63526,
-      "lng": -79.40914,
+      "lat": 43.63885,
+      "lng": -79.42604,
       "speedKmh": 104.1,
-      "headingDeg": 265.3
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:49:20.000Z",
-      "lat": 43.63522,
-      "lng": -79.40982,
+      "lat": 43.63885,
+      "lng": -79.42647,
       "speedKmh": 105.9,
-      "headingDeg": 265.6
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:49:30.000Z",
-      "lat": 43.63519,
-      "lng": -79.41049,
+      "lat": 43.63884,
+      "lng": -79.42689,
       "speedKmh": 103.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:49:40.000Z",
-      "lat": 43.63515,
-      "lng": -79.41116,
+      "lat": 43.63883,
+      "lng": -79.42731,
       "speedKmh": 103.9,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:49:50.000Z",
-      "lat": 43.63512,
-      "lng": -79.41185,
+      "lat": 43.63883,
+      "lng": -79.42774,
       "speedKmh": 106.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:50:00.000Z",
-      "lat": 43.63508,
-      "lng": -79.41253,
+      "lat": 43.63882,
+      "lng": -79.42817,
       "speedKmh": 106.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:50:10.000Z",
-      "lat": 43.63505,
-      "lng": -79.41321,
+      "lat": 43.63882,
+      "lng": -79.4286,
       "speedKmh": 105.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:50:20.000Z",
-      "lat": 43.63502,
-      "lng": -79.4139,
+      "lat": 43.63881,
+      "lng": -79.42904,
       "speedKmh": 107.9,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:50:30.000Z",
-      "lat": 43.63498,
-      "lng": -79.41459,
+      "lat": 43.6388,
+      "lng": -79.42947,
       "speedKmh": 106.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:50:40.000Z",
-      "lat": 43.63495,
-      "lng": -79.41529,
+      "lat": 43.6388,
+      "lng": -79.42992,
       "speedKmh": 108.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:50:50.000Z",
-      "lat": 43.63491,
-      "lng": -79.41599,
+      "lat": 43.63879,
+      "lng": -79.43036,
       "speedKmh": 109.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:51:00.000Z",
-      "lat": 43.63488,
-      "lng": -79.41667,
+      "lat": 43.63879,
+      "lng": -79.43079,
       "speedKmh": 105.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:51:10.000Z",
-      "lat": 43.63484,
-      "lng": -79.41735,
+      "lat": 43.63878,
+      "lng": -79.43121,
       "speedKmh": 105.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:51:20.000Z",
-      "lat": 43.63481,
-      "lng": -79.41805,
+      "lat": 43.63877,
+      "lng": -79.43166,
       "speedKmh": 109.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:51:30.000Z",
-      "lat": 43.63477,
-      "lng": -79.41873,
+      "lat": 43.63877,
+      "lng": -79.43208,
       "speedKmh": 104.9,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:51:40.000Z",
-      "lat": 43.63474,
-      "lng": -79.41941,
+      "lat": 43.63876,
+      "lng": -79.43251,
       "speedKmh": 105.5,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:51:50.000Z",
-      "lat": 43.63471,
-      "lng": -79.42007,
+      "lat": 43.63876,
+      "lng": -79.43293,
       "speedKmh": 103.6,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:52:00.000Z",
-      "lat": 43.63467,
-      "lng": -79.42078,
+      "lat": 43.63875,
+      "lng": -79.43338,
       "speedKmh": 109.6,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:52:10.000Z",
-      "lat": 43.63464,
-      "lng": -79.42147,
+      "lat": 43.63875,
+      "lng": -79.43382,
       "speedKmh": 107.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:52:20.000Z",
-      "lat": 43.6346,
-      "lng": -79.42218,
+      "lat": 43.63874,
+      "lng": -79.43426,
       "speedKmh": 109.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:52:30.000Z",
-      "lat": 43.63457,
-      "lng": -79.42288,
+      "lat": 43.63873,
+      "lng": -79.4347,
       "speedKmh": 109.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:52:40.000Z",
-      "lat": 43.63453,
-      "lng": -79.42358,
+      "lat": 43.63873,
+      "lng": -79.43514,
       "speedKmh": 107.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:52:50.000Z",
-      "lat": 43.6345,
-      "lng": -79.42425,
+      "lat": 43.63872,
+      "lng": -79.43557,
       "speedKmh": 104.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:53:00.000Z",
-      "lat": 43.63446,
-      "lng": -79.42494,
+      "lat": 43.63872,
+      "lng": -79.43601,
       "speedKmh": 107.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:53:10.000Z",
-      "lat": 43.63443,
-      "lng": -79.42564,
+      "lat": 43.63871,
+      "lng": -79.43645,
       "speedKmh": 108.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:53:20.000Z",
-      "lat": 43.6344,
-      "lng": -79.42633,
+      "lat": 43.6387,
+      "lng": -79.43688,
       "speedKmh": 107.3,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:53:30.000Z",
-      "lat": 43.63436,
-      "lng": -79.42701,
+      "lat": 43.6387,
+      "lng": -79.43731,
       "speedKmh": 104.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:53:40.000Z",
-      "lat": 43.63433,
-      "lng": -79.42771,
+      "lat": 43.63869,
+      "lng": -79.43775,
       "speedKmh": 109.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:53:50.000Z",
-      "lat": 43.63429,
-      "lng": -79.42838,
+      "lat": 43.63869,
+      "lng": -79.43817,
       "speedKmh": 103.3,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:54:00.000Z",
-      "lat": 43.63426,
-      "lng": -79.42906,
+      "lat": 43.63868,
+      "lng": -79.4386,
       "speedKmh": 106.5,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:54:10.000Z",
-      "lat": 43.63423,
-      "lng": -79.42973,
+      "lat": 43.63868,
+      "lng": -79.43903,
       "speedKmh": 104.5,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:54:20.000Z",
-      "lat": 43.63419,
-      "lng": -79.43042,
+      "lat": 43.63867,
+      "lng": -79.43946,
       "speedKmh": 107,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:54:30.000Z",
-      "lat": 43.63416,
-      "lng": -79.43112,
+      "lat": 43.63866,
+      "lng": -79.4399,
       "speedKmh": 108.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:54:40.000Z",
-      "lat": 43.63412,
-      "lng": -79.43181,
+      "lat": 43.63866,
+      "lng": -79.44034,
       "speedKmh": 107.6,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:54:50.000Z",
-      "lat": 43.63409,
-      "lng": -79.43249,
+      "lat": 43.63865,
+      "lng": -79.44077,
       "speedKmh": 105.3,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:55:00.000Z",
-      "lat": 43.63405,
-      "lng": -79.4332,
+      "lat": 43.63865,
+      "lng": -79.44121,
       "speedKmh": 109.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:55:10.000Z",
-      "lat": 43.63402,
-      "lng": -79.43389,
+      "lat": 43.63864,
+      "lng": -79.44165,
       "speedKmh": 108.3,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:55:20.000Z",
-      "lat": 43.63398,
-      "lng": -79.43457,
+      "lat": 43.63863,
+      "lng": -79.44208,
       "speedKmh": 105.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:55:30.000Z",
-      "lat": 43.63395,
-      "lng": -79.43526,
+      "lat": 43.63863,
+      "lng": -79.44251,
       "speedKmh": 106.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:55:40.000Z",
-      "lat": 43.63392,
-      "lng": -79.43593,
+      "lat": 43.63862,
+      "lng": -79.44294,
       "speedKmh": 104.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:55:50.000Z",
-      "lat": 43.63388,
-      "lng": -79.4366,
+      "lat": 43.63862,
+      "lng": -79.44336,
       "speedKmh": 103.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:56:00.000Z",
-      "lat": 43.63385,
-      "lng": -79.43727,
+      "lat": 43.63861,
+      "lng": -79.44378,
       "speedKmh": 103.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:56:10.000Z",
-      "lat": 43.63382,
-      "lng": -79.43796,
+      "lat": 43.63861,
+      "lng": -79.44421,
       "speedKmh": 107.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:56:20.000Z",
-      "lat": 43.63378,
-      "lng": -79.43863,
+      "lat": 43.6386,
+      "lng": -79.44464,
       "speedKmh": 104.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:56:30.000Z",
-      "lat": 43.63375,
-      "lng": -79.4393,
+      "lat": 43.63859,
+      "lng": -79.44506,
       "speedKmh": 104.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:56:40.000Z",
-      "lat": 43.63371,
-      "lng": -79.43998,
+      "lat": 43.63859,
+      "lng": -79.44549,
       "speedKmh": 105.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:56:50.000Z",
-      "lat": 43.63368,
-      "lng": -79.44068,
+      "lat": 43.63858,
+      "lng": -79.44593,
       "speedKmh": 109.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:57:00.000Z",
-      "lat": 43.63365,
-      "lng": -79.44136,
+      "lat": 43.63858,
+      "lng": -79.44636,
       "speedKmh": 105.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:57:10.000Z",
-      "lat": 43.63361,
-      "lng": -79.44206,
+      "lat": 43.63857,
+      "lng": -79.4468,
       "speedKmh": 107.8,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:57:20.000Z",
-      "lat": 43.63358,
-      "lng": -79.44275,
+      "lat": 43.63856,
+      "lng": -79.44724,
       "speedKmh": 107.3,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:57:30.000Z",
-      "lat": 43.63354,
-      "lng": -79.44343,
+      "lat": 43.63856,
+      "lng": -79.44767,
       "speedKmh": 106.6,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:57:40.000Z",
-      "lat": 43.63351,
-      "lng": -79.44412,
+      "lat": 43.63855,
+      "lng": -79.4481,
       "speedKmh": 107.3,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:57:50.000Z",
-      "lat": 43.63347,
-      "lng": -79.44482,
+      "lat": 43.63855,
+      "lng": -79.44854,
       "speedKmh": 108.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:58:00.000Z",
-      "lat": 43.63344,
-      "lng": -79.4455,
+      "lat": 43.63854,
+      "lng": -79.44897,
       "speedKmh": 105.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:58:10.000Z",
-      "lat": 43.63341,
-      "lng": -79.44618,
+      "lat": 43.63854,
+      "lng": -79.4494,
       "speedKmh": 106.6,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:58:20.000Z",
-      "lat": 43.63337,
-      "lng": -79.44688,
+      "lat": 43.63853,
+      "lng": -79.44984,
       "speedKmh": 108.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:58:30.000Z",
-      "lat": 43.63334,
-      "lng": -79.44755,
+      "lat": 43.63852,
+      "lng": -79.45026,
       "speedKmh": 103.5,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:58:40.000Z",
-      "lat": 43.63331,
-      "lng": -79.44816,
+      "lat": 43.63852,
+      "lng": -79.45065,
       "speedKmh": 95,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:58:50.000Z",
-      "lat": 43.63328,
-      "lng": -79.44869,
+      "lat": 43.63851,
+      "lng": -79.45099,
       "speedKmh": 83.1,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:59:00.000Z",
-      "lat": 43.63326,
-      "lng": -79.44915,
+      "lat": 43.63851,
+      "lng": -79.45128,
       "speedKmh": 71.2,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:59:10.000Z",
-      "lat": 43.63324,
-      "lng": -79.44954,
+      "lat": 43.63851,
+      "lng": -79.45152,
       "speedKmh": 59.4,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:59:20.000Z",
-      "lat": 43.63322,
-      "lng": -79.44984,
+      "lat": 43.6385,
+      "lng": -79.45171,
       "speedKmh": 47.5,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:59:30.000Z",
-      "lat": 43.63321,
-      "lng": -79.45007,
+      "lat": 43.6385,
+      "lng": -79.45186,
       "speedKmh": 35.6,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:59:40.000Z",
-      "lat": 43.6332,
-      "lng": -79.45022,
+      "lat": 43.6385,
+      "lng": -79.45195,
       "speedKmh": 23.7,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T13:59:50.000Z",
-      "lat": 43.6332,
-      "lng": -79.4503,
+      "lat": 43.6385,
+      "lng": -79.452,
       "speedKmh": 11.9,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-02",
       "timestamp": "2026-06-15T14:00:00.000Z",
-      "lat": 43.6332,
-      "lng": -79.4503,
+      "lat": 43.6385,
+      "lng": -79.452,
       "speedKmh": 0,
-      "headingDeg": 266.1
+      "headingDeg": 268.9
     },
     {
       "vehicleId": "hx-03",
@@ -15657,48 +15657,48 @@
       "vehicleId": "hx-02",
       "type": "speeding",
       "timestamp": "2026-06-15T13:21:30.000Z",
-      "lat": 43.64009,
-      "lng": -79.30364
+      "lat": 43.64491,
+      "lng": -79.36013
     },
     {
       "id": "hx-02-e1",
       "vehicleId": "hx-02",
       "type": "harsh_brake",
       "timestamp": "2026-06-15T13:32:40.000Z",
-      "lat": 43.63858,
-      "lng": -79.34902
+      "lat": 43.64123,
+      "lng": -79.38826
     },
     {
       "id": "hx-02-e4",
       "vehicleId": "hx-02",
       "type": "idling",
       "timestamp": "2026-06-15T13:33:10.000Z",
-      "lat": 43.63858,
-      "lng": -79.34902
+      "lat": 43.64123,
+      "lng": -79.38826
     },
     {
       "id": "hx-02-e3",
       "vehicleId": "hx-02",
       "type": "speeding",
       "timestamp": "2026-06-15T13:35:30.000Z",
-      "lat": 43.63832,
-      "lng": -79.3566
+      "lat": 43.64083,
+      "lng": -79.393
     },
     {
       "id": "hx-02-e5",
       "vehicleId": "hx-02",
       "type": "idling",
       "timestamp": "2026-06-15T13:40:50.000Z",
-      "lat": 43.63723,
-      "lng": -79.37638
+      "lat": 43.6398,
+      "lng": -79.40541
     },
     {
       "id": "hx-02-e0",
       "vehicleId": "hx-02",
       "type": "harsh_accel",
       "timestamp": "2026-06-15T13:41:20.000Z",
-      "lat": 43.63719,
-      "lng": -79.37707
+      "lat": 43.63976,
+      "lng": -79.40584
     },
     {
       "id": "hx-03-e2",
