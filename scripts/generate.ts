@@ -33,51 +33,74 @@ interface Corridor {
   points: LatLng[]
 }
 
+// Waypoints follow the real highway alignment closely enough that the
+// interpolated trace reads as a plausible route rather than a straight chord.
+// Approximate, on land, and on or beside the road; not survey-accurate.
 const CORRIDORS: Record<string, Corridor> = {
   hwy401: {
     name: 'Highway 401',
     points: [
-      [43.6512, -79.6205],
-      [43.7005, -79.5402],
-      [43.7248, -79.4603],
-      [43.7556, -79.3304],
-      [43.7822, -79.2503],
+      [43.687, -79.617], // 401/427 interchange
+      [43.708, -79.547], // Islington
+      [43.718, -79.5], // Jane
+      [43.725, -79.456], // Allen Road / Yorkdale
+      [43.744, -79.427], // curve north past Bathurst
+      [43.748, -79.416], // Yonge
+      [43.765, -79.376], // Bayview / Leslie
+      [43.767, -79.335], // 401/DVP interchange
+      [43.782, -79.25], // Markham Road
     ],
   },
   hwy400: {
     name: 'Highway 400',
     points: [
-      [43.7252, -79.5102],
-      [43.7701, -79.5253],
-      [43.8203, -79.5351],
-      [43.8702, -79.5404],
+      [43.7256, -79.5183], // 400/401 interchange
+      [43.764, -79.523], // Finch
+      [43.78, -79.525], // Steeles
+      [43.794, -79.528], // Highway 7, Vaughan
+      [43.83, -79.535], // Rutherford
+      [43.856, -79.538], // Major Mackenzie
+      [43.872, -79.54], // Teston
     ],
   },
   qew: {
     name: 'QEW',
     points: [
-      [43.6251, -79.4902],
-      [43.5902, -79.5603],
-      [43.5503, -79.6404],
-      [43.4502, -79.6805],
-      [43.3703, -79.7702],
+      [43.63, -79.478], // Humber / Gardiner junction
+      [43.61, -79.515], // Mimico
+      [43.59, -79.545], // Long Branch
+      [43.572, -79.59], // Port Credit
+      [43.54, -79.635], // Clarkson
+      [43.505, -79.655], // Southdown
+      [43.46, -79.675], // Oakville, Ford Drive
+      [43.415, -79.705], // Bronte
+      [43.37, -79.75], // Burloak
+      [43.34, -79.79], // Burlington, Brant Street
     ],
   },
   dvp: {
     name: 'Don Valley Parkway',
     points: [
-      [43.6502, -79.3601],
-      [43.6802, -79.3552],
-      [43.7102, -79.3403],
-      [43.7452, -79.3351],
+      [43.646, -79.357], // Gardiner / DVP junction
+      [43.66, -79.36], // Riverdale
+      [43.678, -79.356], // Bloor viaduct
+      [43.695, -79.36], // Leaside bend
+      [43.71, -79.348], // Eglinton
+      [43.725, -79.338], // Don Mills / Wynford
+      [43.738, -79.332], // Lawrence
+      [43.755, -79.333], // York Mills
+      [43.766, -79.335], // 401 junction
     ],
   },
   gardiner: {
     name: 'Gardiner Expressway',
     points: [
-      [43.6452, -79.3580], // Gardiner/DVP junction at the Don mouth
-      [43.6415, -79.3850], // downtown core, just north of the harbour
+      [43.6452, -79.358], // Gardiner/DVP junction at the Don mouth
+      [43.6435, -79.37], // Yonge / Jarvis
+      [43.6415, -79.385], // downtown core, Spadina
+      [43.64, -79.4], // Fort York
       [43.639, -79.415], // Exhibition, north of Ontario Place
+      [43.638, -79.435], // Parkdale
       [43.6385, -79.452], // Sunnyside, north of the beach
     ],
   },
