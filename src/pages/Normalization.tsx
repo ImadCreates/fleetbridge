@@ -104,8 +104,11 @@ export function Normalization() {
 
   const { sample, normalized } = useMemo(() => {
     const s = buildSample(view)
-    const adapter = getAdapter(view.provider.id)!
-    const vehicle = VEHICLES.find((v) => v.providerId === view.provider.id)!
+    const adapter = getAdapter(view.provider.id)
+    const vehicle = VEHICLES.find((v) => v.providerId === view.provider.id)
+    if (adapter === undefined || vehicle === undefined) {
+      return { sample: s, normalized: null }
+    }
     return { sample: s, normalized: adapter.normalize(s, vehicle) }
   }, [view])
 
@@ -151,7 +154,13 @@ export function Normalization() {
           <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-slate-400">
             Canonical output
           </h2>
-          <JsonBlock value={normalized} className="max-h-[440px]" />
+          {normalized === null ? (
+            <p className="text-sm text-slate-400">
+              No adapter registered for this provider.
+            </p>
+          ) : (
+            <JsonBlock value={normalized} className="max-h-[440px]" />
+          )}
         </section>
       </div>
 

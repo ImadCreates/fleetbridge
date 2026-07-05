@@ -2,7 +2,7 @@ import { useState, type ReactNode } from 'react'
 
 import { makeConfigAdapter } from '../core/adapters'
 import type { MappingConfig, ProviderAdapter } from '../core/adapters'
-import { getByPath } from '../core/convert'
+import { getByPath, toIso } from '../core/convert'
 import type { SpeedUnit, TimeFormat } from '../core/convert'
 import type { SafetyEventType, Vehicle } from '../core/model'
 import { JsonBlock } from '../components/JsonBlock'
@@ -53,26 +53,28 @@ function validatePaths(pings: unknown[], config: MappingConfig): void {
     ]
     for (const [label, path] of numeric) {
       const value = getByPath(ping, path)
-      if (value === undefined || value === null) {
-        throw new Error(`${label} "${path}" did not resolve on ping ${i}.`)
+      // Reject missing, null, and empty string before coercion: Number('') is 0,
+      // which would otherwise pass silently as a real coordinate or speed.
+      if (value === undefined || value === null || value === '') {
+        throw new Error(`${label} "${path}" did not resolve to a value on ping ${i}.`)
       }
-      if (Number.isNaN(Number(value))) {
+      // Number.isFinite rejects NaN and Infinity, so a huge value cannot slip
+      // through and later crash toISOString.
+      if (!Number.isFinite(Number(value))) {
         throw new Error(
-          `${label} "${path}" is not a number on ping ${i} (got ${JSON.stringify(value)}).`,
+          `${label} "${path}" is not a finite number on ping ${i} (got ${JSON.stringify(value)}).`,
         )
       }
     }
     const time = getByPath(ping, config.timePath)
-    if (time === undefined || time === null) {
-      throw new Error(`timePath "${config.timePath}" did not resolve on ping ${i}.`)
+    if (time === undefined || time === null || time === '') {
+      throw new Error(`timePath "${config.timePath}" did not resolve to a value on ping ${i}.`)
     }
-    const ms =
-      config.timeFormat === 'iso'
-        ? Date.parse(String(time))
-        : config.timeFormat === 'unix_s'
-          ? Number(time) * 1000
-          : Number(time)
-    if (Number.isNaN(ms)) {
+    // toIso is the single source of truth for timestamp parsing; it throws on
+    // NaN, Infinity, or an unparseable string via Date#toISOString.
+    try {
+      toIso(time as number | string, config.timeFormat)
+    } catch {
       throw new Error(
         `timePath "${config.timePath}" did not parse as ${config.timeFormat} on ping ${i} (got ${JSON.stringify(time)}).`,
       )
@@ -152,6 +154,7 @@ export function AddProvider() {
       if (key !== '') eventMap[key] = row.value
     }
     const trimmedEventPath = eventPath.trim()
+    const hasEventPath = trimmedEventPath !== ''
     return {
       latPath: latPath.trim(),
       lngPath: lngPath.trim(),
@@ -159,8 +162,10 @@ export function AddProvider() {
       speedUnit,
       timePath: timePath.trim(),
       timeFormat,
-      eventPath: trimmedEventPath === '' ? undefined : trimmedEventPath,
-      eventMap: Object.keys(eventMap).length > 0 ? eventMap : undefined,
+      // makeConfigAdapter ignores events unless both eventPath and eventMap are
+      // set, so an eventMap without an eventPath does nothing. Reflect that here.
+      eventPath: hasEventPath ? trimmedEventPath : undefined,
+      eventMap: hasEventPath && Object.keys(eventMap).length > 0 ? eventMap : undefined,
     }
   }
 
