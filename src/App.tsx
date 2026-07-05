@@ -4,7 +4,8 @@ import { FleetProvider } from './state/FleetContext'
 import { Layout } from './components/Layout'
 import { FleetOverview } from './pages/FleetOverview'
 import { VehicleDetail } from './pages/VehicleDetail'
-import { Placeholder } from './pages/Placeholder'
+import { Normalization } from './pages/Normalization'
+import { AddProvider } from './pages/AddProvider'
 import { NotFound } from './pages/NotFound'
 
 export default function App() {
@@ -15,14 +16,8 @@ export default function App() {
           <Route element={<Layout />}>
             <Route path="/" element={<FleetOverview />} />
             <Route path="/vehicle/:id" element={<VehicleDetail />} />
-            <Route
-              path="/normalization"
-              element={<Placeholder title="Normalization" />}
-            />
-            <Route
-              path="/add-provider"
-              element={<Placeholder title="Add provider" />}
-            />
+            <Route path="/normalization" element={<Normalization />} />
+            <Route path="/add-provider" element={<AddProvider />} />
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
