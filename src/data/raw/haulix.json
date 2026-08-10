@@ -2,1928 +2,1928 @@
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:15:00.000Z",
-    "latitude": 43.6502,
-    "longitude": -79.3601,
+    "latitude": 43.646,
+    "longitude": -79.357,
     "speed_kmph": 0,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:15:10.000Z",
-    "latitude": 43.65025,
-    "longitude": -79.36009,
+    "latitude": 43.64606,
+    "longitude": -79.35701,
     "speed_kmph": 11,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:15:20.000Z",
-    "latitude": 43.65034,
-    "longitude": -79.36008,
+    "latitude": 43.64619,
+    "longitude": -79.35704,
     "speed_kmph": 21.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:15:30.000Z",
-    "latitude": 43.65049,
-    "longitude": -79.36005,
+    "latitude": 43.64637,
+    "longitude": -79.35708,
     "speed_kmph": 32.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:15:40.000Z",
-    "latitude": 43.65068,
-    "longitude": -79.36002,
+    "latitude": 43.64662,
+    "longitude": -79.35713,
     "speed_kmph": 43.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:15:50.000Z",
-    "latitude": 43.65092,
-    "longitude": -79.35998,
+    "latitude": 43.64693,
+    "longitude": -79.3572,
     "speed_kmph": 54.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:16:00.000Z",
-    "latitude": 43.65121,
-    "longitude": -79.35994,
+    "latitude": 43.6473,
+    "longitude": -79.35728,
     "speed_kmph": 65.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:16:10.000Z",
-    "latitude": 43.65155,
-    "longitude": -79.35988,
+    "latitude": 43.64773,
+    "longitude": -79.35737,
     "speed_kmph": 76.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:16:20.000Z",
-    "latitude": 43.65193,
-    "longitude": -79.35982,
+    "latitude": 43.64822,
+    "longitude": -79.35748,
     "speed_kmph": 87.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:16:30.000Z",
-    "latitude": 43.65235,
-    "longitude": -79.35975,
+    "latitude": 43.64876,
+    "longitude": -79.35759,
     "speed_kmph": 94.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:16:40.000Z",
-    "latitude": 43.65277,
-    "longitude": -79.35968,
+    "latitude": 43.6493,
+    "longitude": -79.35771,
     "speed_kmph": 97,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:16:50.000Z",
-    "latitude": 43.6532,
-    "longitude": -79.35961,
+    "latitude": 43.64985,
+    "longitude": -79.35783,
     "speed_kmph": 97.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:17:00.000Z",
-    "latitude": 43.65362,
-    "longitude": -79.35954,
+    "latitude": 43.65039,
+    "longitude": -79.35794,
     "speed_kmph": 95,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:17:10.000Z",
-    "latitude": 43.65406,
-    "longitude": -79.35947,
+    "latitude": 43.65095,
+    "longitude": -79.35806,
     "speed_kmph": 100.1,
     "event_code": "SPEEDING"
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:17:20.000Z",
-    "latitude": 43.65448,
-    "longitude": -79.3594,
+    "latitude": 43.65149,
+    "longitude": -79.35818,
     "speed_kmph": 95.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:17:30.000Z",
-    "latitude": 43.65491,
-    "longitude": -79.35933,
+    "latitude": 43.65204,
+    "longitude": -79.3583,
     "speed_kmph": 98.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:17:40.000Z",
-    "latitude": 43.65533,
-    "longitude": -79.35926,
+    "latitude": 43.65259,
+    "longitude": -79.35841,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:17:50.000Z",
-    "latitude": 43.65576,
-    "longitude": -79.35919,
+    "latitude": 43.65313,
+    "longitude": -79.35853,
     "speed_kmph": 96.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:18:00.000Z",
-    "latitude": 43.65619,
-    "longitude": -79.35912,
+    "latitude": 43.65369,
+    "longitude": -79.35865,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:18:10.000Z",
-    "latitude": 43.65661,
-    "longitude": -79.35905,
+    "latitude": 43.65422,
+    "longitude": -79.35876,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:18:20.000Z",
-    "latitude": 43.65705,
-    "longitude": -79.35898,
+    "latitude": 43.65479,
+    "longitude": -79.35888,
     "speed_kmph": 100.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:18:30.000Z",
-    "latitude": 43.65749,
-    "longitude": -79.35891,
+    "latitude": 43.65535,
+    "longitude": -79.359,
     "speed_kmph": 100.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:18:40.000Z",
-    "latitude": 43.65793,
-    "longitude": -79.35884,
+    "latitude": 43.65592,
+    "longitude": -79.35913,
     "speed_kmph": 101.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:18:50.000Z",
-    "latitude": 43.65836,
-    "longitude": -79.35877,
+    "latitude": 43.65647,
+    "longitude": -79.35924,
     "speed_kmph": 96.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:19:00.000Z",
-    "latitude": 43.65879,
-    "longitude": -79.3587,
+    "latitude": 43.65702,
+    "longitude": -79.35936,
     "speed_kmph": 98,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:19:10.000Z",
-    "latitude": 43.65921,
-    "longitude": -79.35863,
+    "latitude": 43.65756,
+    "longitude": -79.35948,
     "speed_kmph": 95.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:19:20.000Z",
-    "latitude": 43.65963,
-    "longitude": -79.35856,
+    "latitude": 43.6581,
+    "longitude": -79.35959,
     "speed_kmph": 97,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:19:30.000Z",
-    "latitude": 43.6601,
-    "longitude": -79.35848,
+    "latitude": 43.6587,
+    "longitude": -79.35972,
     "speed_kmph": 105.5,
     "event_code": "SPEEDING"
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:19:40.000Z",
-    "latitude": 43.66053,
-    "longitude": -79.35841,
+    "latitude": 43.65926,
+    "longitude": -79.35984,
     "speed_kmph": 98.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:19:50.000Z",
-    "latitude": 43.66095,
-    "longitude": -79.35834,
+    "latitude": 43.65979,
+    "longitude": -79.35995,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:20:00.000Z",
-    "latitude": 43.66137,
-    "longitude": -79.35828,
+    "latitude": 43.66033,
+    "longitude": -79.35993,
     "speed_kmph": 95.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:20:10.000Z",
-    "latitude": 43.66137,
-    "longitude": -79.35828,
+    "latitude": 43.66033,
+    "longitude": -79.35993,
     "speed_kmph": 0,
     "event_code": "HARD_BRAKE"
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:20:20.000Z",
-    "latitude": 43.66137,
-    "longitude": -79.35827,
+    "latitude": 43.66034,
+    "longitude": -79.35993,
     "speed_kmph": 1.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:20:30.000Z",
-    "latitude": 43.66138,
-    "longitude": -79.35827,
+    "latitude": 43.66034,
+    "longitude": -79.35992,
     "speed_kmph": 1.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:20:40.000Z",
-    "latitude": 43.66138,
-    "longitude": -79.35827,
+    "latitude": 43.66035,
+    "longitude": -79.35992,
     "speed_kmph": 0.7,
     "event_code": "IDLING"
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:20:50.000Z",
-    "latitude": 43.66139,
-    "longitude": -79.35827,
+    "latitude": 43.66036,
+    "longitude": -79.35992,
     "speed_kmph": 1.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:21:00.000Z",
-    "latitude": 43.66139,
-    "longitude": -79.35827,
+    "latitude": 43.66036,
+    "longitude": -79.35992,
     "speed_kmph": 0,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:21:10.000Z",
-    "latitude": 43.66139,
-    "longitude": -79.35827,
+    "latitude": 43.66036,
+    "longitude": -79.35992,
     "speed_kmph": 0.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:21:20.000Z",
-    "latitude": 43.66183,
-    "longitude": -79.3582,
+    "latitude": 43.66093,
+    "longitude": -79.35979,
     "speed_kmph": 100.4,
     "event_code": "HARD_ACCEL"
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:21:30.000Z",
-    "latitude": 43.66228,
-    "longitude": -79.35813,
+    "latitude": 43.6615,
+    "longitude": -79.35967,
     "speed_kmph": 101.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:21:40.000Z",
-    "latitude": 43.66271,
-    "longitude": -79.35806,
+    "latitude": 43.66205,
+    "longitude": -79.35954,
     "speed_kmph": 98.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:21:50.000Z",
-    "latitude": 43.66313,
-    "longitude": -79.35799,
+    "latitude": 43.66258,
+    "longitude": -79.35943,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:22:00.000Z",
-    "latitude": 43.66354,
-    "longitude": -79.35792,
+    "latitude": 43.66312,
+    "longitude": -79.35931,
     "speed_kmph": 94.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:22:10.000Z",
-    "latitude": 43.66398,
-    "longitude": -79.35785,
+    "latitude": 43.66367,
+    "longitude": -79.35918,
     "speed_kmph": 98.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:22:20.000Z",
-    "latitude": 43.66441,
-    "longitude": -79.35778,
+    "latitude": 43.66422,
+    "longitude": -79.35906,
     "speed_kmph": 98,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:22:30.000Z",
-    "latitude": 43.66483,
-    "longitude": -79.35771,
+    "latitude": 43.66477,
+    "longitude": -79.35894,
     "speed_kmph": 96.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:22:40.000Z",
-    "latitude": 43.66528,
-    "longitude": -79.35764,
+    "latitude": 43.66534,
+    "longitude": -79.35881,
     "speed_kmph": 101.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:22:50.000Z",
-    "latitude": 43.6657,
-    "longitude": -79.35757,
+    "latitude": 43.66589,
+    "longitude": -79.35869,
     "speed_kmph": 96.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:23:00.000Z",
-    "latitude": 43.66615,
-    "longitude": -79.3575,
+    "latitude": 43.66645,
+    "longitude": -79.35857,
     "speed_kmph": 100.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:23:10.000Z",
-    "latitude": 43.66657,
-    "longitude": -79.35743,
+    "latitude": 43.667,
+    "longitude": -79.35844,
     "speed_kmph": 97.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:23:20.000Z",
-    "latitude": 43.667,
-    "longitude": -79.35736,
+    "latitude": 43.66755,
+    "longitude": -79.35832,
     "speed_kmph": 98.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:23:30.000Z",
-    "latitude": 43.66743,
-    "longitude": -79.35729,
+    "latitude": 43.6681,
+    "longitude": -79.3582,
     "speed_kmph": 97.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:23:40.000Z",
-    "latitude": 43.66785,
-    "longitude": -79.35722,
+    "latitude": 43.66864,
+    "longitude": -79.35808,
     "speed_kmph": 96.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:23:50.000Z",
-    "latitude": 43.66829,
-    "longitude": -79.35715,
+    "latitude": 43.66919,
+    "longitude": -79.35796,
     "speed_kmph": 98.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:24:00.000Z",
-    "latitude": 43.66872,
-    "longitude": -79.35708,
+    "latitude": 43.66975,
+    "longitude": -79.35783,
     "speed_kmph": 98.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:24:10.000Z",
-    "latitude": 43.66913,
-    "longitude": -79.35701,
+    "latitude": 43.67028,
+    "longitude": -79.35772,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:24:20.000Z",
-    "latitude": 43.66957,
-    "longitude": -79.35694,
+    "latitude": 43.67084,
+    "longitude": -79.35759,
     "speed_kmph": 99.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:24:30.000Z",
-    "latitude": 43.67,
-    "longitude": -79.35687,
+    "latitude": 43.6714,
+    "longitude": -79.35747,
     "speed_kmph": 98.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:24:40.000Z",
-    "latitude": 43.67043,
-    "longitude": -79.3568,
+    "latitude": 43.67194,
+    "longitude": -79.35735,
     "speed_kmph": 96.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:24:50.000Z",
-    "latitude": 43.67087,
-    "longitude": -79.35672,
+    "latitude": 43.6725,
+    "longitude": -79.35722,
     "speed_kmph": 100.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:25:00.000Z",
-    "latitude": 43.67129,
-    "longitude": -79.35666,
+    "latitude": 43.67304,
+    "longitude": -79.3571,
     "speed_kmph": 95.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:25:10.000Z",
-    "latitude": 43.67173,
-    "longitude": -79.35658,
+    "latitude": 43.67361,
+    "longitude": -79.35698,
     "speed_kmph": 100.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:25:20.000Z",
-    "latitude": 43.67216,
-    "longitude": -79.35651,
+    "latitude": 43.67416,
+    "longitude": -79.35685,
     "speed_kmph": 98.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:25:30.000Z",
-    "latitude": 43.6726,
-    "longitude": -79.35644,
+    "latitude": 43.67473,
+    "longitude": -79.35673,
     "speed_kmph": 101.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:25:40.000Z",
-    "latitude": 43.67303,
-    "longitude": -79.35637,
+    "latitude": 43.67528,
+    "longitude": -79.3566,
     "speed_kmph": 97.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:25:50.000Z",
-    "latitude": 43.67345,
-    "longitude": -79.3563,
+    "latitude": 43.67581,
+    "longitude": -79.35649,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:26:00.000Z",
-    "latitude": 43.67387,
-    "longitude": -79.35623,
+    "latitude": 43.67635,
+    "longitude": -79.35637,
     "speed_kmph": 95.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:26:10.000Z",
-    "latitude": 43.67429,
-    "longitude": -79.35617,
+    "latitude": 43.67689,
+    "longitude": -79.35625,
     "speed_kmph": 96.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:26:20.000Z",
-    "latitude": 43.67473,
-    "longitude": -79.35609,
+    "latitude": 43.67746,
+    "longitude": -79.35612,
     "speed_kmph": 101.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:26:30.000Z",
-    "latitude": 43.67515,
-    "longitude": -79.35602,
+    "latitude": 43.678,
+    "longitude": -79.356,
     "speed_kmph": 95.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:26:40.000Z",
-    "latitude": 43.6756,
-    "longitude": -79.35595,
+    "latitude": 43.67857,
+    "longitude": -79.35613,
     "speed_kmph": 101,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:26:50.000Z",
-    "latitude": 43.67603,
-    "longitude": -79.35588,
+    "latitude": 43.67911,
+    "longitude": -79.35626,
     "speed_kmph": 97.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:27:00.000Z",
-    "latitude": 43.67646,
-    "longitude": -79.35581,
+    "latitude": 43.67967,
+    "longitude": -79.35639,
     "speed_kmph": 99.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:27:10.000Z",
-    "latitude": 43.67689,
-    "longitude": -79.35574,
+    "latitude": 43.68022,
+    "longitude": -79.35652,
     "speed_kmph": 97.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:27:20.000Z",
-    "latitude": 43.67732,
-    "longitude": -79.35567,
+    "latitude": 43.68077,
+    "longitude": -79.35665,
     "speed_kmph": 98.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:27:30.000Z",
-    "latitude": 43.67774,
-    "longitude": -79.3556,
+    "latitude": 43.6813,
+    "longitude": -79.35678,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:27:40.000Z",
-    "latitude": 43.67817,
-    "longitude": -79.35553,
+    "latitude": 43.68186,
+    "longitude": -79.35691,
     "speed_kmph": 99.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:27:50.000Z",
-    "latitude": 43.6786,
-    "longitude": -79.35546,
+    "latitude": 43.68241,
+    "longitude": -79.35704,
     "speed_kmph": 97.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:28:00.000Z",
-    "latitude": 43.67904,
-    "longitude": -79.35539,
+    "latitude": 43.68297,
+    "longitude": -79.35717,
     "speed_kmph": 99,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:28:10.000Z",
-    "latitude": 43.67947,
-    "longitude": -79.35532,
+    "latitude": 43.68352,
+    "longitude": -79.3573,
     "speed_kmph": 98.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:28:20.000Z",
-    "latitude": 43.67991,
-    "longitude": -79.35525,
+    "latitude": 43.68409,
+    "longitude": -79.35743,
     "speed_kmph": 101.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:28:30.000Z",
-    "latitude": 43.68033,
-    "longitude": -79.35513,
+    "latitude": 43.68464,
+    "longitude": -79.35756,
     "speed_kmph": 97.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:28:40.000Z",
-    "latitude": 43.68074,
-    "longitude": -79.35493,
+    "latitude": 43.68519,
+    "longitude": -79.35769,
     "speed_kmph": 98,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:28:50.000Z",
-    "latitude": 43.68114,
-    "longitude": -79.35473,
+    "latitude": 43.68572,
+    "longitude": -79.35782,
     "speed_kmph": 95.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:29:00.000Z",
-    "latitude": 43.68154,
-    "longitude": -79.35453,
+    "latitude": 43.68627,
+    "longitude": -79.35795,
     "speed_kmph": 97.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:29:10.000Z",
-    "latitude": 43.68194,
-    "longitude": -79.35433,
+    "latitude": 43.68681,
+    "longitude": -79.35807,
     "speed_kmph": 96.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:29:20.000Z",
-    "latitude": 43.68236,
-    "longitude": -79.35413,
+    "latitude": 43.68738,
+    "longitude": -79.35821,
     "speed_kmph": 101,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:29:30.000Z",
-    "latitude": 43.68277,
-    "longitude": -79.35392,
+    "latitude": 43.68793,
+    "longitude": -79.35834,
     "speed_kmph": 97.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:29:40.000Z",
-    "latitude": 43.68316,
-    "longitude": -79.35373,
+    "latitude": 43.68846,
+    "longitude": -79.35846,
     "speed_kmph": 95,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:29:50.000Z",
-    "latitude": 43.68359,
-    "longitude": -79.35352,
+    "latitude": 43.68903,
+    "longitude": -79.3586,
     "speed_kmph": 101.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:30:00.000Z",
-    "latitude": 43.68399,
-    "longitude": -79.35332,
+    "latitude": 43.68958,
+    "longitude": -79.35873,
     "speed_kmph": 97.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:30:10.000Z",
-    "latitude": 43.68439,
-    "longitude": -79.35312,
+    "latitude": 43.69012,
+    "longitude": -79.35885,
     "speed_kmph": 96.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:30:20.000Z",
-    "latitude": 43.68481,
-    "longitude": -79.35291,
+    "latitude": 43.69069,
+    "longitude": -79.35899,
     "speed_kmph": 101.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:30:30.000Z",
-    "latitude": 43.68521,
-    "longitude": -79.35271,
+    "latitude": 43.69123,
+    "longitude": -79.35911,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:30:40.000Z",
-    "latitude": 43.68562,
-    "longitude": -79.35251,
+    "latitude": 43.69178,
+    "longitude": -79.35924,
     "speed_kmph": 98.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:30:50.000Z",
-    "latitude": 43.68602,
-    "longitude": -79.35231,
+    "latitude": 43.69232,
+    "longitude": -79.35937,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:31:00.000Z",
-    "latitude": 43.68643,
-    "longitude": -79.3521,
+    "latitude": 43.69288,
+    "longitude": -79.3595,
     "speed_kmph": 98.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:31:10.000Z",
-    "latitude": 43.68686,
-    "longitude": -79.35189,
+    "latitude": 43.69345,
+    "longitude": -79.35963,
     "speed_kmph": 101.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:31:20.000Z",
-    "latitude": 43.68726,
-    "longitude": -79.35169,
+    "latitude": 43.694,
+    "longitude": -79.35976,
     "speed_kmph": 98.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:31:30.000Z",
-    "latitude": 43.68769,
-    "longitude": -79.35148,
+    "latitude": 43.69457,
+    "longitude": -79.3599,
     "speed_kmph": 101.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:31:40.000Z",
-    "latitude": 43.68809,
-    "longitude": -79.35128,
+    "latitude": 43.6951,
+    "longitude": -79.35992,
     "speed_kmph": 97.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:31:50.000Z",
-    "latitude": 43.68849,
-    "longitude": -79.35108,
+    "latitude": 43.69557,
+    "longitude": -79.35954,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:32:00.000Z",
-    "latitude": 43.6889,
-    "longitude": -79.35088,
+    "latitude": 43.69606,
+    "longitude": -79.35916,
     "speed_kmph": 98.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:32:10.000Z",
-    "latitude": 43.68931,
-    "longitude": -79.35067,
+    "latitude": 43.69655,
+    "longitude": -79.35876,
     "speed_kmph": 100.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:32:20.000Z",
-    "latitude": 43.68971,
-    "longitude": -79.35048,
+    "latitude": 43.69702,
+    "longitude": -79.35838,
     "speed_kmph": 96.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:32:30.000Z",
-    "latitude": 43.69012,
-    "longitude": -79.35027,
+    "latitude": 43.69751,
+    "longitude": -79.35799,
     "speed_kmph": 98.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:32:40.000Z",
-    "latitude": 43.69055,
-    "longitude": -79.35006,
+    "latitude": 43.69801,
+    "longitude": -79.35759,
     "speed_kmph": 101.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:32:50.000Z",
-    "latitude": 43.69095,
-    "longitude": -79.34986,
+    "latitude": 43.69849,
+    "longitude": -79.35721,
     "speed_kmph": 96.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:33:00.000Z",
-    "latitude": 43.69137,
-    "longitude": -79.34965,
+    "latitude": 43.69899,
+    "longitude": -79.35681,
     "speed_kmph": 101.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:33:10.000Z",
-    "latitude": 43.69179,
-    "longitude": -79.34944,
+    "latitude": 43.69949,
+    "longitude": -79.35641,
     "speed_kmph": 100.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:33:20.000Z",
-    "latitude": 43.69221,
-    "longitude": -79.34924,
+    "latitude": 43.69998,
+    "longitude": -79.35601,
     "speed_kmph": 100.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:33:30.000Z",
-    "latitude": 43.69262,
-    "longitude": -79.34903,
+    "latitude": 43.70047,
+    "longitude": -79.35562,
     "speed_kmph": 98.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:33:40.000Z",
-    "latitude": 43.69303,
-    "longitude": -79.34883,
+    "latitude": 43.70096,
+    "longitude": -79.35523,
     "speed_kmph": 99.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:33:50.000Z",
-    "latitude": 43.69345,
-    "longitude": -79.34862,
+    "latitude": 43.70146,
+    "longitude": -79.35483,
     "speed_kmph": 100.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:34:00.000Z",
-    "latitude": 43.69386,
-    "longitude": -79.34842,
+    "latitude": 43.70194,
+    "longitude": -79.35445,
     "speed_kmph": 96.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:34:10.000Z",
-    "latitude": 43.69426,
-    "longitude": -79.34821,
+    "latitude": 43.70242,
+    "longitude": -79.35406,
     "speed_kmph": 98.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:34:20.000Z",
-    "latitude": 43.69466,
-    "longitude": -79.34802,
+    "latitude": 43.7029,
+    "longitude": -79.35368,
     "speed_kmph": 96.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:34:30.000Z",
-    "latitude": 43.69508,
-    "longitude": -79.34781,
+    "latitude": 43.70339,
+    "longitude": -79.35329,
     "speed_kmph": 100.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:34:40.000Z",
-    "latitude": 43.69548,
-    "longitude": -79.34761,
+    "latitude": 43.70386,
+    "longitude": -79.35291,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:34:50.000Z",
-    "latitude": 43.69587,
-    "longitude": -79.34742,
+    "latitude": 43.70433,
+    "longitude": -79.35253,
     "speed_kmph": 95.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:35:00.000Z",
-    "latitude": 43.69628,
-    "longitude": -79.34721,
+    "latitude": 43.70482,
+    "longitude": -79.35215,
     "speed_kmph": 98.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:35:10.000Z",
-    "latitude": 43.69671,
-    "longitude": -79.347,
+    "latitude": 43.70532,
+    "longitude": -79.35175,
     "speed_kmph": 101.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:35:20.000Z",
-    "latitude": 43.69713,
-    "longitude": -79.34679,
+    "latitude": 43.70582,
+    "longitude": -79.35135,
     "speed_kmph": 100.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:35:30.000Z",
-    "latitude": 43.69753,
-    "longitude": -79.3466,
+    "latitude": 43.70629,
+    "longitude": -79.35097,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:35:40.000Z",
-    "latitude": 43.69794,
-    "longitude": -79.34639,
+    "latitude": 43.70678,
+    "longitude": -79.35057,
     "speed_kmph": 100.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:35:50.000Z",
-    "latitude": 43.69836,
-    "longitude": -79.34618,
+    "latitude": 43.70728,
+    "longitude": -79.35017,
     "speed_kmph": 101.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:36:00.000Z",
-    "latitude": 43.69876,
-    "longitude": -79.34598,
+    "latitude": 43.70775,
+    "longitude": -79.3498,
     "speed_kmph": 94.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:36:10.000Z",
-    "latitude": 43.69916,
-    "longitude": -79.34578,
+    "latitude": 43.70823,
+    "longitude": -79.34942,
     "speed_kmph": 96.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:36:20.000Z",
-    "latitude": 43.69956,
-    "longitude": -79.34558,
+    "latitude": 43.7087,
+    "longitude": -79.34904,
     "speed_kmph": 96.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:36:30.000Z",
-    "latitude": 43.69997,
-    "longitude": -79.34538,
+    "latitude": 43.70919,
+    "longitude": -79.34865,
     "speed_kmph": 98.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:36:40.000Z",
-    "latitude": 43.70037,
-    "longitude": -79.34518,
+    "latitude": 43.70966,
+    "longitude": -79.34827,
     "speed_kmph": 95.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:36:50.000Z",
-    "latitude": 43.70078,
-    "longitude": -79.34498,
+    "latitude": 43.71016,
+    "longitude": -79.34789,
     "speed_kmph": 99.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:37:00.000Z",
-    "latitude": 43.70119,
-    "longitude": -79.34477,
+    "latitude": 43.71067,
+    "longitude": -79.34755,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:37:10.000Z",
-    "latitude": 43.7016,
-    "longitude": -79.34457,
+    "latitude": 43.71117,
+    "longitude": -79.34722,
     "speed_kmph": 98.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:37:20.000Z",
-    "latitude": 43.70202,
-    "longitude": -79.34436,
+    "latitude": 43.71168,
+    "longitude": -79.34688,
     "speed_kmph": 99,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:37:30.000Z",
-    "latitude": 43.70243,
-    "longitude": -79.34416,
+    "latitude": 43.71219,
+    "longitude": -79.34654,
     "speed_kmph": 98.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:37:40.000Z",
-    "latitude": 43.70284,
-    "longitude": -79.34396,
+    "latitude": 43.71269,
+    "longitude": -79.34621,
     "speed_kmph": 98.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:37:50.000Z",
-    "latitude": 43.70325,
-    "longitude": -79.34375,
+    "latitude": 43.7132,
+    "longitude": -79.34587,
     "speed_kmph": 98.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:38:00.000Z",
-    "latitude": 43.70364,
-    "longitude": -79.34356,
+    "latitude": 43.71369,
+    "longitude": -79.34554,
     "speed_kmph": 95.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:38:10.000Z",
-    "latitude": 43.70405,
-    "longitude": -79.34335,
+    "latitude": 43.71419,
+    "longitude": -79.3452,
     "speed_kmph": 98.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:38:20.000Z",
-    "latitude": 43.70447,
-    "longitude": -79.34315,
+    "latitude": 43.71471,
+    "longitude": -79.34486,
     "speed_kmph": 100.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:38:30.000Z",
-    "latitude": 43.70488,
-    "longitude": -79.34294,
+    "latitude": 43.71522,
+    "longitude": -79.34452,
     "speed_kmph": 99.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:38:40.000Z",
-    "latitude": 43.70528,
-    "longitude": -79.34274,
+    "latitude": 43.71571,
+    "longitude": -79.34419,
     "speed_kmph": 95.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:38:50.000Z",
-    "latitude": 43.70569,
-    "longitude": -79.34254,
+    "latitude": 43.71622,
+    "longitude": -79.34386,
     "speed_kmph": 98.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:39:00.000Z",
-    "latitude": 43.70611,
-    "longitude": -79.34233,
+    "latitude": 43.71673,
+    "longitude": -79.34351,
     "speed_kmph": 100.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:39:10.000Z",
-    "latitude": 43.70651,
-    "longitude": -79.34213,
+    "latitude": 43.71723,
+    "longitude": -79.34318,
     "speed_kmph": 96.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:39:20.000Z",
-    "latitude": 43.70693,
-    "longitude": -79.34192,
+    "latitude": 43.71775,
+    "longitude": -79.34284,
     "speed_kmph": 100.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:39:30.000Z",
-    "latitude": 43.70733,
-    "longitude": -79.34172,
+    "latitude": 43.71824,
+    "longitude": -79.3425,
     "speed_kmph": 96.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:39:40.000Z",
-    "latitude": 43.70773,
-    "longitude": -79.34153,
+    "latitude": 43.71873,
+    "longitude": -79.34218,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:39:50.000Z",
-    "latitude": 43.70814,
-    "longitude": -79.34132,
+    "latitude": 43.71923,
+    "longitude": -79.34184,
     "speed_kmph": 98.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:40:00.000Z",
-    "latitude": 43.70855,
-    "longitude": -79.34112,
+    "latitude": 43.71974,
+    "longitude": -79.34151,
     "speed_kmph": 98.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:40:10.000Z",
-    "latitude": 43.70897,
-    "longitude": -79.34091,
+    "latitude": 43.72026,
+    "longitude": -79.34116,
     "speed_kmph": 101,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:40:20.000Z",
-    "latitude": 43.70937,
-    "longitude": -79.34071,
+    "latitude": 43.72075,
+    "longitude": -79.34083,
     "speed_kmph": 95.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:40:30.000Z",
-    "latitude": 43.70978,
-    "longitude": -79.34051,
+    "latitude": 43.72126,
+    "longitude": -79.34049,
     "speed_kmph": 99.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:40:40.000Z",
-    "latitude": 43.71018,
-    "longitude": -79.34031,
+    "latitude": 43.72175,
+    "longitude": -79.34016,
     "speed_kmph": 95.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:40:50.000Z",
-    "latitude": 43.71062,
-    "longitude": -79.34024,
+    "latitude": 43.72228,
+    "longitude": -79.33982,
     "speed_kmph": 101.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:41:00.000Z",
-    "latitude": 43.71107,
-    "longitude": -79.34017,
+    "latitude": 43.7228,
+    "longitude": -79.33947,
     "speed_kmph": 101.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:41:10.000Z",
-    "latitude": 43.71151,
-    "longitude": -79.3401,
+    "latitude": 43.72332,
+    "longitude": -79.33912,
     "speed_kmph": 101.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:41:20.000Z",
-    "latitude": 43.71193,
-    "longitude": -79.34004,
+    "latitude": 43.7238,
+    "longitude": -79.3388,
     "speed_kmph": 94.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:41:30.000Z",
-    "latitude": 43.71237,
-    "longitude": -79.33998,
+    "latitude": 43.72432,
+    "longitude": -79.33845,
     "speed_kmph": 101.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:41:40.000Z",
-    "latitude": 43.71281,
-    "longitude": -79.33991,
+    "latitude": 43.72483,
+    "longitude": -79.33811,
     "speed_kmph": 99.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:41:50.000Z",
-    "latitude": 43.71325,
-    "longitude": -79.33985,
+    "latitude": 43.72536,
+    "longitude": -79.33783,
     "speed_kmph": 100.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:42:00.000Z",
-    "latitude": 43.71367,
-    "longitude": -79.33978,
+    "latitude": 43.72588,
+    "longitude": -79.3376,
     "speed_kmph": 94.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:42:10.000Z",
-    "latitude": 43.71409,
-    "longitude": -79.33972,
+    "latitude": 43.7264,
+    "longitude": -79.33735,
     "speed_kmph": 96.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:42:20.000Z",
-    "latitude": 43.71452,
-    "longitude": -79.33966,
+    "latitude": 43.72693,
+    "longitude": -79.33711,
     "speed_kmph": 97.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:42:30.000Z",
-    "latitude": 43.71496,
-    "longitude": -79.33959,
+    "latitude": 43.72746,
+    "longitude": -79.33686,
     "speed_kmph": 98.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:42:40.000Z",
-    "latitude": 43.71541,
-    "longitude": -79.33953,
+    "latitude": 43.72802,
+    "longitude": -79.33661,
     "speed_kmph": 103.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:42:50.000Z",
-    "latitude": 43.71585,
-    "longitude": -79.33946,
+    "latitude": 43.72856,
+    "longitude": -79.33636,
     "speed_kmph": 99.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:43:00.000Z",
-    "latitude": 43.71628,
-    "longitude": -79.3394,
+    "latitude": 43.72909,
+    "longitude": -79.33611,
     "speed_kmph": 98.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:43:10.000Z",
-    "latitude": 43.71671,
-    "longitude": -79.33933,
+    "latitude": 43.72962,
+    "longitude": -79.33587,
     "speed_kmph": 96.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:43:20.000Z",
-    "latitude": 43.71713,
-    "longitude": -79.33927,
+    "latitude": 43.73013,
+    "longitude": -79.33563,
     "speed_kmph": 95,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:43:30.000Z",
-    "latitude": 43.71756,
-    "longitude": -79.33921,
+    "latitude": 43.73066,
+    "longitude": -79.33539,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:43:40.000Z",
-    "latitude": 43.71798,
-    "longitude": -79.33914,
+    "latitude": 43.73118,
+    "longitude": -79.33515,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:43:50.000Z",
-    "latitude": 43.71841,
-    "longitude": -79.33908,
+    "latitude": 43.73171,
+    "longitude": -79.3349,
     "speed_kmph": 98.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:44:00.000Z",
-    "latitude": 43.71884,
-    "longitude": -79.33902,
+    "latitude": 43.73224,
+    "longitude": -79.33466,
     "speed_kmph": 96.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:44:10.000Z",
-    "latitude": 43.71928,
-    "longitude": -79.33895,
+    "latitude": 43.73278,
+    "longitude": -79.33441,
     "speed_kmph": 100,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:44:20.000Z",
-    "latitude": 43.71971,
-    "longitude": -79.33889,
+    "latitude": 43.73331,
+    "longitude": -79.33416,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:44:30.000Z",
-    "latitude": 43.72013,
-    "longitude": -79.33882,
+    "latitude": 43.73383,
+    "longitude": -79.33392,
     "speed_kmph": 95.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:44:40.000Z",
-    "latitude": 43.72055,
-    "longitude": -79.33876,
+    "latitude": 43.73435,
+    "longitude": -79.33369,
     "speed_kmph": 95,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:44:50.000Z",
-    "latitude": 43.72099,
-    "longitude": -79.3387,
+    "latitude": 43.73489,
+    "longitude": -79.33344,
     "speed_kmph": 100.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:45:00.000Z",
-    "latitude": 43.72143,
-    "longitude": -79.33863,
+    "latitude": 43.73542,
+    "longitude": -79.33319,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:45:10.000Z",
-    "latitude": 43.72187,
-    "longitude": -79.33857,
+    "latitude": 43.73596,
+    "longitude": -79.33294,
     "speed_kmph": 99.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:45:20.000Z",
-    "latitude": 43.7223,
-    "longitude": -79.3385,
+    "latitude": 43.7365,
+    "longitude": -79.33269,
     "speed_kmph": 99.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:45:30.000Z",
-    "latitude": 43.72273,
-    "longitude": -79.33844,
+    "latitude": 43.73703,
+    "longitude": -79.33245,
     "speed_kmph": 97.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:45:40.000Z",
-    "latitude": 43.72317,
-    "longitude": -79.33837,
+    "latitude": 43.73757,
+    "longitude": -79.3322,
     "speed_kmph": 100.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:45:50.000Z",
-    "latitude": 43.7236,
-    "longitude": -79.33831,
+    "latitude": 43.7381,
+    "longitude": -79.33201,
     "speed_kmph": 96.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:46:00.000Z",
-    "latitude": 43.72405,
-    "longitude": -79.33824,
+    "latitude": 43.73868,
+    "longitude": -79.33204,
     "speed_kmph": 101.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:46:10.000Z",
-    "latitude": 43.72447,
-    "longitude": -79.33818,
+    "latitude": 43.73923,
+    "longitude": -79.33207,
     "speed_kmph": 97.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:46:20.000Z",
-    "latitude": 43.72489,
-    "longitude": -79.33812,
+    "latitude": 43.73978,
+    "longitude": -79.3321,
     "speed_kmph": 95.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:46:30.000Z",
-    "latitude": 43.72533,
-    "longitude": -79.33805,
+    "latitude": 43.74035,
+    "longitude": -79.33214,
     "speed_kmph": 100,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:46:40.000Z",
-    "latitude": 43.72578,
-    "longitude": -79.33799,
+    "latitude": 43.74092,
+    "longitude": -79.33217,
     "speed_kmph": 100.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:46:50.000Z",
-    "latitude": 43.72621,
-    "longitude": -79.33792,
+    "latitude": 43.74148,
+    "longitude": -79.3322,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:47:00.000Z",
-    "latitude": 43.72663,
-    "longitude": -79.33786,
+    "latitude": 43.74203,
+    "longitude": -79.33224,
     "speed_kmph": 95.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:47:10.000Z",
-    "latitude": 43.72708,
-    "longitude": -79.33779,
+    "latitude": 43.7426,
+    "longitude": -79.33227,
     "speed_kmph": 101,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:47:20.000Z",
-    "latitude": 43.72751,
-    "longitude": -79.33773,
+    "latitude": 43.74317,
+    "longitude": -79.3323,
     "speed_kmph": 99.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:47:30.000Z",
-    "latitude": 43.72795,
-    "longitude": -79.33766,
+    "latitude": 43.74374,
+    "longitude": -79.33234,
     "speed_kmph": 100.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:47:40.000Z",
-    "latitude": 43.72838,
-    "longitude": -79.3376,
+    "latitude": 43.7443,
+    "longitude": -79.33237,
     "speed_kmph": 97.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:47:50.000Z",
-    "latitude": 43.72881,
-    "longitude": -79.33753,
+    "latitude": 43.74485,
+    "longitude": -79.3324,
     "speed_kmph": 97.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:48:00.000Z",
-    "latitude": 43.72925,
-    "longitude": -79.33747,
+    "latitude": 43.74542,
+    "longitude": -79.33244,
     "speed_kmph": 100.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:48:10.000Z",
-    "latitude": 43.72968,
-    "longitude": -79.33741,
+    "latitude": 43.74598,
+    "longitude": -79.33247,
     "speed_kmph": 96.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:48:20.000Z",
-    "latitude": 43.73012,
-    "longitude": -79.33734,
+    "latitude": 43.74654,
+    "longitude": -79.3325,
     "speed_kmph": 99.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:48:30.000Z",
-    "latitude": 43.73054,
-    "longitude": -79.33728,
+    "latitude": 43.74709,
+    "longitude": -79.33253,
     "speed_kmph": 95.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:48:40.000Z",
-    "latitude": 43.73096,
-    "longitude": -79.33722,
+    "latitude": 43.74763,
+    "longitude": -79.33257,
     "speed_kmph": 95,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:48:50.000Z",
-    "latitude": 43.73138,
-    "longitude": -79.33715,
+    "latitude": 43.74818,
+    "longitude": -79.3326,
     "speed_kmph": 96.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:49:00.000Z",
-    "latitude": 43.7318,
-    "longitude": -79.33709,
+    "latitude": 43.74873,
+    "longitude": -79.33263,
     "speed_kmph": 96.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:49:10.000Z",
-    "latitude": 43.73224,
-    "longitude": -79.33703,
+    "latitude": 43.74929,
+    "longitude": -79.33266,
     "speed_kmph": 99.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:49:20.000Z",
-    "latitude": 43.73267,
-    "longitude": -79.33696,
+    "latitude": 43.74986,
+    "longitude": -79.3327,
     "speed_kmph": 99.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:49:30.000Z",
-    "latitude": 43.7331,
-    "longitude": -79.3369,
+    "latitude": 43.75041,
+    "longitude": -79.33273,
     "speed_kmph": 97,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:49:40.000Z",
-    "latitude": 43.73353,
-    "longitude": -79.33683,
+    "latitude": 43.75097,
+    "longitude": -79.33276,
     "speed_kmph": 98.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:49:50.000Z",
-    "latitude": 43.73397,
-    "longitude": -79.33677,
+    "latitude": 43.75154,
+    "longitude": -79.3328,
     "speed_kmph": 99.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:50:00.000Z",
-    "latitude": 43.73441,
-    "longitude": -79.3367,
+    "latitude": 43.75211,
+    "longitude": -79.33283,
     "speed_kmph": 100.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:50:10.000Z",
-    "latitude": 43.73485,
-    "longitude": -79.33664,
+    "latitude": 43.75268,
+    "longitude": -79.33286,
     "speed_kmph": 100.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:50:20.000Z",
-    "latitude": 43.73528,
-    "longitude": -79.33657,
+    "latitude": 43.75323,
+    "longitude": -79.3329,
     "speed_kmph": 95.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:50:30.000Z",
-    "latitude": 43.73572,
-    "longitude": -79.33651,
+    "latitude": 43.7538,
+    "longitude": -79.33293,
     "speed_kmph": 101,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:50:40.000Z",
-    "latitude": 43.73615,
-    "longitude": -79.33645,
+    "latitude": 43.75436,
+    "longitude": -79.33296,
     "speed_kmph": 97.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:50:50.000Z",
-    "latitude": 43.73657,
-    "longitude": -79.33638,
+    "latitude": 43.75491,
+    "longitude": -79.33299,
     "speed_kmph": 96.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:51:00.000Z",
-    "latitude": 43.737,
-    "longitude": -79.33632,
+    "latitude": 43.75545,
+    "longitude": -79.33308,
     "speed_kmph": 96.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:51:10.000Z",
-    "latitude": 43.73742,
-    "longitude": -79.33626,
+    "latitude": 43.756,
+    "longitude": -79.33318,
     "speed_kmph": 96.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:51:20.000Z",
-    "latitude": 43.73786,
-    "longitude": -79.33619,
+    "latitude": 43.75656,
+    "longitude": -79.33328,
     "speed_kmph": 99.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:51:30.000Z",
-    "latitude": 43.7383,
-    "longitude": -79.33613,
+    "latitude": 43.75713,
+    "longitude": -79.33339,
     "speed_kmph": 99.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:51:40.000Z",
-    "latitude": 43.73873,
-    "longitude": -79.33606,
+    "latitude": 43.75768,
+    "longitude": -79.33349,
     "speed_kmph": 98.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:51:50.000Z",
-    "latitude": 43.73916,
-    "longitude": -79.336,
+    "latitude": 43.75824,
+    "longitude": -79.33359,
     "speed_kmph": 98.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:52:00.000Z",
-    "latitude": 43.73959,
-    "longitude": -79.33593,
+    "latitude": 43.75879,
+    "longitude": -79.33369,
     "speed_kmph": 97.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:52:10.000Z",
-    "latitude": 43.74002,
-    "longitude": -79.33587,
+    "latitude": 43.75934,
+    "longitude": -79.33379,
     "speed_kmph": 97.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:52:20.000Z",
-    "latitude": 43.74044,
-    "longitude": -79.33581,
+    "latitude": 43.75988,
+    "longitude": -79.33389,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:52:30.000Z",
-    "latitude": 43.74087,
-    "longitude": -79.33574,
+    "latitude": 43.76043,
+    "longitude": -79.33399,
     "speed_kmph": 97.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:52:40.000Z",
-    "latitude": 43.74131,
-    "longitude": -79.33568,
+    "latitude": 43.76099,
+    "longitude": -79.33409,
     "speed_kmph": 98.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:52:50.000Z",
-    "latitude": 43.74175,
-    "longitude": -79.33561,
+    "latitude": 43.76156,
+    "longitude": -79.33419,
     "speed_kmph": 100.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:53:00.000Z",
-    "latitude": 43.74218,
-    "longitude": -79.33555,
+    "latitude": 43.76212,
+    "longitude": -79.3343,
     "speed_kmph": 99.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:53:10.000Z",
-    "latitude": 43.74263,
-    "longitude": -79.33548,
+    "latitude": 43.76269,
+    "longitude": -79.3344,
     "speed_kmph": 100.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:53:20.000Z",
-    "latitude": 43.74305,
-    "longitude": -79.33542,
+    "latitude": 43.76324,
+    "longitude": -79.3345,
     "speed_kmph": 96,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:53:30.000Z",
-    "latitude": 43.74347,
-    "longitude": -79.33536,
+    "latitude": 43.76377,
+    "longitude": -79.33459,
     "speed_kmph": 94.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:53:40.000Z",
-    "latitude": 43.74385,
-    "longitude": -79.3353,
+    "latitude": 43.76427,
+    "longitude": -79.33468,
     "speed_kmph": 87.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:53:50.000Z",
-    "latitude": 43.74419,
-    "longitude": -79.33525,
+    "latitude": 43.7647,
+    "longitude": -79.33476,
     "speed_kmph": 76.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:54:00.000Z",
-    "latitude": 43.74448,
-    "longitude": -79.33521,
+    "latitude": 43.76507,
+    "longitude": -79.33483,
     "speed_kmph": 65.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:54:10.000Z",
-    "latitude": 43.74472,
-    "longitude": -79.33517,
+    "latitude": 43.76538,
+    "longitude": -79.33489,
     "speed_kmph": 54.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:54:20.000Z",
-    "latitude": 43.74491,
-    "longitude": -79.33514,
+    "latitude": 43.76563,
+    "longitude": -79.33493,
     "speed_kmph": 43.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:54:30.000Z",
-    "latitude": 43.74506,
-    "longitude": -79.33512,
+    "latitude": 43.76581,
+    "longitude": -79.33497,
     "speed_kmph": 32.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:54:40.000Z",
-    "latitude": 43.74515,
-    "longitude": -79.33511,
+    "latitude": 43.76594,
+    "longitude": -79.33499,
     "speed_kmph": 21.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:54:50.000Z",
-    "latitude": 43.7452,
-    "longitude": -79.3351,
+    "latitude": 43.766,
+    "longitude": -79.335,
     "speed_kmph": 11,
     "event_code": null
   },
   {
     "vehicle_id": "hx-01",
     "recorded_at": "2026-06-15T13:55:00.000Z",
-    "latitude": 43.7452,
-    "longitude": -79.3351,
+    "latitude": 43.766,
+    "longitude": -79.335,
     "speed_kmph": 0,
     "event_code": null
   },
@@ -1962,7 +1962,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:20:40.000Z",
-    "latitude": 43.64514,
+    "latitude": 43.64513,
     "longitude": -79.35847,
     "speed_kmph": 47.5,
     "event_code": null
@@ -1979,14 +1979,14 @@
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:21:00.000Z",
     "latitude": 43.64506,
-    "longitude": -79.359,
+    "longitude": -79.35899,
     "speed_kmph": 71.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:21:10.000Z",
-    "latitude": 43.64502,
+    "latitude": 43.64501,
     "longitude": -79.35933,
     "speed_kmph": 83.1,
     "event_code": null
@@ -1994,15 +1994,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:21:20.000Z",
-    "latitude": 43.64497,
-    "longitude": -79.35971,
+    "latitude": 43.64496,
+    "longitude": -79.3597,
     "speed_kmph": 95,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:21:30.000Z",
-    "latitude": 43.64491,
+    "latitude": 43.6449,
     "longitude": -79.36013,
     "speed_kmph": 105.5,
     "event_code": "SPEEDING"
@@ -2010,7 +2010,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:21:40.000Z",
-    "latitude": 43.64485,
+    "latitude": 43.64484,
     "longitude": -79.36054,
     "speed_kmph": 103.9,
     "event_code": null
@@ -2018,7 +2018,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:21:50.000Z",
-    "latitude": 43.64479,
+    "latitude": 43.64478,
     "longitude": -79.36097,
     "speed_kmph": 107.9,
     "event_code": null
@@ -2026,7 +2026,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:22:00.000Z",
-    "latitude": 43.64474,
+    "latitude": 43.64472,
     "longitude": -79.36139,
     "speed_kmph": 104.2,
     "event_code": null
@@ -2034,7 +2034,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:22:10.000Z",
-    "latitude": 43.64468,
+    "latitude": 43.64466,
     "longitude": -79.36181,
     "speed_kmph": 105.5,
     "event_code": null
@@ -2042,7 +2042,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:22:20.000Z",
-    "latitude": 43.64462,
+    "latitude": 43.6446,
     "longitude": -79.36223,
     "speed_kmph": 105.1,
     "event_code": null
@@ -2050,7 +2050,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:22:30.000Z",
-    "latitude": 43.64456,
+    "latitude": 43.64454,
     "longitude": -79.36265,
     "speed_kmph": 106.2,
     "event_code": null
@@ -2058,7 +2058,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:22:40.000Z",
-    "latitude": 43.6445,
+    "latitude": 43.64448,
     "longitude": -79.36309,
     "speed_kmph": 109.2,
     "event_code": null
@@ -2066,7 +2066,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:22:50.000Z",
-    "latitude": 43.64445,
+    "latitude": 43.64442,
     "longitude": -79.3635,
     "speed_kmph": 103.9,
     "event_code": null
@@ -2074,7 +2074,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:23:00.000Z",
-    "latitude": 43.64439,
+    "latitude": 43.64436,
     "longitude": -79.36393,
     "speed_kmph": 107.7,
     "event_code": null
@@ -2082,7 +2082,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:23:10.000Z",
-    "latitude": 43.64433,
+    "latitude": 43.6443,
     "longitude": -79.36435,
     "speed_kmph": 104.4,
     "event_code": null
@@ -2090,7 +2090,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:23:20.000Z",
-    "latitude": 43.64427,
+    "latitude": 43.64424,
     "longitude": -79.36478,
     "speed_kmph": 108.6,
     "event_code": null
@@ -2098,7 +2098,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:23:30.000Z",
-    "latitude": 43.64421,
+    "latitude": 43.64418,
     "longitude": -79.36521,
     "speed_kmph": 107.2,
     "event_code": null
@@ -2106,7 +2106,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:23:40.000Z",
-    "latitude": 43.64415,
+    "latitude": 43.64412,
     "longitude": -79.36563,
     "speed_kmph": 105.4,
     "event_code": null
@@ -2114,15 +2114,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:23:50.000Z",
-    "latitude": 43.6441,
-    "longitude": -79.36605,
+    "latitude": 43.64406,
+    "longitude": -79.36604,
     "speed_kmph": 104.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:24:00.000Z",
-    "latitude": 43.64404,
+    "latitude": 43.644,
     "longitude": -79.36648,
     "speed_kmph": 109.3,
     "event_code": null
@@ -2130,15 +2130,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:24:10.000Z",
-    "latitude": 43.64398,
-    "longitude": -79.36691,
+    "latitude": 43.64394,
+    "longitude": -79.3669,
     "speed_kmph": 107,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:24:20.000Z",
-    "latitude": 43.64392,
+    "latitude": 43.64388,
     "longitude": -79.36734,
     "speed_kmph": 108.4,
     "event_code": null
@@ -2146,15 +2146,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:24:30.000Z",
-    "latitude": 43.64386,
-    "longitude": -79.36776,
+    "latitude": 43.64382,
+    "longitude": -79.36775,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:24:40.000Z",
-    "latitude": 43.6438,
+    "latitude": 43.64376,
     "longitude": -79.36818,
     "speed_kmph": 105.6,
     "event_code": null
@@ -2162,7 +2162,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:24:50.000Z",
-    "latitude": 43.64375,
+    "latitude": 43.6437,
     "longitude": -79.3686,
     "speed_kmph": 106.3,
     "event_code": null
@@ -2170,23 +2170,23 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:25:00.000Z",
-    "latitude": 43.64369,
-    "longitude": -79.36903,
+    "latitude": 43.64364,
+    "longitude": -79.36902,
     "speed_kmph": 106.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:25:10.000Z",
-    "latitude": 43.64363,
-    "longitude": -79.36946,
+    "latitude": 43.64358,
+    "longitude": -79.36945,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:25:20.000Z",
-    "latitude": 43.64357,
+    "latitude": 43.64352,
     "longitude": -79.36988,
     "speed_kmph": 106.3,
     "event_code": null
@@ -2194,7 +2194,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:25:30.000Z",
-    "latitude": 43.64351,
+    "latitude": 43.64346,
     "longitude": -79.37031,
     "speed_kmph": 107.4,
     "event_code": null
@@ -2202,23 +2202,23 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:25:40.000Z",
-    "latitude": 43.64345,
-    "longitude": -79.37075,
+    "latitude": 43.6434,
+    "longitude": -79.37074,
     "speed_kmph": 109.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:25:50.000Z",
-    "latitude": 43.64339,
-    "longitude": -79.37118,
+    "latitude": 43.64334,
+    "longitude": -79.37117,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:26:00.000Z",
-    "latitude": 43.64334,
+    "latitude": 43.64329,
     "longitude": -79.37159,
     "speed_kmph": 103.9,
     "event_code": null
@@ -2226,7 +2226,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:26:10.000Z",
-    "latitude": 43.64328,
+    "latitude": 43.64323,
     "longitude": -79.37202,
     "speed_kmph": 106.9,
     "event_code": null
@@ -2234,7 +2234,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:26:20.000Z",
-    "latitude": 43.64322,
+    "latitude": 43.64317,
     "longitude": -79.37245,
     "speed_kmph": 108.3,
     "event_code": null
@@ -2242,7 +2242,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:26:30.000Z",
-    "latitude": 43.64316,
+    "latitude": 43.64312,
     "longitude": -79.37289,
     "speed_kmph": 109.6,
     "event_code": null
@@ -2250,7 +2250,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:26:40.000Z",
-    "latitude": 43.6431,
+    "latitude": 43.64306,
     "longitude": -79.37332,
     "speed_kmph": 109.1,
     "event_code": null
@@ -2258,7 +2258,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:26:50.000Z",
-    "latitude": 43.64304,
+    "latitude": 43.643,
     "longitude": -79.37375,
     "speed_kmph": 107.6,
     "event_code": null
@@ -2266,7 +2266,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:27:00.000Z",
-    "latitude": 43.64299,
+    "latitude": 43.64294,
     "longitude": -79.37416,
     "speed_kmph": 102.9,
     "event_code": null
@@ -2274,15 +2274,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:27:10.000Z",
-    "latitude": 43.64293,
-    "longitude": -79.37458,
+    "latitude": 43.64289,
+    "longitude": -79.37459,
     "speed_kmph": 105.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:27:20.000Z",
-    "latitude": 43.64287,
+    "latitude": 43.64283,
     "longitude": -79.37502,
     "speed_kmph": 109.6,
     "event_code": null
@@ -2290,7 +2290,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:27:30.000Z",
-    "latitude": 43.64281,
+    "latitude": 43.64277,
     "longitude": -79.37544,
     "speed_kmph": 104.6,
     "event_code": null
@@ -2298,23 +2298,23 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:27:40.000Z",
-    "latitude": 43.64275,
-    "longitude": -79.37587,
+    "latitude": 43.64272,
+    "longitude": -79.37588,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:27:50.000Z",
-    "latitude": 43.64269,
-    "longitude": -79.3763,
+    "latitude": 43.64266,
+    "longitude": -79.37631,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:28:00.000Z",
-    "latitude": 43.64264,
+    "latitude": 43.6426,
     "longitude": -79.37672,
     "speed_kmph": 103.3,
     "event_code": null
@@ -2322,7 +2322,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:28:10.000Z",
-    "latitude": 43.64258,
+    "latitude": 43.64255,
     "longitude": -79.37715,
     "speed_kmph": 107.7,
     "event_code": null
@@ -2330,7 +2330,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:28:20.000Z",
-    "latitude": 43.64252,
+    "latitude": 43.64249,
     "longitude": -79.37756,
     "speed_kmph": 103,
     "event_code": null
@@ -2338,15 +2338,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:28:30.000Z",
-    "latitude": 43.64246,
-    "longitude": -79.37799,
+    "latitude": 43.64243,
+    "longitude": -79.378,
     "speed_kmph": 109.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:28:40.000Z",
-    "latitude": 43.6424,
+    "latitude": 43.64238,
     "longitude": -79.37842,
     "speed_kmph": 105.8,
     "event_code": null
@@ -2354,96 +2354,96 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:28:50.000Z",
-    "latitude": 43.64234,
-    "longitude": -79.37884,
+    "latitude": 43.64232,
+    "longitude": -79.37885,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:29:00.000Z",
-    "latitude": 43.64228,
-    "longitude": -79.37928,
+    "latitude": 43.64226,
+    "longitude": -79.37929,
     "speed_kmph": 108.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:29:10.000Z",
-    "latitude": 43.64223,
-    "longitude": -79.37969,
+    "latitude": 43.64221,
+    "longitude": -79.3797,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:29:20.000Z",
-    "latitude": 43.64217,
-    "longitude": -79.38012,
+    "latitude": 43.64215,
+    "longitude": -79.38013,
     "speed_kmph": 107.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:29:30.000Z",
-    "latitude": 43.64211,
-    "longitude": -79.38054,
+    "latitude": 43.64209,
+    "longitude": -79.38055,
     "speed_kmph": 104.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:29:40.000Z",
-    "latitude": 43.64205,
-    "longitude": -79.38097,
+    "latitude": 43.64204,
+    "longitude": -79.38098,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:29:50.000Z",
-    "latitude": 43.64199,
-    "longitude": -79.38139,
+    "latitude": 43.64198,
+    "longitude": -79.38141,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:30:00.000Z",
-    "latitude": 43.64194,
-    "longitude": -79.38182,
+    "latitude": 43.64192,
+    "longitude": -79.38183,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:30:10.000Z",
-    "latitude": 43.64188,
-    "longitude": -79.38224,
+    "latitude": 43.64187,
+    "longitude": -79.38225,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:30:20.000Z",
-    "latitude": 43.64182,
-    "longitude": -79.38267,
+    "latitude": 43.64181,
+    "longitude": -79.38269,
     "speed_kmph": 109,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:30:30.000Z",
-    "latitude": 43.64176,
-    "longitude": -79.3831,
+    "latitude": 43.64175,
+    "longitude": -79.38312,
     "speed_kmph": 107.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:30:40.000Z",
-    "latitude": 43.6417,
-    "longitude": -79.38353,
+    "latitude": 43.64169,
+    "longitude": -79.38354,
     "speed_kmph": 106.5,
     "event_code": null
   },
@@ -2451,15 +2451,15 @@
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:30:50.000Z",
     "latitude": 43.64164,
-    "longitude": -79.38394,
+    "longitude": -79.38396,
     "speed_kmph": 104.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:31:00.000Z",
-    "latitude": 43.64159,
-    "longitude": -79.38436,
+    "latitude": 43.64158,
+    "longitude": -79.38437,
     "speed_kmph": 103.7,
     "event_code": null
   },
@@ -2467,7 +2467,7 @@
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:31:10.000Z",
     "latitude": 43.64153,
-    "longitude": -79.38477,
+    "longitude": -79.38479,
     "speed_kmph": 102.9,
     "event_code": null
   },
@@ -2475,142 +2475,142 @@
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:31:20.000Z",
     "latitude": 43.64148,
-    "longitude": -79.38521,
+    "longitude": -79.38522,
     "speed_kmph": 109.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:31:30.000Z",
-    "latitude": 43.64145,
-    "longitude": -79.38563,
+    "latitude": 43.64143,
+    "longitude": -79.38565,
     "speed_kmph": 106.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:31:40.000Z",
-    "latitude": 43.64141,
-    "longitude": -79.38607,
+    "latitude": 43.64139,
+    "longitude": -79.38608,
     "speed_kmph": 107.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:31:50.000Z",
-    "latitude": 43.64137,
-    "longitude": -79.38651,
+    "latitude": 43.64135,
+    "longitude": -79.38652,
     "speed_kmph": 109.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:32:00.000Z",
-    "latitude": 43.64134,
-    "longitude": -79.38695,
+    "latitude": 43.6413,
+    "longitude": -79.38696,
     "speed_kmph": 108.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:32:10.000Z",
-    "latitude": 43.6413,
-    "longitude": -79.38738,
+    "latitude": 43.64126,
+    "longitude": -79.38739,
     "speed_kmph": 107.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:32:20.000Z",
-    "latitude": 43.64127,
-    "longitude": -79.38781,
+    "latitude": 43.64122,
+    "longitude": -79.38782,
     "speed_kmph": 106.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:32:30.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38825,
+    "latitude": 43.64117,
+    "longitude": -79.38826,
     "speed_kmph": 109,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:32:40.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38826,
+    "latitude": 43.64117,
+    "longitude": -79.38827,
     "speed_kmph": 1.7,
     "event_code": "HARD_BRAKE"
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:32:50.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38826,
+    "latitude": 43.64117,
+    "longitude": -79.38827,
     "speed_kmph": 0.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:33:00.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38826,
+    "latitude": 43.64117,
+    "longitude": -79.38827,
     "speed_kmph": 0.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:33:10.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38826,
+    "latitude": 43.64117,
+    "longitude": -79.38827,
     "speed_kmph": 0.3,
     "event_code": "IDLING"
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:33:20.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38827,
+    "latitude": 43.64117,
+    "longitude": -79.38828,
     "speed_kmph": 1.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:33:30.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38828,
+    "latitude": 43.64117,
+    "longitude": -79.38829,
     "speed_kmph": 1.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:33:40.000Z",
-    "latitude": 43.64123,
-    "longitude": -79.38828,
+    "latitude": 43.64117,
+    "longitude": -79.38829,
     "speed_kmph": 1.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:33:50.000Z",
-    "latitude": 43.64119,
-    "longitude": -79.3887,
+    "latitude": 43.64113,
+    "longitude": -79.38871,
     "speed_kmph": 102.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:34:00.000Z",
-    "latitude": 43.64116,
-    "longitude": -79.38913,
+    "latitude": 43.64109,
+    "longitude": -79.38914,
     "speed_kmph": 107.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:34:10.000Z",
-    "latitude": 43.64112,
+    "latitude": 43.64104,
     "longitude": -79.38957,
     "speed_kmph": 108.6,
     "event_code": null
@@ -2618,7 +2618,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:34:20.000Z",
-    "latitude": 43.64108,
+    "latitude": 43.641,
     "longitude": -79.39,
     "speed_kmph": 106.8,
     "event_code": null
@@ -2626,7 +2626,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:34:30.000Z",
-    "latitude": 43.64105,
+    "latitude": 43.64096,
     "longitude": -79.39042,
     "speed_kmph": 104.1,
     "event_code": null
@@ -2634,7 +2634,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:34:40.000Z",
-    "latitude": 43.64101,
+    "latitude": 43.64092,
     "longitude": -79.39084,
     "speed_kmph": 103.5,
     "event_code": null
@@ -2642,15 +2642,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:34:50.000Z",
-    "latitude": 43.64098,
-    "longitude": -79.39127,
+    "latitude": 43.64087,
+    "longitude": -79.39128,
     "speed_kmph": 108.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:35:00.000Z",
-    "latitude": 43.64094,
+    "latitude": 43.64083,
     "longitude": -79.39171,
     "speed_kmph": 108.3,
     "event_code": null
@@ -2658,7 +2658,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:35:10.000Z",
-    "latitude": 43.64091,
+    "latitude": 43.64079,
     "longitude": -79.39213,
     "speed_kmph": 104.5,
     "event_code": null
@@ -2666,7 +2666,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:35:20.000Z",
-    "latitude": 43.64087,
+    "latitude": 43.64074,
     "longitude": -79.39256,
     "speed_kmph": 106.4,
     "event_code": null
@@ -2674,7 +2674,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:35:30.000Z",
-    "latitude": 43.64083,
+    "latitude": 43.6407,
     "longitude": -79.393,
     "speed_kmph": 109.8,
     "event_code": "SPEEDING"
@@ -2682,7 +2682,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:35:40.000Z",
-    "latitude": 43.6408,
+    "latitude": 43.64066,
     "longitude": -79.39342,
     "speed_kmph": 103.5,
     "event_code": null
@@ -2690,7 +2690,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:35:50.000Z",
-    "latitude": 43.64076,
+    "latitude": 43.64062,
     "longitude": -79.39384,
     "speed_kmph": 103.8,
     "event_code": null
@@ -2698,7 +2698,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:36:00.000Z",
-    "latitude": 43.64073,
+    "latitude": 43.64057,
     "longitude": -79.39427,
     "speed_kmph": 107.7,
     "event_code": null
@@ -2706,15 +2706,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:36:10.000Z",
-    "latitude": 43.64069,
-    "longitude": -79.39472,
+    "latitude": 43.64053,
+    "longitude": -79.39471,
     "speed_kmph": 109.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:36:20.000Z",
-    "latitude": 43.64065,
+    "latitude": 43.64049,
     "longitude": -79.39515,
     "speed_kmph": 108.4,
     "event_code": null
@@ -2722,7 +2722,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:36:30.000Z",
-    "latitude": 43.64062,
+    "latitude": 43.64044,
     "longitude": -79.39558,
     "speed_kmph": 106.8,
     "event_code": null
@@ -2730,7 +2730,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:36:40.000Z",
-    "latitude": 43.64058,
+    "latitude": 43.6404,
     "longitude": -79.396,
     "speed_kmph": 103.8,
     "event_code": null
@@ -2738,119 +2738,119 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:36:50.000Z",
-    "latitude": 43.64055,
-    "longitude": -79.39644,
+    "latitude": 43.64036,
+    "longitude": -79.39643,
     "speed_kmph": 108,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:37:00.000Z",
-    "latitude": 43.64051,
-    "longitude": -79.39687,
+    "latitude": 43.64031,
+    "longitude": -79.39686,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:37:10.000Z",
-    "latitude": 43.64047,
-    "longitude": -79.39731,
+    "latitude": 43.64027,
+    "longitude": -79.3973,
     "speed_kmph": 109.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:37:20.000Z",
-    "latitude": 43.64044,
-    "longitude": -79.39773,
+    "latitude": 43.64023,
+    "longitude": -79.39772,
     "speed_kmph": 102.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:37:30.000Z",
-    "latitude": 43.6404,
-    "longitude": -79.39815,
+    "latitude": 43.64019,
+    "longitude": -79.39814,
     "speed_kmph": 105.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:37:40.000Z",
-    "latitude": 43.64037,
-    "longitude": -79.39859,
+    "latitude": 43.64014,
+    "longitude": -79.39857,
     "speed_kmph": 106.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:37:50.000Z",
-    "latitude": 43.64033,
-    "longitude": -79.399,
+    "latitude": 43.6401,
+    "longitude": -79.39899,
     "speed_kmph": 102.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:38:00.000Z",
-    "latitude": 43.6403,
-    "longitude": -79.39944,
+    "latitude": 43.64006,
+    "longitude": -79.39943,
     "speed_kmph": 108.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:38:10.000Z",
-    "latitude": 43.64026,
-    "longitude": -79.39987,
+    "latitude": 43.64001,
+    "longitude": -79.39986,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:38:20.000Z",
-    "latitude": 43.64022,
-    "longitude": -79.40031,
+    "latitude": 43.63998,
+    "longitude": -79.40029,
     "speed_kmph": 107.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:38:30.000Z",
-    "latitude": 43.64019,
-    "longitude": -79.40073,
+    "latitude": 43.63995,
+    "longitude": -79.40072,
     "speed_kmph": 104.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:38:40.000Z",
-    "latitude": 43.64015,
-    "longitude": -79.40115,
+    "latitude": 43.63992,
+    "longitude": -79.40114,
     "speed_kmph": 103.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:38:50.000Z",
-    "latitude": 43.64012,
-    "longitude": -79.40158,
+    "latitude": 43.6399,
+    "longitude": -79.40157,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:39:00.000Z",
-    "latitude": 43.64008,
-    "longitude": -79.40201,
+    "latitude": 43.63987,
+    "longitude": -79.402,
     "speed_kmph": 106.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:39:10.000Z",
-    "latitude": 43.64005,
+    "latitude": 43.63984,
     "longitude": -79.40243,
     "speed_kmph": 104.1,
     "event_code": null
@@ -2858,15 +2858,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:39:20.000Z",
-    "latitude": 43.64001,
-    "longitude": -79.40286,
+    "latitude": 43.63981,
+    "longitude": -79.40285,
     "speed_kmph": 104.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:39:30.000Z",
-    "latitude": 43.63998,
+    "latitude": 43.63978,
     "longitude": -79.40329,
     "speed_kmph": 107.7,
     "event_code": null
@@ -2874,7 +2874,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:39:40.000Z",
-    "latitude": 43.63994,
+    "latitude": 43.63975,
     "longitude": -79.40371,
     "speed_kmph": 103.9,
     "event_code": null
@@ -2882,15 +2882,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:39:50.000Z",
-    "latitude": 43.63991,
-    "longitude": -79.40413,
+    "latitude": 43.63973,
+    "longitude": -79.40412,
     "speed_kmph": 103.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:40:00.000Z",
-    "latitude": 43.63987,
+    "latitude": 43.6397,
     "longitude": -79.40454,
     "speed_kmph": 103.3,
     "event_code": null
@@ -2898,7 +2898,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:40:10.000Z",
-    "latitude": 43.63984,
+    "latitude": 43.63967,
     "longitude": -79.40497,
     "speed_kmph": 106.4,
     "event_code": null
@@ -2906,7 +2906,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:40:20.000Z",
-    "latitude": 43.6398,
+    "latitude": 43.63964,
     "longitude": -79.4054,
     "speed_kmph": 104.9,
     "event_code": null
@@ -2914,15 +2914,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:40:30.000Z",
-    "latitude": 43.6398,
-    "longitude": -79.4054,
+    "latitude": 43.63964,
+    "longitude": -79.40541,
     "speed_kmph": 1.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:40:40.000Z",
-    "latitude": 43.6398,
+    "latitude": 43.63964,
     "longitude": -79.40541,
     "speed_kmph": 1.2,
     "event_code": null
@@ -2930,7 +2930,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:40:50.000Z",
-    "latitude": 43.6398,
+    "latitude": 43.63964,
     "longitude": -79.40541,
     "speed_kmph": 0.1,
     "event_code": "IDLING"
@@ -2938,7 +2938,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:41:00.000Z",
-    "latitude": 43.6398,
+    "latitude": 43.63964,
     "longitude": -79.40541,
     "speed_kmph": 0.1,
     "event_code": null
@@ -2946,7 +2946,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:41:10.000Z",
-    "latitude": 43.6398,
+    "latitude": 43.63964,
     "longitude": -79.40541,
     "speed_kmph": 0.3,
     "event_code": null
@@ -2954,15 +2954,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:41:20.000Z",
-    "latitude": 43.63976,
-    "longitude": -79.40584,
+    "latitude": 43.63961,
+    "longitude": -79.40585,
     "speed_kmph": 107.4,
     "event_code": "HARD_ACCEL"
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:41:30.000Z",
-    "latitude": 43.63973,
+    "latitude": 43.63958,
     "longitude": -79.40628,
     "speed_kmph": 107.4,
     "event_code": null
@@ -2970,15 +2970,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:41:40.000Z",
-    "latitude": 43.63969,
-    "longitude": -79.4067,
+    "latitude": 43.63955,
+    "longitude": -79.40671,
     "speed_kmph": 105.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:41:50.000Z",
-    "latitude": 43.63966,
+    "latitude": 43.63952,
     "longitude": -79.40714,
     "speed_kmph": 107.9,
     "event_code": null
@@ -2986,15 +2986,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:42:00.000Z",
-    "latitude": 43.63962,
-    "longitude": -79.40758,
+    "latitude": 43.63949,
+    "longitude": -79.40759,
     "speed_kmph": 109.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:42:10.000Z",
-    "latitude": 43.63958,
+    "latitude": 43.63947,
     "longitude": -79.40801,
     "speed_kmph": 106.1,
     "event_code": null
@@ -3002,407 +3002,407 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:42:20.000Z",
-    "latitude": 43.63955,
-    "longitude": -79.40843,
+    "latitude": 43.63944,
+    "longitude": -79.40844,
     "speed_kmph": 104.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:42:30.000Z",
-    "latitude": 43.63951,
-    "longitude": -79.40884,
+    "latitude": 43.63941,
+    "longitude": -79.40885,
     "speed_kmph": 102.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:42:40.000Z",
-    "latitude": 43.63948,
-    "longitude": -79.40926,
+    "latitude": 43.63938,
+    "longitude": -79.40928,
     "speed_kmph": 104,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:42:50.000Z",
-    "latitude": 43.63944,
-    "longitude": -79.40968,
+    "latitude": 43.63935,
+    "longitude": -79.4097,
     "speed_kmph": 104,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:43:00.000Z",
-    "latitude": 43.63941,
-    "longitude": -79.41012,
+    "latitude": 43.63932,
+    "longitude": -79.41013,
     "speed_kmph": 108.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:43:10.000Z",
-    "latitude": 43.63937,
-    "longitude": -79.41055,
+    "latitude": 43.6393,
+    "longitude": -79.41056,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:43:20.000Z",
-    "latitude": 43.63934,
-    "longitude": -79.41098,
+    "latitude": 43.63927,
+    "longitude": -79.411,
     "speed_kmph": 107.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:43:30.000Z",
-    "latitude": 43.6393,
-    "longitude": -79.41141,
+    "latitude": 43.63924,
+    "longitude": -79.41143,
     "speed_kmph": 106.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:43:40.000Z",
-    "latitude": 43.63926,
-    "longitude": -79.41184,
+    "latitude": 43.63921,
+    "longitude": -79.41186,
     "speed_kmph": 105.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:43:50.000Z",
-    "latitude": 43.63923,
-    "longitude": -79.41226,
+    "latitude": 43.63918,
+    "longitude": -79.41228,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:44:00.000Z",
-    "latitude": 43.63919,
-    "longitude": -79.41268,
+    "latitude": 43.63915,
+    "longitude": -79.4127,
     "speed_kmph": 104.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:44:10.000Z",
-    "latitude": 43.63916,
-    "longitude": -79.4131,
+    "latitude": 43.63912,
+    "longitude": -79.41313,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:44:20.000Z",
-    "latitude": 43.63912,
-    "longitude": -79.41354,
+    "latitude": 43.6391,
+    "longitude": -79.41357,
     "speed_kmph": 109.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:44:30.000Z",
-    "latitude": 43.63909,
-    "longitude": -79.41396,
+    "latitude": 43.63907,
+    "longitude": -79.41399,
     "speed_kmph": 103.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:44:40.000Z",
-    "latitude": 43.63905,
-    "longitude": -79.41438,
+    "latitude": 43.63904,
+    "longitude": -79.41441,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:44:50.000Z",
-    "latitude": 43.63902,
-    "longitude": -79.41482,
+    "latitude": 43.63901,
+    "longitude": -79.41485,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:45:00.000Z",
-    "latitude": 43.639,
-    "longitude": -79.41525,
+    "latitude": 43.63899,
+    "longitude": -79.41528,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:45:10.000Z",
-    "latitude": 43.63899,
-    "longitude": -79.41567,
+    "latitude": 43.63897,
+    "longitude": -79.4157,
     "speed_kmph": 103.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:45:20.000Z",
-    "latitude": 43.63899,
-    "longitude": -79.4161,
+    "latitude": 43.63894,
+    "longitude": -79.41612,
     "speed_kmph": 105.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:45:30.000Z",
-    "latitude": 43.63898,
-    "longitude": -79.41652,
+    "latitude": 43.63892,
+    "longitude": -79.41655,
     "speed_kmph": 105.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:45:40.000Z",
-    "latitude": 43.63897,
-    "longitude": -79.41696,
+    "latitude": 43.6389,
+    "longitude": -79.41699,
     "speed_kmph": 107.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:45:50.000Z",
-    "latitude": 43.63897,
-    "longitude": -79.41739,
+    "latitude": 43.63888,
+    "longitude": -79.41742,
     "speed_kmph": 107,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:46:00.000Z",
-    "latitude": 43.63896,
-    "longitude": -79.41783,
+    "latitude": 43.63886,
+    "longitude": -79.41785,
     "speed_kmph": 107,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:46:10.000Z",
-    "latitude": 43.63896,
-    "longitude": -79.41826,
+    "latitude": 43.63884,
+    "longitude": -79.41829,
     "speed_kmph": 106.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:46:20.000Z",
-    "latitude": 43.63895,
-    "longitude": -79.41869,
+    "latitude": 43.63881,
+    "longitude": -79.41872,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:46:30.000Z",
-    "latitude": 43.63894,
-    "longitude": -79.41911,
+    "latitude": 43.63879,
+    "longitude": -79.41914,
     "speed_kmph": 103.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:46:40.000Z",
-    "latitude": 43.63894,
-    "longitude": -79.41953,
+    "latitude": 43.63877,
+    "longitude": -79.41956,
     "speed_kmph": 103.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:46:50.000Z",
-    "latitude": 43.63893,
-    "longitude": -79.41997,
+    "latitude": 43.63875,
+    "longitude": -79.41999,
     "speed_kmph": 107.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:47:00.000Z",
-    "latitude": 43.63893,
-    "longitude": -79.42039,
+    "latitude": 43.63873,
+    "longitude": -79.42042,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:47:10.000Z",
-    "latitude": 43.63892,
-    "longitude": -79.42081,
+    "latitude": 43.63871,
+    "longitude": -79.42084,
     "speed_kmph": 103.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:47:20.000Z",
-    "latitude": 43.63892,
-    "longitude": -79.42125,
+    "latitude": 43.63869,
+    "longitude": -79.42127,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:47:30.000Z",
-    "latitude": 43.63891,
-    "longitude": -79.42169,
+    "latitude": 43.63866,
+    "longitude": -79.42171,
     "speed_kmph": 109.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:47:40.000Z",
-    "latitude": 43.6389,
-    "longitude": -79.42213,
+    "latitude": 43.63864,
+    "longitude": -79.42215,
     "speed_kmph": 107.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:47:50.000Z",
-    "latitude": 43.6389,
-    "longitude": -79.42258,
+    "latitude": 43.63862,
+    "longitude": -79.42259,
     "speed_kmph": 109.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:48:00.000Z",
-    "latitude": 43.63889,
-    "longitude": -79.423,
+    "latitude": 43.6386,
+    "longitude": -79.42302,
     "speed_kmph": 104.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:48:10.000Z",
-    "latitude": 43.63889,
-    "longitude": -79.42344,
+    "latitude": 43.63858,
+    "longitude": -79.42346,
     "speed_kmph": 108.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:48:20.000Z",
-    "latitude": 43.63888,
-    "longitude": -79.42388,
+    "latitude": 43.63855,
+    "longitude": -79.4239,
     "speed_kmph": 109.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:48:30.000Z",
-    "latitude": 43.63887,
-    "longitude": -79.42431,
+    "latitude": 43.63853,
+    "longitude": -79.42433,
     "speed_kmph": 105.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:48:40.000Z",
-    "latitude": 43.63887,
-    "longitude": -79.42473,
+    "latitude": 43.63851,
+    "longitude": -79.42475,
     "speed_kmph": 103.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:48:50.000Z",
-    "latitude": 43.63886,
-    "longitude": -79.42518,
+    "latitude": 43.63849,
+    "longitude": -79.42519,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:49:00.000Z",
-    "latitude": 43.63886,
-    "longitude": -79.42561,
+    "latitude": 43.63847,
+    "longitude": -79.42563,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:49:10.000Z",
-    "latitude": 43.63885,
-    "longitude": -79.42604,
+    "latitude": 43.63845,
+    "longitude": -79.42605,
     "speed_kmph": 104.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:49:20.000Z",
-    "latitude": 43.63885,
-    "longitude": -79.42647,
+    "latitude": 43.63843,
+    "longitude": -79.42648,
     "speed_kmph": 105.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:49:30.000Z",
-    "latitude": 43.63884,
-    "longitude": -79.42689,
+    "latitude": 43.63841,
+    "longitude": -79.4269,
     "speed_kmph": 103.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:49:40.000Z",
-    "latitude": 43.63883,
-    "longitude": -79.42731,
+    "latitude": 43.63838,
+    "longitude": -79.42732,
     "speed_kmph": 103.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:49:50.000Z",
-    "latitude": 43.63883,
-    "longitude": -79.42774,
+    "latitude": 43.63836,
+    "longitude": -79.42775,
     "speed_kmph": 106.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:50:00.000Z",
-    "latitude": 43.63882,
-    "longitude": -79.42817,
+    "latitude": 43.63834,
+    "longitude": -79.42819,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:50:10.000Z",
-    "latitude": 43.63882,
-    "longitude": -79.4286,
+    "latitude": 43.63832,
+    "longitude": -79.42861,
     "speed_kmph": 105.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:50:20.000Z",
-    "latitude": 43.63881,
-    "longitude": -79.42904,
+    "latitude": 43.6383,
+    "longitude": -79.42905,
     "speed_kmph": 107.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:50:30.000Z",
-    "latitude": 43.6388,
-    "longitude": -79.42947,
+    "latitude": 43.63828,
+    "longitude": -79.42948,
     "speed_kmph": 106.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:50:40.000Z",
-    "latitude": 43.6388,
+    "latitude": 43.63825,
     "longitude": -79.42992,
     "speed_kmph": 108.7,
     "event_code": null
@@ -3410,15 +3410,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:50:50.000Z",
-    "latitude": 43.63879,
-    "longitude": -79.43036,
+    "latitude": 43.63823,
+    "longitude": -79.43037,
     "speed_kmph": 109.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:51:00.000Z",
-    "latitude": 43.63879,
+    "latitude": 43.63821,
     "longitude": -79.43079,
     "speed_kmph": 105.1,
     "event_code": null
@@ -3426,15 +3426,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:51:10.000Z",
-    "latitude": 43.63878,
-    "longitude": -79.43121,
+    "latitude": 43.63819,
+    "longitude": -79.43122,
     "speed_kmph": 105.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:51:20.000Z",
-    "latitude": 43.63877,
+    "latitude": 43.63817,
     "longitude": -79.43166,
     "speed_kmph": 109.1,
     "event_code": null
@@ -3442,31 +3442,31 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:51:30.000Z",
-    "latitude": 43.63877,
-    "longitude": -79.43208,
+    "latitude": 43.63815,
+    "longitude": -79.43209,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:51:40.000Z",
-    "latitude": 43.63876,
-    "longitude": -79.43251,
+    "latitude": 43.63812,
+    "longitude": -79.43252,
     "speed_kmph": 105.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:51:50.000Z",
-    "latitude": 43.63876,
-    "longitude": -79.43293,
+    "latitude": 43.6381,
+    "longitude": -79.43294,
     "speed_kmph": 103.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:52:00.000Z",
-    "latitude": 43.63875,
+    "latitude": 43.63808,
     "longitude": -79.43338,
     "speed_kmph": 109.6,
     "event_code": null
@@ -3474,7 +3474,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:52:10.000Z",
-    "latitude": 43.63875,
+    "latitude": 43.63806,
     "longitude": -79.43382,
     "speed_kmph": 107.8,
     "event_code": null
@@ -3482,7 +3482,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:52:20.000Z",
-    "latitude": 43.63874,
+    "latitude": 43.63804,
     "longitude": -79.43426,
     "speed_kmph": 109.2,
     "event_code": null
@@ -3490,15 +3490,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:52:30.000Z",
-    "latitude": 43.63873,
-    "longitude": -79.4347,
+    "latitude": 43.63801,
+    "longitude": -79.43471,
     "speed_kmph": 109.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:52:40.000Z",
-    "latitude": 43.63873,
+    "latitude": 43.638,
     "longitude": -79.43514,
     "speed_kmph": 107.8,
     "event_code": null
@@ -3506,7 +3506,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:52:50.000Z",
-    "latitude": 43.63872,
+    "latitude": 43.63802,
     "longitude": -79.43557,
     "speed_kmph": 104.7,
     "event_code": null
@@ -3514,15 +3514,15 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:53:00.000Z",
-    "latitude": 43.63872,
-    "longitude": -79.43601,
+    "latitude": 43.63803,
+    "longitude": -79.436,
     "speed_kmph": 107.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:53:10.000Z",
-    "latitude": 43.63871,
+    "latitude": 43.63804,
     "longitude": -79.43645,
     "speed_kmph": 108.7,
     "event_code": null
@@ -3530,7 +3530,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:53:20.000Z",
-    "latitude": 43.6387,
+    "latitude": 43.63806,
     "longitude": -79.43688,
     "speed_kmph": 107.3,
     "event_code": null
@@ -3538,7 +3538,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:53:30.000Z",
-    "latitude": 43.6387,
+    "latitude": 43.63807,
     "longitude": -79.43731,
     "speed_kmph": 104.8,
     "event_code": null
@@ -3546,7 +3546,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:53:40.000Z",
-    "latitude": 43.63869,
+    "latitude": 43.63808,
     "longitude": -79.43775,
     "speed_kmph": 109.1,
     "event_code": null
@@ -3554,7 +3554,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:53:50.000Z",
-    "latitude": 43.63869,
+    "latitude": 43.63809,
     "longitude": -79.43817,
     "speed_kmph": 103.3,
     "event_code": null
@@ -3562,7 +3562,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:54:00.000Z",
-    "latitude": 43.63868,
+    "latitude": 43.63811,
     "longitude": -79.4386,
     "speed_kmph": 106.5,
     "event_code": null
@@ -3570,7 +3570,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:54:10.000Z",
-    "latitude": 43.63868,
+    "latitude": 43.63812,
     "longitude": -79.43903,
     "speed_kmph": 104.5,
     "event_code": null
@@ -3578,7 +3578,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:54:20.000Z",
-    "latitude": 43.63867,
+    "latitude": 43.63813,
     "longitude": -79.43946,
     "speed_kmph": 107,
     "event_code": null
@@ -3586,7 +3586,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:54:30.000Z",
-    "latitude": 43.63866,
+    "latitude": 43.63814,
     "longitude": -79.4399,
     "speed_kmph": 108.4,
     "event_code": null
@@ -3594,7 +3594,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:54:40.000Z",
-    "latitude": 43.63866,
+    "latitude": 43.63816,
     "longitude": -79.44034,
     "speed_kmph": 107.6,
     "event_code": null
@@ -3602,7 +3602,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:54:50.000Z",
-    "latitude": 43.63865,
+    "latitude": 43.63817,
     "longitude": -79.44077,
     "speed_kmph": 105.3,
     "event_code": null
@@ -3610,7 +3610,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:55:00.000Z",
-    "latitude": 43.63865,
+    "latitude": 43.63818,
     "longitude": -79.44121,
     "speed_kmph": 109.2,
     "event_code": null
@@ -3618,7 +3618,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:55:10.000Z",
-    "latitude": 43.63864,
+    "latitude": 43.6382,
     "longitude": -79.44165,
     "speed_kmph": 108.3,
     "event_code": null
@@ -3626,7 +3626,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:55:20.000Z",
-    "latitude": 43.63863,
+    "latitude": 43.63821,
     "longitude": -79.44208,
     "speed_kmph": 105.8,
     "event_code": null
@@ -3634,7 +3634,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:55:30.000Z",
-    "latitude": 43.63863,
+    "latitude": 43.63822,
     "longitude": -79.44251,
     "speed_kmph": 106.1,
     "event_code": null
@@ -3642,7 +3642,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:55:40.000Z",
-    "latitude": 43.63862,
+    "latitude": 43.63823,
     "longitude": -79.44294,
     "speed_kmph": 104.8,
     "event_code": null
@@ -3650,7 +3650,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:55:50.000Z",
-    "latitude": 43.63862,
+    "latitude": 43.63825,
     "longitude": -79.44336,
     "speed_kmph": 103.7,
     "event_code": null
@@ -3658,7 +3658,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:56:00.000Z",
-    "latitude": 43.63861,
+    "latitude": 43.63826,
     "longitude": -79.44378,
     "speed_kmph": 103.8,
     "event_code": null
@@ -3666,7 +3666,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:56:10.000Z",
-    "latitude": 43.63861,
+    "latitude": 43.63827,
     "longitude": -79.44421,
     "speed_kmph": 107.4,
     "event_code": null
@@ -3674,7 +3674,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:56:20.000Z",
-    "latitude": 43.6386,
+    "latitude": 43.63828,
     "longitude": -79.44464,
     "speed_kmph": 104.2,
     "event_code": null
@@ -3682,7 +3682,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:56:30.000Z",
-    "latitude": 43.63859,
+    "latitude": 43.6383,
     "longitude": -79.44506,
     "speed_kmph": 104.4,
     "event_code": null
@@ -3690,7 +3690,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:56:40.000Z",
-    "latitude": 43.63859,
+    "latitude": 43.63831,
     "longitude": -79.44549,
     "speed_kmph": 105.2,
     "event_code": null
@@ -3698,7 +3698,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:56:50.000Z",
-    "latitude": 43.63858,
+    "latitude": 43.63832,
     "longitude": -79.44593,
     "speed_kmph": 109.1,
     "event_code": null
@@ -3706,7 +3706,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:57:00.000Z",
-    "latitude": 43.63858,
+    "latitude": 43.63833,
     "longitude": -79.44636,
     "speed_kmph": 105.8,
     "event_code": null
@@ -3714,7 +3714,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:57:10.000Z",
-    "latitude": 43.63857,
+    "latitude": 43.63835,
     "longitude": -79.4468,
     "speed_kmph": 107.8,
     "event_code": null
@@ -3722,7 +3722,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:57:20.000Z",
-    "latitude": 43.63856,
+    "latitude": 43.63836,
     "longitude": -79.44724,
     "speed_kmph": 107.3,
     "event_code": null
@@ -3730,7 +3730,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:57:30.000Z",
-    "latitude": 43.63856,
+    "latitude": 43.63837,
     "longitude": -79.44767,
     "speed_kmph": 106.6,
     "event_code": null
@@ -3738,7 +3738,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:57:40.000Z",
-    "latitude": 43.63855,
+    "latitude": 43.63839,
     "longitude": -79.4481,
     "speed_kmph": 107.3,
     "event_code": null
@@ -3746,7 +3746,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:57:50.000Z",
-    "latitude": 43.63855,
+    "latitude": 43.6384,
     "longitude": -79.44854,
     "speed_kmph": 108.1,
     "event_code": null
@@ -3754,7 +3754,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:58:00.000Z",
-    "latitude": 43.63854,
+    "latitude": 43.63841,
     "longitude": -79.44897,
     "speed_kmph": 105.4,
     "event_code": null
@@ -3762,7 +3762,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:58:10.000Z",
-    "latitude": 43.63854,
+    "latitude": 43.63842,
     "longitude": -79.4494,
     "speed_kmph": 106.6,
     "event_code": null
@@ -3770,7 +3770,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:58:20.000Z",
-    "latitude": 43.63853,
+    "latitude": 43.63844,
     "longitude": -79.44984,
     "speed_kmph": 108.4,
     "event_code": null
@@ -3778,7 +3778,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:58:30.000Z",
-    "latitude": 43.63852,
+    "latitude": 43.63845,
     "longitude": -79.45026,
     "speed_kmph": 103.5,
     "event_code": null
@@ -3786,7 +3786,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:58:40.000Z",
-    "latitude": 43.63852,
+    "latitude": 43.63846,
     "longitude": -79.45065,
     "speed_kmph": 95,
     "event_code": null
@@ -3794,7 +3794,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:58:50.000Z",
-    "latitude": 43.63851,
+    "latitude": 43.63847,
     "longitude": -79.45099,
     "speed_kmph": 83.1,
     "event_code": null
@@ -3802,7 +3802,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:59:00.000Z",
-    "latitude": 43.63851,
+    "latitude": 43.63848,
     "longitude": -79.45128,
     "speed_kmph": 71.2,
     "event_code": null
@@ -3810,7 +3810,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:59:10.000Z",
-    "latitude": 43.63851,
+    "latitude": 43.63849,
     "longitude": -79.45152,
     "speed_kmph": 59.4,
     "event_code": null
@@ -3818,7 +3818,7 @@
   {
     "vehicle_id": "hx-02",
     "recorded_at": "2026-06-15T13:59:20.000Z",
-    "latitude": 43.6385,
+    "latitude": 43.63849,
     "longitude": -79.45171,
     "speed_kmph": 47.5,
     "event_code": null
@@ -3858,1928 +3858,1928 @@
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:25:00.000Z",
-    "latitude": 43.6512,
-    "longitude": -79.6205,
+    "latitude": 43.687,
+    "longitude": -79.617,
     "speed_kmph": 0,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:25:10.000Z",
-    "latitude": 43.6513,
-    "longitude": -79.62034,
+    "latitude": 43.68706,
+    "longitude": -79.61682,
     "speed_kmph": 12,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:25:20.000Z",
-    "latitude": 43.6515,
-    "longitude": -79.62002,
+    "latitude": 43.68717,
+    "longitude": -79.61645,
     "speed_kmph": 24.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:25:30.000Z",
-    "latitude": 43.65179,
-    "longitude": -79.61954,
+    "latitude": 43.68733,
+    "longitude": -79.61589,
     "speed_kmph": 36.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:25:40.000Z",
-    "latitude": 43.65218,
-    "longitude": -79.6189,
+    "latitude": 43.68755,
+    "longitude": -79.61515,
     "speed_kmph": 48.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:25:50.000Z",
-    "latitude": 43.65268,
-    "longitude": -79.61809,
+    "latitude": 43.68783,
+    "longitude": -79.61423,
     "speed_kmph": 60.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:26:00.000Z",
-    "latitude": 43.65327,
-    "longitude": -79.61713,
+    "latitude": 43.68816,
+    "longitude": -79.61312,
     "speed_kmph": 72.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:26:10.000Z",
-    "latitude": 43.65396,
-    "longitude": -79.61601,
+    "latitude": 43.68855,
+    "longitude": -79.61183,
     "speed_kmph": 84.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:26:20.000Z",
-    "latitude": 43.65475,
-    "longitude": -79.61473,
+    "latitude": 43.689,
+    "longitude": -79.61035,
     "speed_kmph": 96.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:26:30.000Z",
-    "latitude": 43.65565,
-    "longitude": -79.61326,
+    "latitude": 43.6895,
+    "longitude": -79.60866,
     "speed_kmph": 110.3,
     "event_code": "SPEEDING"
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:26:40.000Z",
-    "latitude": 43.65656,
-    "longitude": -79.61178,
+    "latitude": 43.69001,
+    "longitude": -79.60695,
     "speed_kmph": 111,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:26:50.000Z",
-    "latitude": 43.65747,
-    "longitude": -79.61029,
+    "latitude": 43.69053,
+    "longitude": -79.60525,
     "speed_kmph": 111.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:27:00.000Z",
-    "latitude": 43.65837,
-    "longitude": -79.60882,
+    "latitude": 43.69104,
+    "longitude": -79.60354,
     "speed_kmph": 110.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:27:10.000Z",
-    "latitude": 43.65923,
-    "longitude": -79.60742,
+    "latitude": 43.69152,
+    "longitude": -79.60193,
     "speed_kmph": 105.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:27:20.000Z",
-    "latitude": 43.66009,
-    "longitude": -79.60602,
+    "latitude": 43.692,
+    "longitude": -79.60032,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:27:30.000Z",
-    "latitude": 43.66097,
-    "longitude": -79.60458,
+    "latitude": 43.6925,
+    "longitude": -79.59866,
     "speed_kmph": 108.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:27:40.000Z",
-    "latitude": 43.66188,
-    "longitude": -79.6031,
+    "latitude": 43.69301,
+    "longitude": -79.59696,
     "speed_kmph": 111.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:27:50.000Z",
-    "latitude": 43.66276,
-    "longitude": -79.60167,
+    "latitude": 43.69351,
+    "longitude": -79.59531,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:28:00.000Z",
-    "latitude": 43.66362,
-    "longitude": -79.60027,
+    "latitude": 43.69399,
+    "longitude": -79.5937,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:28:10.000Z",
-    "latitude": 43.66452,
-    "longitude": -79.5988,
+    "latitude": 43.6945,
+    "longitude": -79.592,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:28:20.000Z",
-    "latitude": 43.66538,
-    "longitude": -79.5974,
+    "latitude": 43.69498,
+    "longitude": -79.5904,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:28:30.000Z",
-    "latitude": 43.66538,
-    "longitude": -79.5974,
+    "latitude": 43.69498,
+    "longitude": -79.59039,
     "speed_kmph": 0.7,
     "event_code": "HARD_BRAKE"
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:28:40.000Z",
-    "latitude": 43.6654,
-    "longitude": -79.59737,
+    "latitude": 43.69499,
+    "longitude": -79.59036,
     "speed_kmph": 1.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:28:50.000Z",
-    "latitude": 43.6654,
-    "longitude": -79.59736,
+    "latitude": 43.69499,
+    "longitude": -79.59035,
     "speed_kmph": 0.4,
     "event_code": "IDLING"
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:29:00.000Z",
-    "latitude": 43.66541,
-    "longitude": -79.59735,
+    "latitude": 43.695,
+    "longitude": -79.59033,
     "speed_kmph": 1.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:29:10.000Z",
-    "latitude": 43.66543,
-    "longitude": -79.59732,
+    "latitude": 43.69501,
+    "longitude": -79.5903,
     "speed_kmph": 2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:29:20.000Z",
-    "latitude": 43.66544,
-    "longitude": -79.59731,
+    "latitude": 43.69501,
+    "longitude": -79.59029,
     "speed_kmph": 0.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:29:30.000Z",
-    "latitude": 43.66545,
-    "longitude": -79.59729,
+    "latitude": 43.69502,
+    "longitude": -79.59027,
     "speed_kmph": 1.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:29:40.000Z",
-    "latitude": 43.66546,
-    "longitude": -79.59727,
+    "latitude": 43.69503,
+    "longitude": -79.59024,
     "speed_kmph": 1.8,
     "event_code": "IDLING"
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:29:50.000Z",
-    "latitude": 43.66547,
-    "longitude": -79.59726,
+    "latitude": 43.69503,
+    "longitude": -79.59023,
     "speed_kmph": 0.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:30:00.000Z",
-    "latitude": 43.66548,
-    "longitude": -79.59724,
+    "latitude": 43.69504,
+    "longitude": -79.5902,
     "speed_kmph": 1.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:30:10.000Z",
-    "latitude": 43.66638,
-    "longitude": -79.59577,
+    "latitude": 43.69554,
+    "longitude": -79.58852,
     "speed_kmph": 109.8,
     "event_code": "HARD_ACCEL"
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:30:20.000Z",
-    "latitude": 43.66725,
-    "longitude": -79.59436,
+    "latitude": 43.69603,
+    "longitude": -79.58689,
     "speed_kmph": 106,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:30:30.000Z",
-    "latitude": 43.66815,
-    "longitude": -79.59289,
+    "latitude": 43.69654,
+    "longitude": -79.58519,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:30:40.000Z",
-    "latitude": 43.66905,
-    "longitude": -79.59143,
+    "latitude": 43.69704,
+    "longitude": -79.58352,
     "speed_kmph": 109.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:30:50.000Z",
-    "latitude": 43.66993,
-    "longitude": -79.58999,
+    "latitude": 43.69754,
+    "longitude": -79.58185,
     "speed_kmph": 108.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:31:00.000Z",
-    "latitude": 43.67083,
-    "longitude": -79.58853,
+    "latitude": 43.69805,
+    "longitude": -79.58017,
     "speed_kmph": 109.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:31:10.000Z",
-    "latitude": 43.6717,
-    "longitude": -79.58712,
+    "latitude": 43.69854,
+    "longitude": -79.57855,
     "speed_kmph": 106.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:31:20.000Z",
-    "latitude": 43.67258,
-    "longitude": -79.58567,
+    "latitude": 43.69903,
+    "longitude": -79.57689,
     "speed_kmph": 108.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:31:30.000Z",
-    "latitude": 43.67345,
-    "longitude": -79.58426,
+    "latitude": 43.69952,
+    "longitude": -79.57526,
     "speed_kmph": 106,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:31:40.000Z",
-    "latitude": 43.67431,
-    "longitude": -79.58286,
+    "latitude": 43.70001,
+    "longitude": -79.57364,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:31:50.000Z",
-    "latitude": 43.6752,
-    "longitude": -79.58141,
+    "latitude": 43.70051,
+    "longitude": -79.57198,
     "speed_kmph": 108.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:32:00.000Z",
-    "latitude": 43.67609,
-    "longitude": -79.57996,
+    "latitude": 43.70101,
+    "longitude": -79.57031,
     "speed_kmph": 108.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:32:10.000Z",
-    "latitude": 43.67699,
-    "longitude": -79.5785,
+    "latitude": 43.70151,
+    "longitude": -79.56862,
     "speed_kmph": 109.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:32:20.000Z",
-    "latitude": 43.67784,
-    "longitude": -79.57711,
+    "latitude": 43.702,
+    "longitude": -79.56702,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:32:30.000Z",
-    "latitude": 43.67873,
-    "longitude": -79.57566,
+    "latitude": 43.7025,
+    "longitude": -79.56535,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:32:40.000Z",
-    "latitude": 43.67961,
-    "longitude": -79.57423,
+    "latitude": 43.70299,
+    "longitude": -79.56371,
     "speed_kmph": 106.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:32:50.000Z",
-    "latitude": 43.68046,
-    "longitude": -79.57284,
+    "latitude": 43.70347,
+    "longitude": -79.56211,
     "speed_kmph": 104.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:33:00.000Z",
-    "latitude": 43.68135,
-    "longitude": -79.57138,
+    "latitude": 43.70397,
+    "longitude": -79.56043,
     "speed_kmph": 109.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:33:10.000Z",
-    "latitude": 43.68224,
-    "longitude": -79.56995,
+    "latitude": 43.70447,
+    "longitude": -79.55877,
     "speed_kmph": 107.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:33:20.000Z",
-    "latitude": 43.6831,
-    "longitude": -79.56854,
+    "latitude": 43.70496,
+    "longitude": -79.55714,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:33:30.000Z",
-    "latitude": 43.68398,
-    "longitude": -79.56711,
+    "latitude": 43.70545,
+    "longitude": -79.55551,
     "speed_kmph": 106.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:33:40.000Z",
-    "latitude": 43.68486,
-    "longitude": -79.56568,
+    "latitude": 43.70594,
+    "longitude": -79.55385,
     "speed_kmph": 107.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:33:50.000Z",
-    "latitude": 43.68574,
-    "longitude": -79.56425,
+    "latitude": 43.70644,
+    "longitude": -79.5522,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:34:00.000Z",
-    "latitude": 43.6866,
-    "longitude": -79.56284,
+    "latitude": 43.70693,
+    "longitude": -79.55058,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:34:10.000Z",
-    "latitude": 43.6875,
-    "longitude": -79.56137,
+    "latitude": 43.70743,
+    "longitude": -79.5489,
     "speed_kmph": 109.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:34:20.000Z",
-    "latitude": 43.68839,
-    "longitude": -79.55992,
+    "latitude": 43.70793,
+    "longitude": -79.54722,
     "speed_kmph": 109.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:34:30.000Z",
-    "latitude": 43.6893,
-    "longitude": -79.55844,
+    "latitude": 43.70833,
+    "longitude": -79.54546,
     "speed_kmph": 111.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:34:40.000Z",
-    "latitude": 43.6902,
-    "longitude": -79.55698,
+    "latitude": 43.7087,
+    "longitude": -79.54371,
     "speed_kmph": 109.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:34:50.000Z",
-    "latitude": 43.69106,
-    "longitude": -79.55558,
+    "latitude": 43.70906,
+    "longitude": -79.54203,
     "speed_kmph": 105.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:35:00.000Z",
-    "latitude": 43.69197,
-    "longitude": -79.5541,
+    "latitude": 43.70943,
+    "longitude": -79.54026,
     "speed_kmph": 111.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:35:10.000Z",
-    "latitude": 43.69287,
-    "longitude": -79.55262,
+    "latitude": 43.70981,
+    "longitude": -79.5385,
     "speed_kmph": 110.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:35:20.000Z",
-    "latitude": 43.69374,
-    "longitude": -79.55121,
+    "latitude": 43.71017,
+    "longitude": -79.5368,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:35:30.000Z",
-    "latitude": 43.69461,
-    "longitude": -79.54979,
+    "latitude": 43.71053,
+    "longitude": -79.53511,
     "speed_kmph": 106.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:35:40.000Z",
-    "latitude": 43.69548,
-    "longitude": -79.54838,
+    "latitude": 43.71089,
+    "longitude": -79.53342,
     "speed_kmph": 106.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:35:50.000Z",
-    "latitude": 43.69637,
-    "longitude": -79.54693,
+    "latitude": 43.71126,
+    "longitude": -79.53169,
     "speed_kmph": 108.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:36:00.000Z",
-    "latitude": 43.69723,
-    "longitude": -79.54553,
+    "latitude": 43.71162,
+    "longitude": -79.53001,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:36:10.000Z",
-    "latitude": 43.69813,
-    "longitude": -79.54406,
+    "latitude": 43.71199,
+    "longitude": -79.52825,
     "speed_kmph": 110.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:36:20.000Z",
-    "latitude": 43.69899,
-    "longitude": -79.54267,
+    "latitude": 43.71234,
+    "longitude": -79.52658,
     "speed_kmph": 104.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:36:30.000Z",
-    "latitude": 43.69986,
-    "longitude": -79.54124,
+    "latitude": 43.71271,
+    "longitude": -79.52488,
     "speed_kmph": 107.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:36:40.000Z",
-    "latitude": 43.70064,
-    "longitude": -79.53975,
+    "latitude": 43.71307,
+    "longitude": -79.52318,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:36:50.000Z",
-    "latitude": 43.70115,
-    "longitude": -79.53806,
+    "latitude": 43.71342,
+    "longitude": -79.52151,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:37:00.000Z",
-    "latitude": 43.70167,
-    "longitude": -79.53636,
+    "latitude": 43.71378,
+    "longitude": -79.51983,
     "speed_kmph": 105.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:37:10.000Z",
-    "latitude": 43.7022,
-    "longitude": -79.53461,
+    "latitude": 43.71415,
+    "longitude": -79.51811,
     "speed_kmph": 108.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:37:20.000Z",
-    "latitude": 43.70274,
-    "longitude": -79.53285,
+    "latitude": 43.71452,
+    "longitude": -79.51636,
     "speed_kmph": 109.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:37:30.000Z",
-    "latitude": 43.70326,
-    "longitude": -79.53113,
+    "latitude": 43.71488,
+    "longitude": -79.51467,
     "speed_kmph": 106.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:37:40.000Z",
-    "latitude": 43.70379,
-    "longitude": -79.52937,
+    "latitude": 43.71525,
+    "longitude": -79.51292,
     "speed_kmph": 109.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:37:50.000Z",
-    "latitude": 43.70433,
-    "longitude": -79.52761,
+    "latitude": 43.71562,
+    "longitude": -79.51118,
     "speed_kmph": 109.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:38:00.000Z",
-    "latitude": 43.70485,
-    "longitude": -79.5259,
+    "latitude": 43.71598,
+    "longitude": -79.50949,
     "speed_kmph": 106,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:38:10.000Z",
-    "latitude": 43.70536,
-    "longitude": -79.5242,
+    "latitude": 43.71634,
+    "longitude": -79.50781,
     "speed_kmph": 105.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:38:20.000Z",
-    "latitude": 43.70589,
-    "longitude": -79.52246,
+    "latitude": 43.7167,
+    "longitude": -79.50609,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:38:30.000Z",
-    "latitude": 43.70643,
-    "longitude": -79.5207,
+    "latitude": 43.71708,
+    "longitude": -79.50435,
     "speed_kmph": 109.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:38:40.000Z",
-    "latitude": 43.70697,
-    "longitude": -79.51894,
+    "latitude": 43.71745,
+    "longitude": -79.5026,
     "speed_kmph": 109.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:38:50.000Z",
-    "latitude": 43.70749,
-    "longitude": -79.51721,
+    "latitude": 43.71781,
+    "longitude": -79.50089,
     "speed_kmph": 107.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:39:00.000Z",
-    "latitude": 43.70803,
-    "longitude": -79.51544,
+    "latitude": 43.71814,
+    "longitude": -79.49912,
     "speed_kmph": 109.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:39:10.000Z",
-    "latitude": 43.70856,
-    "longitude": -79.51371,
+    "latitude": 43.71842,
+    "longitude": -79.49738,
     "speed_kmph": 107.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:39:20.000Z",
-    "latitude": 43.70907,
-    "longitude": -79.51202,
+    "latitude": 43.71869,
+    "longitude": -79.49568,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:39:30.000Z",
-    "latitude": 43.70959,
-    "longitude": -79.51033,
+    "latitude": 43.71896,
+    "longitude": -79.49397,
     "speed_kmph": 105.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:39:40.000Z",
-    "latitude": 43.71013,
-    "longitude": -79.50854,
+    "latitude": 43.71924,
+    "longitude": -79.49218,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:39:50.000Z",
-    "latitude": 43.71065,
-    "longitude": -79.50681,
+    "latitude": 43.71952,
+    "longitude": -79.49044,
     "speed_kmph": 107.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:40:00.000Z",
-    "latitude": 43.71118,
-    "longitude": -79.5051,
+    "latitude": 43.7198,
+    "longitude": -79.48871,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:40:10.000Z",
-    "latitude": 43.71169,
-    "longitude": -79.50342,
+    "latitude": 43.72007,
+    "longitude": -79.48702,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:40:20.000Z",
-    "latitude": 43.71221,
-    "longitude": -79.50171,
+    "latitude": 43.72034,
+    "longitude": -79.4853,
     "speed_kmph": 105.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:40:30.000Z",
-    "latitude": 43.71274,
-    "longitude": -79.49996,
+    "latitude": 43.72062,
+    "longitude": -79.48353,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:40:40.000Z",
-    "latitude": 43.71327,
-    "longitude": -79.4982,
+    "latitude": 43.7209,
+    "longitude": -79.48177,
     "speed_kmph": 109,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:40:50.000Z",
-    "latitude": 43.71381,
-    "longitude": -79.49644,
+    "latitude": 43.72118,
+    "longitude": -79.47999,
     "speed_kmph": 109.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:41:00.000Z",
-    "latitude": 43.71434,
-    "longitude": -79.4947,
+    "latitude": 43.72146,
+    "longitude": -79.47824,
     "speed_kmph": 108,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:41:10.000Z",
-    "latitude": 43.71485,
-    "longitude": -79.49301,
+    "latitude": 43.72173,
+    "longitude": -79.47653,
     "speed_kmph": 105.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:41:20.000Z",
-    "latitude": 43.71537,
-    "longitude": -79.4913,
+    "latitude": 43.72201,
+    "longitude": -79.47481,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:41:30.000Z",
-    "latitude": 43.7159,
-    "longitude": -79.48956,
+    "latitude": 43.72228,
+    "longitude": -79.47307,
     "speed_kmph": 107.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:41:40.000Z",
-    "latitude": 43.71642,
-    "longitude": -79.48785,
+    "latitude": 43.72256,
+    "longitude": -79.47134,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:41:50.000Z",
-    "latitude": 43.71694,
-    "longitude": -79.48615,
+    "latitude": 43.72283,
+    "longitude": -79.46963,
     "speed_kmph": 105.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:42:00.000Z",
-    "latitude": 43.71745,
-    "longitude": -79.48447,
+    "latitude": 43.7231,
+    "longitude": -79.46793,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:42:10.000Z",
-    "latitude": 43.71799,
-    "longitude": -79.48269,
+    "latitude": 43.72339,
+    "longitude": -79.46614,
     "speed_kmph": 110.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:42:20.000Z",
-    "latitude": 43.71852,
-    "longitude": -79.48096,
+    "latitude": 43.72366,
+    "longitude": -79.46441,
     "speed_kmph": 106.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:42:30.000Z",
-    "latitude": 43.71904,
-    "longitude": -79.47924,
+    "latitude": 43.72394,
+    "longitude": -79.46267,
     "speed_kmph": 107.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:42:40.000Z",
-    "latitude": 43.71958,
-    "longitude": -79.47746,
+    "latitude": 43.72422,
+    "longitude": -79.46087,
     "speed_kmph": 110.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:42:50.000Z",
-    "latitude": 43.7201,
-    "longitude": -79.47574,
+    "latitude": 43.7245,
+    "longitude": -79.45914,
     "speed_kmph": 106.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:43:00.000Z",
-    "latitude": 43.72063,
-    "longitude": -79.47401,
+    "latitude": 43.72478,
+    "longitude": -79.4574,
     "speed_kmph": 107.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:43:10.000Z",
-    "latitude": 43.72117,
-    "longitude": -79.47224,
+    "latitude": 43.72519,
+    "longitude": -79.45571,
     "speed_kmph": 110,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:43:20.000Z",
-    "latitude": 43.72171,
-    "longitude": -79.47045,
+    "latitude": 43.72608,
+    "longitude": -79.45435,
     "speed_kmph": 110.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:43:30.000Z",
-    "latitude": 43.72222,
-    "longitude": -79.46877,
+    "latitude": 43.72693,
+    "longitude": -79.45306,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:43:40.000Z",
-    "latitude": 43.72274,
-    "longitude": -79.46708,
+    "latitude": 43.72777,
+    "longitude": -79.45177,
     "speed_kmph": 104.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:43:50.000Z",
-    "latitude": 43.72326,
-    "longitude": -79.46536,
+    "latitude": 43.72864,
+    "longitude": -79.45045,
     "speed_kmph": 106.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:44:00.000Z",
-    "latitude": 43.72379,
-    "longitude": -79.46363,
+    "latitude": 43.7295,
+    "longitude": -79.44913,
     "speed_kmph": 107,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:44:10.000Z",
-    "latitude": 43.7243,
-    "longitude": -79.46194,
+    "latitude": 43.73034,
+    "longitude": -79.44784,
     "speed_kmph": 104.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:44:20.000Z",
-    "latitude": 43.72482,
-    "longitude": -79.46023,
+    "latitude": 43.7312,
+    "longitude": -79.44653,
     "speed_kmph": 106.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:44:30.000Z",
-    "latitude": 43.72524,
-    "longitude": -79.45844,
+    "latitude": 43.73207,
+    "longitude": -79.44521,
     "speed_kmph": 107.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:44:40.000Z",
-    "latitude": 43.72567,
-    "longitude": -79.45662,
+    "latitude": 43.73295,
+    "longitude": -79.44386,
     "speed_kmph": 109.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:44:50.000Z",
-    "latitude": 43.72611,
-    "longitude": -79.45479,
+    "latitude": 43.73384,
+    "longitude": -79.4425,
     "speed_kmph": 110.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:45:00.000Z",
-    "latitude": 43.72654,
-    "longitude": -79.45297,
+    "latitude": 43.73472,
+    "longitude": -79.44116,
     "speed_kmph": 109.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:45:10.000Z",
-    "latitude": 43.72696,
-    "longitude": -79.45121,
+    "latitude": 43.73558,
+    "longitude": -79.43985,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:45:20.000Z",
-    "latitude": 43.72737,
-    "longitude": -79.44946,
+    "latitude": 43.73643,
+    "longitude": -79.43855,
     "speed_kmph": 105.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:45:30.000Z",
-    "latitude": 43.72779,
-    "longitude": -79.44771,
+    "latitude": 43.73728,
+    "longitude": -79.43726,
     "speed_kmph": 105.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:45:40.000Z",
-    "latitude": 43.72821,
-    "longitude": -79.44592,
+    "latitude": 43.73815,
+    "longitude": -79.43594,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:45:50.000Z",
-    "latitude": 43.72863,
-    "longitude": -79.44414,
+    "latitude": 43.73901,
+    "longitude": -79.43462,
     "speed_kmph": 107.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:46:00.000Z",
-    "latitude": 43.72906,
-    "longitude": -79.44235,
+    "latitude": 43.73988,
+    "longitude": -79.43329,
     "speed_kmph": 107.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:46:10.000Z",
-    "latitude": 43.72948,
-    "longitude": -79.44054,
+    "latitude": 43.74076,
+    "longitude": -79.43195,
     "speed_kmph": 108.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:46:20.000Z",
-    "latitude": 43.7299,
-    "longitude": -79.43877,
+    "latitude": 43.74162,
+    "longitude": -79.43063,
     "speed_kmph": 106.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:46:30.000Z",
-    "latitude": 43.73034,
-    "longitude": -79.43695,
+    "latitude": 43.7425,
+    "longitude": -79.42928,
     "speed_kmph": 109.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:46:40.000Z",
-    "latitude": 43.73076,
-    "longitude": -79.43517,
+    "latitude": 43.74337,
+    "longitude": -79.42797,
     "speed_kmph": 106.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:46:50.000Z",
-    "latitude": 43.73119,
-    "longitude": -79.43335,
+    "latitude": 43.74417,
+    "longitude": -79.42654,
     "speed_kmph": 109.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:47:00.000Z",
-    "latitude": 43.73162,
-    "longitude": -79.43154,
+    "latitude": 43.74475,
+    "longitude": -79.42492,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:47:10.000Z",
-    "latitude": 43.73204,
-    "longitude": -79.42976,
+    "latitude": 43.74533,
+    "longitude": -79.42333,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:47:20.000Z",
-    "latitude": 43.73246,
-    "longitude": -79.42797,
+    "latitude": 43.74591,
+    "longitude": -79.42174,
     "speed_kmph": 107.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:47:30.000Z",
-    "latitude": 43.73289,
-    "longitude": -79.42616,
+    "latitude": 43.7465,
+    "longitude": -79.42012,
     "speed_kmph": 109,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:47:40.000Z",
-    "latitude": 43.73332,
-    "longitude": -79.42436,
+    "latitude": 43.74709,
+    "longitude": -79.4185,
     "speed_kmph": 108.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:47:50.000Z",
-    "latitude": 43.73373,
-    "longitude": -79.42262,
+    "latitude": 43.74765,
+    "longitude": -79.41695,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:48:00.000Z",
-    "latitude": 43.73417,
-    "longitude": -79.42077,
+    "latitude": 43.74829,
+    "longitude": -79.41533,
     "speed_kmph": 111.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:48:10.000Z",
-    "latitude": 43.7346,
-    "longitude": -79.41897,
+    "latitude": 43.74895,
+    "longitude": -79.41377,
     "speed_kmph": 108.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:48:20.000Z",
-    "latitude": 43.73504,
-    "longitude": -79.41713,
+    "latitude": 43.74962,
+    "longitude": -79.41218,
     "speed_kmph": 110.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:48:30.000Z",
-    "latitude": 43.73545,
-    "longitude": -79.41537,
+    "latitude": 43.75026,
+    "longitude": -79.41067,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:48:40.000Z",
-    "latitude": 43.73588,
-    "longitude": -79.41358,
+    "latitude": 43.75092,
+    "longitude": -79.40912,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:48:50.000Z",
-    "latitude": 43.7363,
-    "longitude": -79.41179,
+    "latitude": 43.75158,
+    "longitude": -79.40758,
     "speed_kmph": 107.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:49:00.000Z",
-    "latitude": 43.73673,
-    "longitude": -79.40997,
+    "latitude": 43.75224,
+    "longitude": -79.40601,
     "speed_kmph": 109.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:49:10.000Z",
-    "latitude": 43.73716,
-    "longitude": -79.40815,
+    "latitude": 43.75291,
+    "longitude": -79.40444,
     "speed_kmph": 109.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:49:20.000Z",
-    "latitude": 43.7376,
-    "longitude": -79.40631,
+    "latitude": 43.75359,
+    "longitude": -79.40285,
     "speed_kmph": 110.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:49:30.000Z",
-    "latitude": 43.73802,
-    "longitude": -79.40452,
+    "latitude": 43.75424,
+    "longitude": -79.40132,
     "speed_kmph": 107.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:49:40.000Z",
-    "latitude": 43.73845,
-    "longitude": -79.40275,
+    "latitude": 43.75489,
+    "longitude": -79.39978,
     "speed_kmph": 106.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:49:50.000Z",
-    "latitude": 43.73887,
-    "longitude": -79.40097,
+    "latitude": 43.75554,
+    "longitude": -79.39825,
     "speed_kmph": 106.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:50:00.000Z",
-    "latitude": 43.7393,
-    "longitude": -79.39914,
+    "latitude": 43.75621,
+    "longitude": -79.39667,
     "speed_kmph": 110.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:50:10.000Z",
-    "latitude": 43.73974,
-    "longitude": -79.3973,
+    "latitude": 43.75689,
+    "longitude": -79.39508,
     "speed_kmph": 110.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:50:20.000Z",
-    "latitude": 43.74017,
-    "longitude": -79.39549,
+    "latitude": 43.75755,
+    "longitude": -79.39353,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:50:30.000Z",
-    "latitude": 43.74061,
-    "longitude": -79.39364,
+    "latitude": 43.75823,
+    "longitude": -79.39193,
     "speed_kmph": 111.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:50:40.000Z",
-    "latitude": 43.74102,
-    "longitude": -79.39189,
+    "latitude": 43.75887,
+    "longitude": -79.39042,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:50:50.000Z",
-    "latitude": 43.74144,
-    "longitude": -79.39011,
+    "latitude": 43.75952,
+    "longitude": -79.38888,
     "speed_kmph": 107,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:51:00.000Z",
-    "latitude": 43.74188,
-    "longitude": -79.38828,
+    "latitude": 43.76019,
+    "longitude": -79.38731,
     "speed_kmph": 110,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:51:10.000Z",
-    "latitude": 43.74229,
-    "longitude": -79.38652,
+    "latitude": 43.76084,
+    "longitude": -79.38579,
     "speed_kmph": 105.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:51:20.000Z",
-    "latitude": 43.74273,
-    "longitude": -79.38468,
+    "latitude": 43.76151,
+    "longitude": -79.3842,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:51:30.000Z",
-    "latitude": 43.74315,
-    "longitude": -79.38291,
+    "latitude": 43.76216,
+    "longitude": -79.38268,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:51:40.000Z",
-    "latitude": 43.74358,
-    "longitude": -79.38111,
+    "latitude": 43.76282,
+    "longitude": -79.38113,
     "speed_kmph": 108.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:51:50.000Z",
-    "latitude": 43.74401,
-    "longitude": -79.37927,
+    "latitude": 43.7635,
+    "longitude": -79.37954,
     "speed_kmph": 110.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:52:00.000Z",
-    "latitude": 43.74445,
-    "longitude": -79.37743,
+    "latitude": 43.76417,
+    "longitude": -79.37795,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:52:10.000Z",
-    "latitude": 43.74488,
-    "longitude": -79.3756,
+    "latitude": 43.76484,
+    "longitude": -79.37637,
     "speed_kmph": 110.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:52:20.000Z",
-    "latitude": 43.74531,
-    "longitude": -79.37379,
+    "latitude": 43.76507,
+    "longitude": -79.37463,
     "speed_kmph": 108.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:52:30.000Z",
-    "latitude": 43.74575,
-    "longitude": -79.37195,
+    "latitude": 43.76516,
+    "longitude": -79.37279,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:52:40.000Z",
-    "latitude": 43.74618,
-    "longitude": -79.37011,
+    "latitude": 43.76525,
+    "longitude": -79.37095,
     "speed_kmph": 111,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:52:50.000Z",
-    "latitude": 43.74661,
-    "longitude": -79.36832,
+    "latitude": 43.76533,
+    "longitude": -79.36916,
     "speed_kmph": 107.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:53:00.000Z",
-    "latitude": 43.74703,
-    "longitude": -79.36655,
+    "latitude": 43.76542,
+    "longitude": -79.3674,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:53:10.000Z",
-    "latitude": 43.74745,
-    "longitude": -79.36478,
+    "latitude": 43.76551,
+    "longitude": -79.36563,
     "speed_kmph": 106.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:53:20.000Z",
-    "latitude": 43.74786,
-    "longitude": -79.36305,
+    "latitude": 43.76559,
+    "longitude": -79.3639,
     "speed_kmph": 104.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:53:30.000Z",
-    "latitude": 43.74828,
-    "longitude": -79.36129,
+    "latitude": 43.76568,
+    "longitude": -79.36214,
     "speed_kmph": 106,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:53:40.000Z",
-    "latitude": 43.74869,
-    "longitude": -79.35953,
+    "latitude": 43.76576,
+    "longitude": -79.36039,
     "speed_kmph": 105.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:53:50.000Z",
-    "latitude": 43.74913,
-    "longitude": -79.35769,
+    "latitude": 43.76585,
+    "longitude": -79.35855,
     "speed_kmph": 111.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:54:00.000Z",
-    "latitude": 43.74954,
-    "longitude": -79.35595,
+    "latitude": 43.76594,
+    "longitude": -79.35681,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:54:10.000Z",
-    "latitude": 43.74996,
-    "longitude": -79.3542,
+    "latitude": 43.76602,
+    "longitude": -79.35506,
     "speed_kmph": 105.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:54:20.000Z",
-    "latitude": 43.75039,
-    "longitude": -79.35236,
+    "latitude": 43.76611,
+    "longitude": -79.35323,
     "speed_kmph": 110.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:54:30.000Z",
-    "latitude": 43.75081,
-    "longitude": -79.35058,
+    "latitude": 43.7662,
+    "longitude": -79.35146,
     "speed_kmph": 106.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:54:40.000Z",
-    "latitude": 43.75123,
-    "longitude": -79.34882,
+    "latitude": 43.76628,
+    "longitude": -79.3497,
     "speed_kmph": 106,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:54:50.000Z",
-    "latitude": 43.75167,
-    "longitude": -79.34697,
+    "latitude": 43.76637,
+    "longitude": -79.34785,
     "speed_kmph": 111.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:55:00.000Z",
-    "latitude": 43.7521,
-    "longitude": -79.34515,
+    "latitude": 43.76646,
+    "longitude": -79.34603,
     "speed_kmph": 109.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:55:10.000Z",
-    "latitude": 43.75252,
-    "longitude": -79.34339,
+    "latitude": 43.76655,
+    "longitude": -79.34427,
     "speed_kmph": 105.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:55:20.000Z",
-    "latitude": 43.75294,
-    "longitude": -79.34164,
+    "latitude": 43.76663,
+    "longitude": -79.34252,
     "speed_kmph": 105.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:55:30.000Z",
-    "latitude": 43.75335,
-    "longitude": -79.33989,
+    "latitude": 43.76672,
+    "longitude": -79.34078,
     "speed_kmph": 105,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:55:40.000Z",
-    "latitude": 43.75376,
-    "longitude": -79.33815,
+    "latitude": 43.7668,
+    "longitude": -79.33904,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:55:50.000Z",
-    "latitude": 43.75418,
-    "longitude": -79.3364,
+    "latitude": 43.76689,
+    "longitude": -79.3373,
     "speed_kmph": 105.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:56:00.000Z",
-    "latitude": 43.7546,
-    "longitude": -79.33461,
+    "latitude": 43.76698,
+    "longitude": -79.33551,
     "speed_kmph": 107.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:56:10.000Z",
-    "latitude": 43.75504,
-    "longitude": -79.33278,
+    "latitude": 43.76723,
+    "longitude": -79.33371,
     "speed_kmph": 110.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:56:20.000Z",
-    "latitude": 43.75546,
-    "longitude": -79.33097,
+    "latitude": 43.76754,
+    "longitude": -79.33196,
     "speed_kmph": 108.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:56:30.000Z",
-    "latitude": 43.75598,
-    "longitude": -79.32926,
+    "latitude": 43.76784,
+    "longitude": -79.33024,
     "speed_kmph": 106.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:56:40.000Z",
-    "latitude": 43.75654,
-    "longitude": -79.32757,
+    "latitude": 43.76814,
+    "longitude": -79.32852,
     "speed_kmph": 106.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:56:50.000Z",
-    "latitude": 43.75711,
-    "longitude": -79.32586,
+    "latitude": 43.76845,
+    "longitude": -79.32679,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:57:00.000Z",
-    "latitude": 43.75768,
-    "longitude": -79.32413,
+    "latitude": 43.76876,
+    "longitude": -79.32503,
     "speed_kmph": 108.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:57:10.000Z",
-    "latitude": 43.75826,
-    "longitude": -79.32238,
+    "latitude": 43.76907,
+    "longitude": -79.32325,
     "speed_kmph": 109.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:57:20.000Z",
-    "latitude": 43.75884,
-    "longitude": -79.32063,
+    "latitude": 43.76939,
+    "longitude": -79.32147,
     "speed_kmph": 110.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:57:30.000Z",
-    "latitude": 43.75943,
-    "longitude": -79.31887,
+    "latitude": 43.7697,
+    "longitude": -79.31968,
     "speed_kmph": 110.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:57:40.000Z",
-    "latitude": 43.76,
-    "longitude": -79.31715,
+    "latitude": 43.77001,
+    "longitude": -79.31794,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:57:50.000Z",
-    "latitude": 43.76058,
-    "longitude": -79.31539,
+    "latitude": 43.77033,
+    "longitude": -79.31615,
     "speed_kmph": 110.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:58:00.000Z",
-    "latitude": 43.76115,
-    "longitude": -79.3137,
+    "latitude": 43.77063,
+    "longitude": -79.31443,
     "speed_kmph": 106.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:58:10.000Z",
-    "latitude": 43.76173,
-    "longitude": -79.31195,
+    "latitude": 43.77094,
+    "longitude": -79.31265,
     "speed_kmph": 110.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:58:20.000Z",
-    "latitude": 43.76228,
-    "longitude": -79.31028,
+    "latitude": 43.77124,
+    "longitude": -79.31096,
     "speed_kmph": 104.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:58:30.000Z",
-    "latitude": 43.76285,
-    "longitude": -79.30857,
+    "latitude": 43.77155,
+    "longitude": -79.30922,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:58:40.000Z",
-    "latitude": 43.76344,
-    "longitude": -79.30681,
+    "latitude": 43.77187,
+    "longitude": -79.30742,
     "speed_kmph": 111.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:58:50.000Z",
-    "latitude": 43.764,
-    "longitude": -79.30509,
+    "latitude": 43.77217,
+    "longitude": -79.30568,
     "speed_kmph": 107.8,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:59:00.000Z",
-    "latitude": 43.76458,
-    "longitude": -79.30337,
+    "latitude": 43.77248,
+    "longitude": -79.30393,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:59:10.000Z",
-    "latitude": 43.76515,
-    "longitude": -79.30165,
+    "latitude": 43.77279,
+    "longitude": -79.30218,
     "speed_kmph": 108.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:59:20.000Z",
-    "latitude": 43.7657,
-    "longitude": -79.29998,
+    "latitude": 43.77309,
+    "longitude": -79.30049,
     "speed_kmph": 104.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:59:30.000Z",
-    "latitude": 43.76625,
-    "longitude": -79.29832,
+    "latitude": 43.77339,
+    "longitude": -79.2988,
     "speed_kmph": 104.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:59:40.000Z",
-    "latitude": 43.76681,
-    "longitude": -79.29665,
+    "latitude": 43.77369,
+    "longitude": -79.2971,
     "speed_kmph": 105.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T13:59:50.000Z",
-    "latitude": 43.76738,
-    "longitude": -79.29494,
+    "latitude": 43.77399,
+    "longitude": -79.29536,
     "speed_kmph": 107.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:00:00.000Z",
-    "latitude": 43.76795,
-    "longitude": -79.29322,
+    "latitude": 43.7743,
+    "longitude": -79.29361,
     "speed_kmph": 108.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:00:10.000Z",
-    "latitude": 43.76852,
-    "longitude": -79.29149,
+    "latitude": 43.77461,
+    "longitude": -79.29186,
     "speed_kmph": 108.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:00:20.000Z",
-    "latitude": 43.76908,
-    "longitude": -79.28981,
+    "latitude": 43.77491,
+    "longitude": -79.29015,
     "speed_kmph": 105.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:00:30.000Z",
-    "latitude": 43.76963,
-    "longitude": -79.28815,
+    "latitude": 43.77521,
+    "longitude": -79.28846,
     "speed_kmph": 104.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:00:40.000Z",
-    "latitude": 43.7702,
-    "longitude": -79.28644,
+    "latitude": 43.77552,
+    "longitude": -79.28673,
     "speed_kmph": 107.6,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:00:50.000Z",
-    "latitude": 43.77077,
-    "longitude": -79.28473,
+    "latitude": 43.77583,
+    "longitude": -79.28499,
     "speed_kmph": 107.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:01:00.000Z",
-    "latitude": 43.77135,
-    "longitude": -79.28297,
+    "latitude": 43.77614,
+    "longitude": -79.2832,
     "speed_kmph": 110.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:01:10.000Z",
-    "latitude": 43.77194,
-    "longitude": -79.2812,
+    "latitude": 43.77646,
+    "longitude": -79.28141,
     "speed_kmph": 111.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:01:20.000Z",
-    "latitude": 43.7725,
-    "longitude": -79.27952,
+    "latitude": 43.77676,
+    "longitude": -79.2797,
     "speed_kmph": 105.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:01:30.000Z",
-    "latitude": 43.77306,
-    "longitude": -79.27784,
+    "latitude": 43.77706,
+    "longitude": -79.27798,
     "speed_kmph": 105.9,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:01:40.000Z",
-    "latitude": 43.77363,
-    "longitude": -79.2761,
+    "latitude": 43.77737,
+    "longitude": -79.27621,
     "speed_kmph": 109.5,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:01:50.000Z",
-    "latitude": 43.77419,
-    "longitude": -79.27441,
+    "latitude": 43.77768,
+    "longitude": -79.2745,
     "speed_kmph": 106.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:02:00.000Z",
-    "latitude": 43.77476,
-    "longitude": -79.2727,
+    "latitude": 43.77798,
+    "longitude": -79.27277,
     "speed_kmph": 107,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:02:10.000Z",
-    "latitude": 43.77535,
-    "longitude": -79.27094,
+    "latitude": 43.7783,
+    "longitude": -79.27097,
     "speed_kmph": 111.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:02:20.000Z",
-    "latitude": 43.77593,
-    "longitude": -79.26918,
+    "latitude": 43.77861,
+    "longitude": -79.26919,
     "speed_kmph": 110.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:02:30.000Z",
-    "latitude": 43.77648,
-    "longitude": -79.26752,
+    "latitude": 43.77891,
+    "longitude": -79.2675,
     "speed_kmph": 105,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:02:40.000Z",
-    "latitude": 43.77705,
-    "longitude": -79.2658,
+    "latitude": 43.77922,
+    "longitude": -79.26575,
     "speed_kmph": 108.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:02:50.000Z",
-    "latitude": 43.77764,
-    "longitude": -79.26404,
+    "latitude": 43.77954,
+    "longitude": -79.26397,
     "speed_kmph": 110.4,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:03:00.000Z",
-    "latitude": 43.77822,
-    "longitude": -79.26227,
+    "latitude": 43.77985,
+    "longitude": -79.26217,
     "speed_kmph": 111.4,
     "event_code": "SPEEDING"
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:03:10.000Z",
-    "latitude": 43.77879,
-    "longitude": -79.26057,
+    "latitude": 43.78016,
+    "longitude": -79.26044,
     "speed_kmph": 106.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:03:20.000Z",
-    "latitude": 43.77935,
-    "longitude": -79.25889,
+    "latitude": 43.78046,
+    "longitude": -79.25873,
     "speed_kmph": 106,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:03:30.000Z",
-    "latitude": 43.77991,
-    "longitude": -79.25719,
+    "latitude": 43.78076,
+    "longitude": -79.257,
     "speed_kmph": 106.7,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:03:40.000Z",
-    "latitude": 43.78042,
-    "longitude": -79.25566,
+    "latitude": 43.78104,
+    "longitude": -79.25545,
     "speed_kmph": 96.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:03:50.000Z",
-    "latitude": 43.78086,
-    "longitude": -79.25432,
+    "latitude": 43.78128,
+    "longitude": -79.25409,
     "speed_kmph": 84.3,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:04:00.000Z",
-    "latitude": 43.78125,
-    "longitude": -79.25317,
+    "latitude": 43.78149,
+    "longitude": -79.25292,
     "speed_kmph": 72.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:04:10.000Z",
-    "latitude": 43.78156,
-    "longitude": -79.25221,
+    "latitude": 43.78166,
+    "longitude": -79.25195,
     "speed_kmph": 60.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:04:20.000Z",
-    "latitude": 43.78182,
-    "longitude": -79.25145,
+    "latitude": 43.78179,
+    "longitude": -79.25117,
     "speed_kmph": 48.2,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:04:30.000Z",
-    "latitude": 43.78201,
-    "longitude": -79.25087,
+    "latitude": 43.7819,
+    "longitude": -79.25058,
     "speed_kmph": 36.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:04:40.000Z",
-    "latitude": 43.78214,
-    "longitude": -79.25049,
+    "latitude": 43.78197,
+    "longitude": -79.25019,
     "speed_kmph": 24.1,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:04:50.000Z",
-    "latitude": 43.7822,
-    "longitude": -79.2503,
+    "latitude": 43.782,
+    "longitude": -79.25,
     "speed_kmph": 12,
     "event_code": null
   },
   {
     "vehicle_id": "hx-03",
     "recorded_at": "2026-06-15T14:05:00.000Z",
-    "latitude": 43.7822,
-    "longitude": -79.2503,
+    "latitude": 43.782,
+    "longitude": -79.25,
     "speed_kmph": 0,
     "event_code": null
   }
