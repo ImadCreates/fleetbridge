@@ -18,7 +18,7 @@ export function Layout() {
             <span className="text-base font-semibold tracking-tight">
               FleetBridge
             </span>
-            <span className="hidden text-xs text-slate-400 sm:inline">
+            <span className="hidden text-xs text-slate-500 sm:inline">
               Telematics normalization demo
             </span>
           </div>
@@ -33,7 +33,7 @@ export function Layout() {
                     isActive
                       ? 'bg-indigo-50 text-indigo-700'
                       : item.muted
-                        ? 'text-slate-400 hover:bg-slate-100'
+                        ? 'text-slate-500 hover:bg-slate-100'
                         : 'text-slate-600 hover:bg-slate-100'
                   }`
                 }

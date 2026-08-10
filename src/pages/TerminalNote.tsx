@@ -16,7 +16,7 @@ const CONTACT_LINKS = [
   { label: 'LinkedIn', href: 'https://linkedin.com/in/imadsecures', newTab: true },
 ]
 
-const headingCls = 'text-xs font-medium uppercase tracking-wide text-slate-400'
+const headingCls = 'text-xs font-medium uppercase tracking-wide text-slate-500'
 const proseCls = 'text-sm leading-relaxed text-slate-600'
 
 export function TerminalNote() {
