@@ -108,6 +108,94 @@ for (const providerId of ['northwind', 'haulix', 'tracpoint']) {
   })
 }
 
+// Each provider's speed path must emit an exact 2 dp canonical value. Inputs
+// are real fixture speeds whose raw conversions carry float artifacts
+// (6.8 mph -> 10.9435392, 3.3 m/s -> 11.879999999999999).
+describe('canonical speed rounding per conversion path', () => {
+  it('northwind rounds the mph conversion: 6.8 mph gives 10.94', () => {
+    const vehicle: Vehicle = {
+      id: 'nw-01',
+      label: 'Northwind 01',
+      providerId: 'northwind',
+      vin: 'N94YP74HMML2SA78V',
+    }
+    const raw = [
+      { id: 'nw-01', ts: 1781528400000, gps: { lat: 43.687, lon: -79.617 }, spd_mph: 6.8, events: [] },
+    ]
+    const { locations } = getAdapter('northwind')!.normalize(raw, vehicle)
+    expect(locations[0].speedKmh).toBe(10.94)
+  })
+
+  it('tracpoint rounds the m/s conversion: 3.3 m/s gives 11.88', () => {
+    const vehicle: Vehicle = {
+      id: 'tp-01',
+      label: 'TracPoint 01',
+      providerId: 'tracpoint',
+      vin: '2H4X0RGKJ7AYW0T6K',
+    }
+    const raw = [
+      {
+        device: { serial: '2H4X0RGKJ7AYW0T6K' },
+        position: { y: 43.7256, x: -79.5183 },
+        velocity_ms: 3.3,
+        time: 1781530200,
+        evt: 0,
+      },
+    ]
+    const { locations } = getAdapter('tracpoint')!.normalize(raw, vehicle)
+    expect(locations[0].speedKmh).toBe(11.88)
+    // The raw ping carries only the device serial (the VIN); the canonical
+    // vehicleId is the fleet id it resolves to.
+    expect(locations[0].vehicleId).toBe('tp-01')
+  })
+
+  it('haulix passes km/h through: 21.9 km/h stays 21.9', () => {
+    const vehicle: Vehicle = {
+      id: 'hx-01',
+      label: 'Haulix 01',
+      providerId: 'haulix',
+      vin: 'GCD0TWTE522DN0CJ9',
+    }
+    const raw = [
+      {
+        vehicle_id: 'hx-01',
+        recorded_at: '2026-06-15T13:15:00.000Z',
+        latitude: 43.646,
+        longitude: -79.357,
+        speed_kmph: 21.9,
+        event_code: null,
+      },
+    ]
+    const { locations } = getAdapter('haulix')!.normalize(raw, vehicle)
+    expect(locations[0].speedKmh).toBe(21.9)
+  })
+
+  it('config adapter rounds each speed unit option', () => {
+    const vehicle: Vehicle = {
+      id: 'cfg-01',
+      label: 'Config 01',
+      providerId: 'cfg',
+      vin: 'CFG00000000000001',
+    }
+    const configFor = (speedUnit: 'mph' | 'kmh' | 'ms') =>
+      makeConfigAdapter('cfg', 'Config', {
+        latPath: 'lat',
+        lngPath: 'lng',
+        speedPath: 'spd',
+        speedUnit,
+        timePath: 'when',
+        timeFormat: 'iso',
+      })
+    const ping = (spd: number) => [
+      { lat: 43.7, lng: -79.4, spd, when: '2026-01-01T00:00:00.000Z' },
+    ]
+
+    expect(configFor('mph').normalize(ping(6.8), vehicle).locations[0].speedKmh).toBe(10.94)
+    expect(configFor('ms').normalize(ping(3.3), vehicle).locations[0].speedKmh).toBe(11.88)
+    expect(configFor('kmh').normalize(ping(21.9), vehicle).locations[0].speedKmh).toBe(21.9)
+  })
+})
+
 describe('config-driven adapter', () => {
   it('normalizes an inline raw sample using its mapping config', () => {
     const sample = [

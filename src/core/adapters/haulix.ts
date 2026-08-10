@@ -1,4 +1,4 @@
-import { speedToKmh, toIso } from '../convert'
+import { roundSpeedKmh, speedToKmh, toIso } from '../convert'
 import type { SafetyEventType, Vehicle } from '../model'
 import type { ProviderAdapter } from './types'
 import { normalizePings } from './shared'
@@ -31,7 +31,9 @@ export const haulixAdapter: ProviderAdapter = {
     return normalizePings(vehicle.id, pings, {
       lat: (p) => p.latitude,
       lng: (p) => p.longitude,
-      speedKmh: (p) => speedToKmh(p.speed_kmph, 'kmh'),
+      // Haulix is already km/h; rounding still applies so the 2 dp invariant
+      // holds for every provider.
+      speedKmh: (p) => roundSpeedKmh(speedToKmh(p.speed_kmph, 'kmh')),
       timestamp: (p) => toIso(p.recorded_at, 'iso'),
       // Zero or one event per ping, carrying the ping's own ISO timestamp.
       events: (p) => {

@@ -22,6 +22,15 @@ export function speedToKmh(value: number, unit: SpeedUnit): number {
   }
 }
 
+/**
+ * Round a canonical speed to 2 decimal places. Every adapter passes its final
+ * speedKmh through this exactly once, when the canonical value is produced, so
+ * unit conversion artifacts never reach the canonical model.
+ */
+export function roundSpeedKmh(value: number): number {
+  return Math.round(value * 100) / 100
+}
+
 /** Convert a provider timestamp to an ISO 8601 string. */
 export function toIso(value: number | string, format: TimeFormat): string {
   switch (format) {

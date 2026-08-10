@@ -41,10 +41,12 @@ const VIEWS: ProviderView[] = [
     raw: northwindRaw as unknown[],
     hasEvent: (p) => Array.isArray(p.events) && (p.events as unknown[]).length > 0,
     transforms: [
-      { aspect: 'Speed', from: 'spd_mph (mph)', to: 'speedKmh (km/h)', note: 'x 1.609344' },
+      { aspect: 'Vehicle ID', from: 'id', to: 'vehicleId', note: 'already the fleet vehicle id' },
+      { aspect: 'Speed', from: 'spd_mph (mph)', to: 'speedKmh (km/h)', note: 'x 1.609344, rounded to 2 dp' },
       { aspect: 'Timestamp', from: 'ts (epoch ms)', to: 'timestamp (ISO 8601)' },
       { aspect: 'Latitude', from: 'gps.lat', to: 'lat' },
       { aspect: 'Longitude', from: 'gps.lon', to: 'lng' },
+      { aspect: 'Heading', from: 'none', to: 'headingDeg (degrees)', note: 'derived from consecutive GPS positions, held while stationary' },
     ],
     vocab: [
       { from: 'harshBraking', to: 'harsh_brake' },
@@ -58,10 +60,12 @@ const VIEWS: ProviderView[] = [
     raw: haulixRaw as unknown[],
     hasEvent: (p) => p.event_code !== null && p.event_code !== undefined,
     transforms: [
-      { aspect: 'Speed', from: 'speed_kmph (km/h)', to: 'speedKmh (km/h)', note: 'no conversion' },
+      { aspect: 'Vehicle ID', from: 'vehicle_id', to: 'vehicleId', note: 'already the fleet vehicle id' },
+      { aspect: 'Speed', from: 'speed_kmph (km/h)', to: 'speedKmh (km/h)', note: 'already km/h; rounded to 2 dp' },
       { aspect: 'Timestamp', from: 'recorded_at (ISO 8601)', to: 'timestamp (ISO 8601)' },
       { aspect: 'Latitude', from: 'latitude', to: 'lat' },
       { aspect: 'Longitude', from: 'longitude', to: 'lng' },
+      { aspect: 'Heading', from: 'none', to: 'headingDeg (degrees)', note: 'derived from consecutive GPS positions, held while stationary' },
     ],
     vocab: [
       { from: 'HARD_BRAKE', to: 'harsh_brake' },
@@ -75,10 +79,12 @@ const VIEWS: ProviderView[] = [
     raw: tracpointRaw as unknown[],
     hasEvent: (p) => p.evt !== 0 && p.evt !== undefined,
     transforms: [
-      { aspect: 'Speed', from: 'velocity_ms (m/s)', to: 'speedKmh (km/h)', note: 'x 3.6' },
+      { aspect: 'Vehicle ID', from: 'device.serial', to: 'vehicleId', note: 'device serial is the VIN, resolved to a fleet vehicle id' },
+      { aspect: 'Speed', from: 'velocity_ms (m/s)', to: 'speedKmh (km/h)', note: 'x 3.6, rounded to 2 dp' },
       { aspect: 'Timestamp', from: 'time (unix seconds)', to: 'timestamp (ISO 8601)' },
       { aspect: 'Latitude', from: 'position.y', to: 'lat', note: 'y is latitude (axis trap)' },
       { aspect: 'Longitude', from: 'position.x', to: 'lng', note: 'x is longitude (axis trap)' },
+      { aspect: 'Heading', from: 'none', to: 'headingDeg (degrees)', note: 'derived from consecutive GPS positions, held while stationary' },
     ],
     vocab: [
       { from: '1', to: 'harsh_brake' },

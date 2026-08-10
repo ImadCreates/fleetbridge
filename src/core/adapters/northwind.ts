@@ -1,4 +1,4 @@
-import { speedToKmh, toIso } from '../convert'
+import { roundSpeedKmh, speedToKmh, toIso } from '../convert'
 import type { SafetyEventType, Vehicle } from '../model'
 import type { ProviderAdapter } from './types'
 import { normalizePings } from './shared'
@@ -34,7 +34,7 @@ export const northwindAdapter: ProviderAdapter = {
     return normalizePings(vehicle.id, pings, {
       lat: (p) => p.gps.lat,
       lng: (p) => p.gps.lon,
-      speedKmh: (p) => speedToKmh(p.spd_mph, 'mph'),
+      speedKmh: (p) => roundSpeedKmh(speedToKmh(p.spd_mph, 'mph')),
       timestamp: (p) => toIso(p.ts, 'epoch_ms'),
       // Fan out every entry in the ping's events array, each with its own ts;
       // unmapped kinds are dropped.

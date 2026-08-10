@@ -1,4 +1,14 @@
-import { getByPath, speedToKmh, toIso } from '../convert'
+import { getByPath, roundSpeedKmh, speedToKmh, toIso } from '../convert'
+
+describe('roundSpeedKmh', () => {
+  it('rounds canonical speeds to 2 decimal places', () => {
+    expect(roundSpeedKmh(10.9435392)).toBe(10.94)
+    expect(roundSpeedKmh(11.879999999999999)).toBe(11.88)
+    expect(roundSpeedKmh(100.10119680000001)).toBe(100.1)
+    expect(roundSpeedKmh(21.9)).toBe(21.9)
+    expect(roundSpeedKmh(0)).toBe(0)
+  })
+})
 
 describe('speedToKmh', () => {
   it('converts mph to km/h', () => {
