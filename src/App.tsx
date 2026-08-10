@@ -6,6 +6,7 @@ import { FleetOverview } from './pages/FleetOverview'
 import { VehicleDetail } from './pages/VehicleDetail'
 import { Normalization } from './pages/Normalization'
 import { AddProvider } from './pages/AddProvider'
+import { TerminalNote } from './pages/TerminalNote'
 import { NotFound } from './pages/NotFound'
 
 export default function App() {
@@ -18,6 +19,7 @@ export default function App() {
             <Route path="/vehicle/:id" element={<VehicleDetail />} />
             <Route path="/normalization" element={<Normalization />} />
             <Route path="/add-provider" element={<AddProvider />} />
+            <Route path="/terminal" element={<TerminalNote />} />
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
