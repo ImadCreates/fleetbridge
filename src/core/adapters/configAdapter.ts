@@ -1,4 +1,4 @@
-import { getByPath, speedToKmh, toIso } from '../convert'
+import { getByPath, roundSpeedKmh, speedToKmh, toIso } from '../convert'
 import type { SpeedUnit, TimeFormat } from '../convert'
 import type { SafetyEventType, Vehicle } from '../model'
 import type { ProviderAdapter } from './types'
@@ -50,7 +50,9 @@ export function makeConfigAdapter(
         lat: (p) => Number(getByPath(p, config.latPath)),
         lng: (p) => Number(getByPath(p, config.lngPath)),
         speedKmh: (p) =>
-          speedToKmh(Number(getByPath(p, config.speedPath)), config.speedUnit),
+          roundSpeedKmh(
+            speedToKmh(Number(getByPath(p, config.speedPath)), config.speedUnit),
+          ),
         timestamp: tsOf,
         // A config maps at most one event per ping; wrap it into the array
         // contract, reusing the ping's own timestamp.

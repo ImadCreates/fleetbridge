@@ -1,4 +1,4 @@
-import { speedToKmh, toIso } from '../convert'
+import { roundSpeedKmh, speedToKmh, toIso } from '../convert'
 import type { SafetyEventType, Vehicle } from '../model'
 import type { ProviderAdapter } from './types'
 import { normalizePings } from './shared'
@@ -31,7 +31,7 @@ export const tracpointAdapter: ProviderAdapter = {
     return normalizePings(vehicle.id, pings, {
       lat: (p) => p.position.y, // y is latitude
       lng: (p) => p.position.x, // x is longitude
-      speedKmh: (p) => speedToKmh(p.velocity_ms, 'ms'),
+      speedKmh: (p) => roundSpeedKmh(speedToKmh(p.velocity_ms, 'ms')),
       timestamp: (p) => toIso(p.time, 'unix_s'),
       // Zero or one event per ping, carrying the ping's own unix-seconds time.
       events: (p) => {
