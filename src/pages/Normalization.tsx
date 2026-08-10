@@ -61,7 +61,7 @@ const VIEWS: ProviderView[] = [
     hasEvent: (p) => p.event_code !== null && p.event_code !== undefined,
     transforms: [
       { aspect: 'Vehicle ID', from: 'vehicle_id', to: 'vehicleId', note: 'already the fleet vehicle id' },
-      { aspect: 'Speed', from: 'speed_kmph (km/h)', to: 'speedKmh (km/h)', note: 'no conversion' },
+      { aspect: 'Speed', from: 'speed_kmph (km/h)', to: 'speedKmh (km/h)', note: 'already km/h; rounded to 2 dp' },
       { aspect: 'Timestamp', from: 'recorded_at (ISO 8601)', to: 'timestamp (ISO 8601)' },
       { aspect: 'Latitude', from: 'latitude', to: 'lat' },
       { aspect: 'Longitude', from: 'longitude', to: 'lng' },
