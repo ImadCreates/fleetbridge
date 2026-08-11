@@ -69,10 +69,9 @@ export function TerminalNote() {
         <ul className="flex flex-wrap gap-x-6 gap-y-2 border-t border-slate-100 pt-6">
           {CONTACT_LINKS.map((link) => (
             <li key={link.href}>
-              <a
-                href={link.href}
-                {...(link.newTab ? { target: '_blank', rel: 'noreferrer' } : {})}
-                className="text-sm text-indigo-600 outline-none hover:text-indigo-700 focus-visible:underline"
+                {...(link.newTab
+                  ? { target: '_blank', rel: 'noopener noreferrer' }
+                  : {})}
               >
                 {link.label}
               </a>
