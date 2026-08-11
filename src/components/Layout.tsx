@@ -1,9 +1,12 @@
 import { NavLink, Outlet } from 'react-router-dom'
 
-const NAV = [
+// A muted item keeps the nav shape but uses the secondary text color, so it
+// reads as a footnote rather than a tab.
+const NAV: Array<{ to: string; label: string; end: boolean; muted?: boolean }> = [
   { to: '/', label: 'Fleet', end: true },
   { to: '/normalization', label: 'Normalization', end: false },
   { to: '/add-provider', label: 'Add provider', end: false },
+  { to: '/terminal', label: 'For Terminal', end: false, muted: true },
 ]
 
 export function Layout() {
@@ -15,7 +18,7 @@ export function Layout() {
             <span className="text-base font-semibold tracking-tight">
               FleetBridge
             </span>
-            <span className="hidden text-xs text-slate-400 sm:inline">
+            <span className="hidden text-xs text-slate-500 sm:inline">
               Telematics normalization demo
             </span>
           </div>
@@ -29,7 +32,9 @@ export function Layout() {
                   `rounded-md px-3 py-1.5 text-sm transition-colors ${
                     isActive
                       ? 'bg-indigo-50 text-indigo-700'
-                      : 'text-slate-600 hover:bg-slate-100'
+                      : item.muted
+                        ? 'text-slate-500 hover:bg-slate-100'
+                        : 'text-slate-600 hover:bg-slate-100'
                   }`
                 }
               >
