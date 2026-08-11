@@ -71,8 +71,8 @@ export function TerminalNote() {
             <li key={link.href}>
               <a
                 href={link.href}
-                {...(link.newTab ? { target: '_blank', rel: 'noreferrer' } : {})}
                 className="text-sm text-indigo-600 outline-none hover:text-indigo-700 focus-visible:underline"
+                {...(link.newTab ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
               >
                 {link.label}
               </a>
